@@ -1,0 +1,85 @@
+{
+  "status": "ok",
+  "generatedAt": "2026-09-01T00:00:00Z",
+  "totalJobs": 6,
+  "jobs": [
+    {
+      "id": "gh-anthropic-01",
+      "title": "Research Engineer, Model Context & Agent Systems",
+      "company": "Anthropic",
+      "logo": "🧠",
+      "location": "San Francisco, CA / Remote",
+      "category": "ai",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/anthropic",
+      "updatedAt": "2026-08-30T12:00:00Z",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-vercel-02",
+      "title": "Staff Edge Infrastructure Engineer",
+      "company": "Vercel",
+      "logo": "▲",
+      "location": "Remote (Global)",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/vercel",
+      "updatedAt": "2026-08-30T10:00:00Z",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "ash-cursor-03",
+      "title": "AI Systems & IDE Compiler Engineer",
+      "company": "Cursor (Anysphere)",
+      "logo": "⚡",
+      "location": "San Francisco, CA / Hybrid",
+      "category": "ai",
+      "experienceLevel": "senior",
+      "atsType": "ashby",
+      "applyUrl": "https://jobs.ashbyhq.com/cursor",
+      "updatedAt": "2026-08-29T16:00:00Z",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "lev-spotify-04",
+      "title": "Senior Mobile Performance Engineer (Flutter/iOS)",
+      "company": "Spotify",
+      "logo": "🟢",
+      "location": "Stockholm, Sweden / Remote",
+      "category": "mobile",
+      "experienceLevel": "senior",
+      "atsType": "lever",
+      "applyUrl": "https://jobs.lever.co/spotify",
+      "updatedAt": "2026-08-29T14:00:00Z",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-dbt-05",
+      "title": "Lead Analytics Engineer & Data Architect",
+      "company": "dbt Labs",
+      "logo": "🟧",
+      "location": "Remote (US/Global)",
+      "category": "data",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/dbtlabs",
+      "updatedAt": "2026-08-28T18:00:00Z",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "lev-palantir-06",
+      "title": "Forward Deployed Software Engineer",
+      "company": "Palantir Technologies",
+      "logo": "⚔️",
+      "location": "London, UK / Global Deployment",
+      "category": "fde",
+      "experienceLevel": "senior",
+      "atsType": "lever",
+      "applyUrl": "https://jobs.lever.co/palantir",
+      "updatedAt": "2026-08-28T11:00:00Z",
+      "source": "Direct ATS"
+    }
+  ]
+}

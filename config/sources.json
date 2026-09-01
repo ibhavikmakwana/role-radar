@@ -1,0 +1,46 @@
+{
+  "greenhouse": [
+    { "slug": "anthropic", "company": "Anthropic", "logo": "🧠" },
+    { "slug": "scaleai", "company": "Scale AI", "logo": "⚡" },
+    { "slug": "vercel", "company": "Vercel", "logo": "▲" },
+    { "slug": "stripe", "company": "Stripe", "logo": "💳" },
+    { "slug": "figma", "company": "Figma", "logo": "🎨" },
+    { "slug": "datadog", "company": "Datadog", "logo": "🐶" },
+    { "slug": "discord", "company": "Discord", "logo": "💬" },
+    { "slug": "cloudflare", "company": "Cloudflare", "logo": "☁️" },
+    { "slug": "mongodb", "company": "MongoDB", "logo": "🍃" },
+    { "slug": "airtable", "company": "Airtable", "logo": "📊" },
+    { "slug": "roblox", "company": "Roblox", "logo": "🎮" },
+    { "slug": "databricks", "company": "Databricks", "logo": "🔷" },
+    { "slug": "gitlab", "company": "GitLab", "logo": "🦊" },
+    { "slug": "andurilindustries", "company": "Anduril", "logo": "🎯" },
+    { "slug": "brex", "company": "Brex", "logo": "💵" },
+    { "slug": "canonical", "company": "Canonical", "logo": "🐧" },
+    { "slug": "monzo", "company": "Monzo Bank", "logo": "🏦" },
+    { "slug": "dbtlabs", "company": "dbt Labs", "logo": "🟧" },
+    { "slug": "snowflake", "company": "Snowflake", "logo": "❄️" },
+    { "slug": "fivetran", "company": "Fivetran", "logo": "🔄" }
+  ],
+  "lever": [
+    { "slug": "palantir", "company": "Palantir Technologies", "logo": "⚔️" },
+    { "slug": "spotify", "company": "Spotify", "logo": "🟢" },
+    { "slug": "toptal", "company": "Toptal", "logo": "🔝" },
+    { "slug": "meesho", "company": "Meesho", "logo": "🛍️" },
+    { "slug": "cred", "company": "CRED", "logo": "💎" }
+  ],
+  "ashby": [
+    { "slug": "cursor", "company": "Cursor (Anysphere)", "logo": "⚡" },
+    { "slug": "perplexity", "company": "Perplexity AI", "logo": "🔍" },
+    { "slug": "elevenlabs", "company": "ElevenLabs", "logo": "🎙️" },
+    { "slug": "cohere", "company": "Cohere", "logo": "🌐" },
+    { "slug": "langchain", "company": "LangChain", "logo": "🦜" },
+    { "slug": "replit", "company": "Replit", "logo": "💻" },
+    { "slug": "supabase", "company": "Supabase", "logo": "⚡" },
+    { "slug": "linear", "company": "Linear", "logo": "📐" },
+    { "slug": "resend", "company": "Resend", "logo": "✉️" }
+  ],
+  "remoteApis": [
+    { "name": "Remotive", "type": "remotive", "url": "https://remotive.com/api/remote-jobs" },
+    { "name": "Jobicy", "type": "jobicy", "url": "https://jobicy.com/api/v2/remote-jobs" }
+  ]
+}

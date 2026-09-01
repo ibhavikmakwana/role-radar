@@ -1,0 +1,21 @@
+{
+  "site": {
+    "title": "RoleRadar",
+    "tagline": "The open-source real-time career discovery radar.",
+    "description": "Discover every role across engineering, design, product, AI, and operations — even the ones not defined yet.",
+    "defaultTheme": "dark",
+    "enableSemanticSearch": true,
+    "enableLiveAtsFetch": true,
+    "enableAtsSources": true,
+    "maxShortlistSize": 50
+  },
+  "categories": [
+    { "id": "all", "label": "All Roles" },
+    { "id": "ai", "label": "AI & LLM Systems" },
+    { "id": "engineering", "label": "Software Engineering" },
+    { "id": "mobile", "label": "Mobile & Flutter/iOS/Android" },
+    { "id": "data", "label": "Data & Analytics" },
+    { "id": "product", "label": "Product & Design" },
+    { "id": "fde", "label": "Forward Deployed & Solutions" }
+  ]
+}

@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>RoleRadar — The Open-Source Real-Time Career Discovery Radar</title>
+  <meta name="description" content="Discover every role across engineering, design, product, AI, operations, and emerging fields — even the ones not defined yet." />
+
+  <!-- Fonts & Icons -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&family=Space+Grotesk:wght@600;700&display=swap" rel="stylesheet" />
+  
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body class="theme-dark">
+  <!-- Top Global Navigation -->
+  <header class="radar-header">
+    <div class="header-container">
+      <div class="brand-group">
+        <div class="radar-logo-badge">🛰️</div>
+        <div>
+          <h1 class="brand-title">RoleRadar</h1>
+          <p class="brand-subtitle">Universal Open-Source Career Engine</p>
+        </div>
+      </div>
+
+      <div class="header-actions">
+        <span class="live-pill" id="live-indicator">
+          <span class="pulse-dot"></span>
+          <span id="total-jobs-count">-- ROLES SYNCED</span>
+        </span>
+
+        <button id="theme-toggle" class="btn-icon" title="Toggle Theme" aria-label="Toggle Theme">
+          🌓
+        </button>
+
+        <a href="https://github.com" target="_blank" rel="noopener noreferrer" class="btn-github">
+          ⭐ Star on GitHub
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Search & Filter Control Deck -->
+  <main class="radar-main">
+    <section class="control-deck">
+      <!-- Search Input with Keyboard Shortcut Indicator -->
+      <div class="search-box-wrapper">
+        <span class="search-icon">🔍</span>
+        <input
+          type="text"
+          id="role-search-input"
+          placeholder="Search any title, skill, or novel role (e.g. 'LLM Agent Architect', 'Rust', 'Product Lead')..."
+          autocomplete="off"
+        />
+        <kbd class="key-shortcut" title="Press / to focus search">/</kbd>
+      </div>
+
+      <!-- Category Filter Pills -->
+      <div class="filter-pills-row" id="category-filters">
+        <button class="pill active" data-cat="all">All Roles</button>
+        <button class="pill" data-cat="ai">AI &amp; LLM Systems</button>
+        <button class="pill" data-cat="engineering">Software Engineering</button>
+        <button class="pill" data-cat="mobile">Mobile &amp; Cross-Platform</button>
+        <button class="pill" data-cat="data">Data &amp; Analytics</button>
+        <button class="pill" data-cat="product">Product &amp; Design</button>
+        <button class="pill" data-cat="fde">Forward Deployed &amp; Solutions</button>
+      </div>
+    </section>
+
+    <!-- Novel Role Synthesizer Banner (Appears on custom/novel queries) -->
+    <div id="novel-role-banner" class="novel-banner" hidden>
+      <div class="novel-content">
+        <span class="novel-badge">🧠 Semantic Role Expansion</span>
+        <h3 id="novel-title" class="novel-heading">Novel Role Detected</h3>
+        <p id="novel-desc" class="novel-text"></p>
+      </div>
+    </div>
+
+    <!-- Active Feed Layout -->
+    <section class="feed-section">
+      <div class="feed-header">
+        <h2 id="feed-status-title" class="feed-title">Active Opportunities</h2>
+        <div class="feed-controls">
+          <button id="view-shortlist-btn" class="btn-subtle">
+            🔖 Shortlist (<span id="shortlist-count">0</span>)
+          </button>
+        </div>
+      </div>
+
+      <!-- Feed Grid -->
+      <div id="jobs-grid" class="jobs-grid">
+        <div class="loading-state">
+          <div class="spinner"></div>
+          <p>Syncing multi-ATS feeds...</p>
+        </div>
+      </div>
+
+      <!-- Empty State -->
+      <div id="empty-state" class="empty-state" hidden>
+        <div class="empty-icon">🛰️</div>
+        <h3>No exact postings found</h3>
+        <p>Try searching broader terms or check back when the next 6-hour cron sync completes.</p>
+      </div>
+    </section>
+  </main>
+
+  <!-- Footer -->
+  <footer class="radar-footer">
+    <div class="footer-container">
+      <p>RoleRadar is an open-source project released under the MIT License.</p>
+      <div class="footer-links">
+        <a href="https://github.com" target="_blank">GitHub Repository</a>
+        <span>·</span>
+        <a href="CONTRIBUTING.md">Add Your Company</a>
+        <span>·</span>
+        <a href="ARCHITECTURE.md">Architecture</a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
