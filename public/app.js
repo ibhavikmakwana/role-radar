@@ -1,6 +1,7 @@
 /**
  * RoleRadar - Universal Open-Source Job Discovery Engine
- * Multi-Screen Navigation, Cold Pitch Drafter, Companies Directory, Shortlist Manager & Semantic Novel Role Discovery.
+ * Multi-Screen Navigation, Cold Pitch Drafter, Companies Directory, Shortlist Manager,
+ * Semantic Novel Role Discovery & Real-Time Bidirectional URL State Sync.
  */
 
 (() => {
@@ -103,16 +104,122 @@
   const pitchMetaSource = document.getElementById('pitch-meta-source');
   const pitchMetaLevel = document.getElementById('pitch-meta-level');
 
-  // Initialize
+  // 1. Initial Load & URL State Hydration
   async function init() {
     loadTheme();
-    loadShortlistFromStorage();
+    loadStateFromUrl();
     setupEventListeners();
     renderCompanies();
     await fetchJobs();
   }
 
-  // 1. Data Ingestion
+  // 2. Bidirectional URL State Sync
+  function loadStateFromUrl() {
+    const params = new URLSearchParams(window.location.search);
+
+    // 1. Search query
+    if (params.has('q')) {
+      searchQuery = params.get('q') || '';
+      if (searchInput) searchInput.value = searchQuery;
+      if (searchClearBtn) searchClearBtn.hidden = !searchQuery;
+    }
+
+    // 2. Category
+    if (params.has('cat')) {
+      currentCategory = params.get('cat') || 'all';
+      if (categoriesBar) {
+        categoriesBar.querySelectorAll('.cat-pill').forEach((p) => {
+          p.classList.toggle('active', p.dataset.cat === currentCategory);
+        });
+      }
+    }
+
+    // 3. Sub-filter chips
+    if (params.has('chips')) {
+      const chipsArr = params.get('chips').split(',').filter(Boolean);
+      activeChips = new Set(chipsArr);
+      if (chipsGroup) {
+        chipsGroup.querySelectorAll('.chip-btn').forEach((c) => {
+          c.classList.toggle('active', activeChips.has(c.dataset.chip));
+        });
+      }
+    }
+
+    // 4. Screen tab
+    if (params.has('screen')) {
+      const scr = params.get('screen');
+      if (['jobs', 'companies', 'shortlist'].includes(scr)) {
+        currentScreen = scr;
+        switchScreen(currentScreen, false);
+      }
+    }
+
+    // 5. Shortlisted IDs from Hash or LocalStorage
+    const hash = window.location.hash;
+    if (hash.startsWith('#saved=')) {
+      const ids = hash.replace('#saved=', '').split(',').filter(Boolean);
+      shortlistedJobIds = new Set(ids);
+    } else {
+      try {
+        const stored = JSON.parse(localStorage.getItem('roleradar_shortlist') || '[]');
+        shortlistedJobIds = new Set(stored);
+      } catch {
+        shortlistedJobIds = new Set();
+      }
+    }
+  }
+
+  function syncUrlState() {
+    const params = new URLSearchParams();
+
+    if (searchQuery) {
+      params.set('q', searchQuery);
+    }
+    if (currentCategory && currentCategory !== 'all') {
+      params.set('cat', currentCategory);
+    }
+    if (activeChips.size > 0) {
+      params.set('chips', Array.from(activeChips).join(','));
+    }
+    if (currentScreen && currentScreen !== 'jobs') {
+      params.set('screen', currentScreen);
+    }
+    if (selectedJob && selectedJob.id) {
+      params.set('job', selectedJob.id);
+    }
+
+    const queryString = params.toString() ? `?${params.toString()}` : '';
+    const hashString = shortlistedJobIds.size > 0 ? `#saved=${Array.from(shortlistedJobIds).join(',')}` : '';
+    const newUrl = `${window.location.pathname}${queryString}${hashString}`;
+
+    history.replaceState(null, '', newUrl);
+
+    // Update the live share URL preview in the Shortlist tab
+    if (shareUrlPreview) {
+      shareUrlPreview.textContent = window.location.href;
+    }
+  }
+
+  // 3. Screen Switcher
+  function switchScreen(screenName, shouldSync = true) {
+    currentScreen = screenName;
+
+    if (screenNav) {
+      screenNav.querySelectorAll('.nav-btn').forEach((b) => {
+        b.classList.toggle('active', b.dataset.screen === currentScreen);
+      });
+    }
+
+    document.querySelectorAll('.screen-section').forEach((s) => s.classList.remove('active'));
+    const targetSection = document.getElementById(`screen-${currentScreen}`);
+    if (targetSection) targetSection.classList.add('active');
+
+    if (shouldSync) {
+      syncUrlState();
+    }
+  }
+
+  // 4. Data Ingestion
   async function fetchJobs() {
     try {
       let response;
@@ -138,14 +245,23 @@
 
       if (jobsLoading) jobsLoading.hidden = true;
 
-      // Select first job for pitch drafter default
-      if (allJobs.length > 0 && !selectedJob) {
-        selectedJob = allJobs[0];
-        updatePitchDrafter();
+      // Check URL for preselected job
+      const params = new URLSearchParams(window.location.search);
+      const urlJobId = params.get('job');
+      if (urlJobId) {
+        const found = allJobs.find((j) => j.id === urlJobId);
+        if (found) selectedJob = found;
       }
 
+      // Default to first job if none selected
+      if (allJobs.length > 0 && !selectedJob) {
+        selectedJob = allJobs[0];
+      }
+
+      updatePitchDrafter();
       renderFeed();
       renderShortlist();
+      syncUrlState();
     } catch (err) {
       console.error('[RoleRadar] Ingestion error:', err);
       if (jobsLoading) jobsLoading.hidden = true;
@@ -155,7 +271,7 @@
     }
   }
 
-  // 2. Feed Filtering & Rendering
+  // 5. Feed Filtering & Rendering
   function renderFeed() {
     if (!jobsFeedList) return;
 
@@ -182,7 +298,7 @@
         if (!job.atsType || job.atsType === 'generic') return false;
       }
 
-      // Search matching (Deep body title + company + location + category + level)
+      // Search matching (Deep body matching title + company + location + category + level)
       if (searchQuery) {
         const q = searchQuery.toLowerCase();
         const full = `${job.title} ${job.company} ${job.location || ''} ${job.category} ${job.experienceLevel || ''}`.toLowerCase();
@@ -239,7 +355,7 @@
       .join('');
   }
 
-  // 3. Novel Role Discovery Banner
+  // 6. Novel Role Discovery Banner
   function handleNovelRoleCheck(filtered) {
     if (!novelRoleBanner) return;
 
@@ -252,7 +368,7 @@
     }
   }
 
-  // 4. Cold Pitch Drafter Generation
+  // 7. Cold Pitch Drafter Generation
   function updatePitchDrafter() {
     if (!selectedJob) return;
 
@@ -315,7 +431,7 @@ Bhavik Makwana (github.com/ibhavikmakwana)`;
     return '';
   }
 
-  // 5. Companies Directory Rendering
+  // 8. Companies Directory Rendering
   function renderCompanies() {
     if (!companiesGrid) return;
 
@@ -337,7 +453,7 @@ Bhavik Makwana (github.com/ibhavikmakwana)`;
     `).join('');
   }
 
-  // 6. Shortlist Manager & Exports
+  // 9. Shortlist Manager & Exports
   function toggleShortlist(jobId) {
     if (shortlistedJobIds.has(jobId)) {
       shortlistedJobIds.delete(jobId);
@@ -346,6 +462,7 @@ Bhavik Makwana (github.com/ibhavikmakwana)`;
     }
 
     saveShortlistToStorage();
+    syncUrlState();
     renderFeed();
     renderShortlist();
   }
@@ -353,13 +470,6 @@ Bhavik Makwana (github.com/ibhavikmakwana)`;
   function renderShortlist() {
     if (navCountShortlist) {
       navCountShortlist.textContent = shortlistedJobIds.size;
-    }
-
-    if (shareUrlPreview) {
-      const ids = Array.from(shortlistedJobIds);
-      shareUrlPreview.textContent = ids.length > 0
-        ? `https://ibhavikmakwana.github.io/role-radar/#saved=${ids.join(',')}`
-        : `https://ibhavikmakwana.github.io/role-radar/ (No roles saved yet)`;
     }
 
     if (!shortlistFeedList) return;
@@ -422,29 +532,9 @@ Bhavik Makwana (github.com/ibhavikmakwana)`;
   function saveShortlistToStorage() {
     const ids = Array.from(shortlistedJobIds);
     localStorage.setItem('roleradar_shortlist', JSON.stringify(ids));
-    if (ids.length > 0) {
-      window.location.hash = `saved=${ids.join(',')}`;
-    } else {
-      history.replaceState(null, null, ' ');
-    }
   }
 
-  function loadShortlistFromStorage() {
-    const hash = window.location.hash;
-    if (hash.startsWith('#saved=')) {
-      const ids = hash.replace('#saved=', '').split(',').filter(Boolean);
-      shortlistedJobIds = new Set(ids);
-    } else {
-      try {
-        const stored = JSON.parse(localStorage.getItem('roleradar_shortlist') || '[]');
-        shortlistedJobIds = new Set(stored);
-      } catch {
-        shortlistedJobIds = new Set();
-      }
-    }
-  }
-
-  // 7. Theme Switcher
+  // 10. Theme Switcher
   function loadTheme() {
     const saved = localStorage.getItem('roleradar_theme') || 'dark';
     document.body.className = `theme-${saved}`;
@@ -457,21 +547,14 @@ Bhavik Makwana (github.com/ibhavikmakwana)`;
     localStorage.setItem('roleradar_theme', newTheme);
   }
 
-  // 8. Event Listeners & Navigation
+  // 11. Event Listeners
   function setupEventListeners() {
     // Screen Navigation
     if (screenNav) {
       screenNav.addEventListener('click', (e) => {
         const btn = e.target.closest('.nav-btn');
         if (!btn || !btn.dataset.screen) return;
-
-        screenNav.querySelectorAll('.nav-btn').forEach((b) => b.classList.remove('active'));
-        btn.classList.add('active');
-
-        currentScreen = btn.dataset.screen;
-        document.querySelectorAll('.screen-section').forEach((s) => s.classList.remove('active'));
-        const activeSec = document.getElementById(`screen-${currentScreen}`);
-        if (activeSec) activeSec.classList.add('active');
+        switchScreen(btn.dataset.screen, true);
       });
     }
 
@@ -480,6 +563,7 @@ Bhavik Makwana (github.com/ibhavikmakwana)`;
       searchInput.addEventListener('input', (e) => {
         searchQuery = e.target.value.trim();
         if (searchClearBtn) searchClearBtn.hidden = !searchQuery;
+        syncUrlState();
         renderFeed();
       });
     }
@@ -489,6 +573,7 @@ Bhavik Makwana (github.com/ibhavikmakwana)`;
         if (searchInput) searchInput.value = '';
         searchQuery = '';
         searchClearBtn.hidden = true;
+        syncUrlState();
         renderFeed();
       });
     }
@@ -503,6 +588,7 @@ Bhavik Makwana (github.com/ibhavikmakwana)`;
         pill.classList.add('active');
 
         currentCategory = pill.dataset.cat || 'all';
+        syncUrlState();
         renderFeed();
       });
     }
@@ -521,6 +607,7 @@ Bhavik Makwana (github.com/ibhavikmakwana)`;
           activeChips.add(key);
           chip.classList.add('active');
         }
+        syncUrlState();
         renderFeed();
       });
     }
@@ -540,6 +627,7 @@ Bhavik Makwana (github.com/ibhavikmakwana)`;
         if (chipsGroup) {
           chipsGroup.querySelectorAll('.chip-btn').forEach((c) => c.classList.remove('active'));
         }
+        syncUrlState();
         renderFeed();
       });
     }
@@ -563,6 +651,7 @@ Bhavik Makwana (github.com/ibhavikmakwana)`;
           document.querySelectorAll('.job-card').forEach((c) => c.classList.remove('active'));
           card.classList.add('active');
           updatePitchDrafter();
+          syncUrlState();
         }
       });
     }
@@ -614,7 +703,7 @@ Bhavik Makwana (github.com/ibhavikmakwana)`;
     document.getElementById('btn-copy-share')?.addEventListener('click', async () => {
       const btn = document.getElementById('btn-copy-share');
       try {
-        await navigator.clipboard.writeText(shareUrlPreview.textContent);
+        await navigator.clipboard.writeText(window.location.href);
         if (btn) {
           const orig = btn.textContent;
           btn.textContent = '✓ Link Copied!';
@@ -642,6 +731,14 @@ Bhavik Makwana (github.com/ibhavikmakwana)`;
           searchInput.blur();
         }
       }
+    });
+
+    // Popstate handling for browser forward/back buttons
+    window.addEventListener('popstate', () => {
+      loadStateFromUrl();
+      updatePitchDrafter();
+      renderFeed();
+      renderShortlist();
     });
   }
 
