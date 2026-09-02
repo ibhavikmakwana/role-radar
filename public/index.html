@@ -3,122 +3,221 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>RoleRadar — The Open-Source Real-Time Career Discovery Radar</title>
-  <meta name="description" content="Discover every role across engineering, design, product, AI, operations, and emerging fields — even the ones not defined yet." />
+  
+  <!-- Primary Meta Tags -->
+  <title>RoleRadar — Universal Open-Source Job Discovery Engine</title>
+  <meta name="title" content="RoleRadar — Universal Open-Source Job Discovery Engine" />
+  <meta name="description" content="Discover every role across engineering, AI, mobile, data, and emerging tech — even the ones not defined anywhere yet. Real-time multi-ATS discovery with built-in cold pitch drafter." />
+  <meta name="keywords" content="RoleRadar, Job Discovery Engine, Open Source Jobs, Forward Deployed Engineer jobs, AI Systems Engineer, ATS Aggregator, Bhavik Makwana" />
+  <meta name="author" content="Bhavik Makwana" />
+  <link rel="canonical" href="https://ibhavikmakwana.github.io/role-radar/" />
 
-  <!-- Fonts & Icons -->
+  <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&family=Space+Grotesk:wght@600;700&display=swap" rel="stylesheet" />
-  
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&family=Space+Grotesk:wght@600;700&display=swap" rel="stylesheet" />
+
+  <!-- Stylesheet -->
   <link rel="stylesheet" href="style.css" />
 </head>
 <body class="theme-dark">
-  <!-- Top Global Navigation -->
-  <header class="radar-header">
-    <div class="header-container">
-      <div class="brand-group">
-        <div class="radar-logo-badge">🛰️</div>
-        <div>
-          <h1 class="brand-title">RoleRadar</h1>
-          <p class="brand-subtitle">Universal Open-Source Career Engine</p>
+  <div class="app-root">
+
+    <!-- Sticky Navigation Header -->
+    <header class="app-header">
+      <div class="header-inner">
+        <!-- Brand & Live Indicator -->
+        <div class="header-brand">
+          <div class="brand-badge-icon">
+            <span class="brand-dot"></span>
+          </div>
+          <div>
+            <div class="brand-name">RoleRadar</div>
+            <div class="brand-status">
+              <span class="live-pulse"></span>
+              <span class="live-label" id="header-stat-jobs">LIVE · -- ROLES</span>
+            </div>
+          </div>
         </div>
-      </div>
 
-      <div class="header-actions">
-        <span class="live-pill" id="live-indicator">
-          <span class="pulse-dot"></span>
-          <span id="total-jobs-count">-- ROLES SYNCED</span>
-        </span>
+        <!-- Omnibar Search -->
+        <div class="header-search">
+          <span class="search-icon">🔍</span>
+          <input type="text" id="search-input" maxlength="100" placeholder="Search role, company, skill, novel role… (Press /)" autocomplete="off" />
+          <button id="search-clear-btn" class="search-clear-btn" hidden title="Clear search">&times;</button>
+          <kbd class="key-shortcut">/</kbd>
+        </div>
 
-        <button id="theme-toggle" class="btn-icon" title="Toggle Theme" aria-label="Toggle Theme">
-          🌓
-        </button>
-
-        <a href="https://github.com" target="_blank" rel="noopener noreferrer" class="btn-github">
-          ⭐ Star on GitHub
-        </a>
-      </div>
-    </div>
-  </header>
-
-  <!-- Main Search & Filter Control Deck -->
-  <main class="radar-main">
-    <section class="control-deck">
-      <!-- Search Input with Keyboard Shortcut Indicator -->
-      <div class="search-box-wrapper">
-        <span class="search-icon">🔍</span>
-        <input
-          type="text"
-          id="role-search-input"
-          placeholder="Search any title, skill, or novel role (e.g. 'LLM Agent Architect', 'Rust', 'Product Lead')..."
-          autocomplete="off"
-        />
-        <kbd class="key-shortcut" title="Press / to focus search">/</kbd>
-      </div>
-
-      <!-- Category Filter Pills -->
-      <div class="filter-pills-row" id="category-filters">
-        <button class="pill active" data-cat="all">All Roles</button>
-        <button class="pill" data-cat="ai">AI &amp; LLM Systems</button>
-        <button class="pill" data-cat="engineering">Software Engineering</button>
-        <button class="pill" data-cat="mobile">Mobile &amp; Cross-Platform</button>
-        <button class="pill" data-cat="data">Data &amp; Analytics</button>
-        <button class="pill" data-cat="product">Product &amp; Design</button>
-        <button class="pill" data-cat="fde">Forward Deployed &amp; Solutions</button>
-      </div>
-    </section>
-
-    <!-- Novel Role Synthesizer Banner (Appears on custom/novel queries) -->
-    <div id="novel-role-banner" class="novel-banner" hidden>
-      <div class="novel-content">
-        <span class="novel-badge">🧠 Semantic Role Expansion</span>
-        <h3 id="novel-title" class="novel-heading">Novel Role Detected</h3>
-        <p id="novel-desc" class="novel-text"></p>
-      </div>
-    </div>
-
-    <!-- Active Feed Layout -->
-    <section class="feed-section">
-      <div class="feed-header">
-        <h2 id="feed-status-title" class="feed-title">Active Opportunities</h2>
-        <div class="feed-controls">
-          <button id="view-shortlist-btn" class="btn-subtle">
-            🔖 Shortlist (<span id="shortlist-count">0</span>)
+        <!-- Screen Navigation Tabs -->
+        <nav class="header-nav" id="screen-nav">
+          <button class="nav-btn active" data-screen="jobs">
+            Feed <span class="nav-count" id="nav-count-feed">--</span>
           </button>
+          <button class="nav-btn" data-screen="companies">
+            Companies <span class="nav-count" id="nav-count-companies">16</span>
+          </button>
+          <button class="nav-btn" data-screen="shortlist">
+            Shortlist <span class="nav-count" id="nav-count-shortlist">0</span>
+          </button>
+          <button id="theme-toggle" class="btn-theme-toggle" title="Toggle Light / Dark Mode" aria-label="Toggle Theme">
+            🌓
+          </button>
+          <a href="https://github.com/ibhavikmakwana/role-radar" target="_blank" rel="noopener noreferrer" class="btn-github-star" title="Star RoleRadar on GitHub">
+            ⭐ Star on GitHub
+          </a>
+        </nav>
+      </div>
+    </header>
+
+    <!-- Main Content Container -->
+    <main class="app-main">
+
+      <!-- SCREEN 1: Jobs Feed -->
+      <section id="screen-jobs" class="screen-section active">
+        <!-- Category Filter Pills -->
+        <div class="categories-bar" id="categories-bar">
+          <button class="cat-pill active" data-cat="all">All Roles</button>
+          <button class="cat-pill" data-cat="ai">AI / ML Systems</button>
+          <button class="cat-pill" data-cat="fde">Forward Deployed</button>
+          <button class="cat-pill" data-cat="mobile">Mobile &amp; Flutter</button>
+          <button class="cat-pill" data-cat="data">Data &amp; Analytics</button>
+          <button class="cat-pill" data-cat="engineering">Engineering</button>
+          <button class="cat-pill" data-cat="solutions">Solutions &amp; Architecture</button>
+        </div>
+
+        <!-- Filter Chips Bar -->
+        <div class="filter-chips-bar">
+          <span class="filter-chips-label">FILTERS</span>
+          <div class="filter-chips-group" id="chips-group">
+            <button class="chip-btn" data-chip="fresher">Fresher 0–2 yrs</button>
+            <button class="chip-btn" data-chip="remote">Remote Only</button>
+            <button class="chip-btn" data-chip="senior">Senior / Lead</button>
+            <button class="chip-btn" data-chip="ats">Direct ATS Only</button>
+          </div>
+          <span class="result-counter" id="result-counter">Loading live roles...</span>
+        </div>
+
+        <!-- Novel Role Synthesizer Banner (Appears on custom/novel queries) -->
+        <div id="novel-role-banner" class="novel-banner" hidden>
+          <div class="novel-content">
+            <span class="novel-badge">🧠 Semantic Role Expansion</span>
+            <h3 id="novel-title" class="novel-heading">Novel Role Detected</h3>
+            <p id="novel-desc" class="novel-text"></p>
+          </div>
+        </div>
+
+        <!-- 2-Column Split Layout: Job Grid + Sticky Cold Pitch Drafter -->
+        <div class="jobs-layout-grid">
+          <!-- Left Column: Job Cards List -->
+          <div class="jobs-list-column">
+            <!-- Loading Indicator -->
+            <div id="jobs-loading" class="jobs-loading-indicator">
+              <div class="loading-spinner"></div>
+              <span>Syncing live ATS &amp; web feeds...</span>
+            </div>
+
+            <!-- Job Cards Stream -->
+            <div id="jobs-feed-list" class="jobs-feed-list">
+              <!-- Rendered dynamically -->
+            </div>
+
+            <!-- Empty Results State -->
+            <div id="jobs-empty-state" class="jobs-empty-state" hidden>
+              <p>No roles match these filters.</p>
+              <button id="btn-reset-filters" class="btn-text-action">Reset filters</button>
+            </div>
+          </div>
+
+          <!-- Right Column: Sticky Cold Pitch Drafter Aside -->
+          <aside class="pitch-sidebar-aside">
+            <div class="pitch-card-box">
+              <div class="pitch-card-header">
+                <div class="pitch-header-tag">COLD PITCH DRAFTER</div>
+                <h3 class="pitch-job-title" id="pitch-sel-title">Select a role</h3>
+                <div class="pitch-job-sub" id="pitch-sel-company">Click any job card to generate custom outreach</div>
+              </div>
+
+              <!-- Channel Switcher Tabs -->
+              <div class="pitch-channels-tabs" id="pitch-channel-tabs">
+                <button class="pitch-tab-btn active" data-channel="email">Email</button>
+                <button class="pitch-tab-btn" data-channel="manager">EM / Lead</button>
+                <button class="pitch-tab-btn" data-channel="linkedin">LinkedIn</button>
+                <button class="pitch-tab-btn" data-channel="x">X / Twitter</button>
+              </div>
+
+              <!-- Monospace Pitch Output Box -->
+              <div class="pitch-content-body">
+                <pre class="pitch-code-output" id="pitch-code-output"></pre>
+                
+                <div class="pitch-action-row">
+                  <button id="btn-copy-pitch" class="btn-copy-pitch">Copy pitch</button>
+                  <a id="link-pitch-apply" href="#" target="_blank" rel="noopener noreferrer" class="btn-pitch-apply">Apply Direct ↗</a>
+                </div>
+
+                <div class="pitch-meta-footer" id="pitch-meta-footer">
+                  <div id="pitch-meta-id">ID · --</div>
+                  <div id="pitch-meta-source">SOURCE · -- · direct ats</div>
+                  <div id="pitch-meta-level">LEVEL · --</div>
+                </div>
+              </div>
+            </div>
+          </aside>
+        </div>
+      </section>
+
+      <!-- SCREEN 2: Company Directory -->
+      <section id="screen-companies" class="screen-section" hidden>
+        <div class="section-title-wrap">
+          <h2 class="section-heading">Company Directory</h2>
+          <p class="section-desc">Leading technology, product, and AI engineering firms with active hiring pipelines.</p>
+        </div>
+        <div class="companies-grid" id="companies-grid">
+          <!-- Rendered dynamically -->
+        </div>
+      </section>
+
+      <!-- SCREEN 3: Shortlist Manager & Exports -->
+      <section id="screen-shortlist" class="screen-section" hidden>
+        <div class="shortlist-header-row">
+          <div>
+            <h2 class="section-heading">Shortlist &amp; Bookmarks</h2>
+            <p class="section-desc">Saved locally in your browser. Export or share the exact filter state with zero backend database.</p>
+          </div>
+          <div class="shortlist-actions-wrap">
+            <button id="btn-export-json" class="btn-export-outline">Export JSON</button>
+            <button id="btn-export-csv" class="btn-export-outline">Export CSV</button>
+            <button id="btn-copy-share" class="btn-share-solid">Copy share link</button>
+          </div>
+        </div>
+
+        <div class="share-url-preview" id="share-url-preview">https://ibhavikmakwana.github.io/role-radar/#saved=...</div>
+
+        <div class="shortlist-feed-list" id="shortlist-feed-list">
+          <!-- Rendered dynamically -->
+        </div>
+
+        <div id="shortlist-empty-state" class="jobs-empty-state" hidden>
+          <p>Nothing shortlisted yet. Click the bookmark icon (🔖) on any job card to save it.</p>
+        </div>
+      </section>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="app-footer">
+      <div class="footer-inner">
+        <p>RoleRadar · Open-Source Career Discovery Radar · Built by <a href="https://github.com/ibhavikmakwana" target="_blank" rel="noopener noreferrer">Bhavik Makwana</a></p>
+        <div class="footer-links">
+          <a href="https://github.com/ibhavikmakwana/role-radar" target="_blank" rel="noopener noreferrer">GitHub Repo</a>
+          <span>·</span>
+          <a href="https://github.com/ibhavikmakwana/role-radar/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener noreferrer">Add Company</a>
+          <span>·</span>
+          <a href="https://github.com/ibhavikmakwana/role-radar/blob/main/LICENSE" target="_blank" rel="noopener noreferrer">MIT License</a>
         </div>
       </div>
+    </footer>
 
-      <!-- Feed Grid -->
-      <div id="jobs-grid" class="jobs-grid">
-        <div class="loading-state">
-          <div class="spinner"></div>
-          <p>Syncing multi-ATS feeds...</p>
-        </div>
-      </div>
-
-      <!-- Empty State -->
-      <div id="empty-state" class="empty-state" hidden>
-        <div class="empty-icon">🛰️</div>
-        <h3>No exact postings found</h3>
-        <p>Try searching broader terms or check back when the next 6-hour cron sync completes.</p>
-      </div>
-    </section>
-  </main>
-
-  <!-- Footer -->
-  <footer class="radar-footer">
-    <div class="footer-container">
-      <p>RoleRadar is an open-source project released under the MIT License.</p>
-      <div class="footer-links">
-        <a href="https://github.com" target="_blank">GitHub Repository</a>
-        <span>·</span>
-        <a href="CONTRIBUTING.md">Add Your Company</a>
-        <span>·</span>
-        <a href="ARCHITECTURE.md">Architecture</a>
-      </div>
-    </div>
-  </footer>
+  </div>
 
   <script src="app.js"></script>
 </body>

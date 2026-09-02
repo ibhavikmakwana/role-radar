@@ -3,7 +3,8 @@
 > **The open-source real-time career discovery radar.** Discover every role across engineering, design, product, AI, operations, and emerging fields — even the ones not defined yet.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Deploy to GitHub Pages](https://img.shields.io/badge/Deploy-GitHub_Pages-black?logo=github)](https://github.com/)
+[![GitHub stars](https://img.shields.io/github/stars/ibhavikmakwana/role-radar?style=social)](https://github.com/ibhavikmakwana/role-radar)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-GitHub_Pages-black?logo=github)](https://ibhavikmakwana.github.io/role-radar/)
 [![Deploy to Cloudflare Pages](https://img.shields.io/badge/Deploy-Cloudflare_Pages-orange?logo=cloudflare)](https://pages.cloudflare.com/)
 
 ---
@@ -13,9 +14,11 @@
 - 🔍 **Universal Deep Search**: Full-text search across raw job descriptions, requirements, and responsibilities (not just titles).
 - 🧠 **Semantic Role Expander**: Finds adjacent and emerging roles even when titles haven't been standardized yet.
 - ⚡ **Direct ATS Connectors**: Queries Greenhouse, Lever, Ashby, and Remotive with zero intermediaries.
+- ✉️ **Interactive Cold Pitch Drafter**: Generates tailored outreach for Email, Engineering Managers, LinkedIn, and X/Twitter in 1 click.
+- 🏢 **Company Directory**: Curated tech and product firms with active hiring tracks.
+- 💾 **Shortlist & Multi-Format Exporter**: Bookmark roles, export as JSON or CSV, and share state via URL fragments.
 - 🌐 **100% Free Hosting (GitHub Pages First)**: Zero server costs, zero database maintenance, zero API keys required.
-- 💾 **URL-Hash Shortlist Sync**: Bookmark and share shortlists with a single link using compressed URL fragments.
-- ⌨️ **Keyboard-First Navigation**: Blazing fast `/` search, `J`/`K` navigation, and `S` bookmark shortcuts.
+- ⌨️ **Keyboard-First Navigation**: Blazing fast `/` search, `Escape` clear, and quick navigation shortcuts.
 - 🌓 **Space Black & Clean Paper Themes**: High-contrast, accessibility-tested WCAG AAA pro interface.
 
 ---
@@ -24,7 +27,7 @@
 
 ### Deploy to GitHub Pages (100% Free)
 
-1. **Fork** this repository.
+1. **[Fork this repository](https://github.com/ibhavikmakwana/role-radar/fork)**.
 2. Go to **Settings** > **Pages** > Set source to **GitHub Actions**.
 3. Under the **Actions** tab, manually trigger the **`RoleRadar Multi-ATS Scraper & Publish`** workflow once.
 4. Your personal live job radar is now live at `https://<your-username>.github.io/role-radar/`! It will automatically re-scrape every 6 hours.
@@ -52,7 +55,7 @@ Anyone can add their company's job board to RoleRadar in under 60 seconds!
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/role-radar.git
+git clone https://github.com/ibhavikmakwana/role-radar.git
 cd role-radar
 
 # Install scraper dependencies
