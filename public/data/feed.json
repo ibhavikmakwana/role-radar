@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-09-13T15:35:13.888285",
+  "generatedAt": "2026-09-13T20:17:27.282135",
   "totalJobs": 7907,
   "jobs": [
     {
@@ -11782,19 +11782,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8172510",
-      "title": "Abuse Investigator",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Seattle, San Francisco, New York City",
-      "category": "data",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8172510",
-      "updatedAt": "2026-09-10T13:11:58-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8172508",
       "title": "Abuse Investigator",
       "company": "Stripe",
@@ -11804,6 +11791,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8172508",
+      "updatedAt": "2026-09-10T13:11:58-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8172510",
+      "title": "Abuse Investigator",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Seattle, San Francisco, New York City",
+      "category": "data",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8172510",
       "updatedAt": "2026-09-10T13:11:58-04:00",
       "source": "Direct ATS"
     },
@@ -12081,19 +12081,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8075473",
-      "title": "Account Executive, Enterprise Platforms, Tier 2 Grower",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "San Francisco, CA",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8075473",
-      "updatedAt": "2026-09-10T13:11:58-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8041894",
       "title": "Account Executive, Enterprise Platforms, Tier 2 Grower",
       "company": "Stripe",
@@ -12116,6 +12103,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8138042",
+      "updatedAt": "2026-09-10T13:11:58-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8075473",
+      "title": "Account Executive, Enterprise Platforms, Tier 2 Grower",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "San Francisco, CA",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8075473",
       "updatedAt": "2026-09-10T13:11:58-04:00",
       "source": "Direct ATS"
     },
@@ -13069,19 +13069,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8195584",
-      "title": "Channel Sales Executive",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Dublin",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8195584",
-      "updatedAt": "2026-09-11T09:56:20-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8165273",
       "title": "Channel Sales Executive",
       "company": "Stripe",
@@ -13092,6 +13079,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8165273",
       "updatedAt": "2026-09-10T13:11:58-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8195584",
+      "title": "Channel Sales Executive",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Dublin",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8195584",
+      "updatedAt": "2026-09-11T09:56:20-04:00",
       "source": "Direct ATS"
     },
     {
@@ -13511,19 +13511,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8170772",
-      "title": "Customer Success Manager",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "London",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8170772",
-      "updatedAt": "2026-09-10T13:11:58-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8009536",
       "title": "Customer Success Manager",
       "company": "Stripe",
@@ -13533,6 +13520,19 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8009536",
+      "updatedAt": "2026-09-10T13:11:58-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8170772",
+      "title": "Customer Success Manager",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "London",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8170772",
       "updatedAt": "2026-09-10T13:11:58-04:00",
       "source": "Direct ATS"
     },
@@ -14382,19 +14382,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-7747640",
-      "title": "Forward Deployed AI Accelerator, Marketing",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Seattle, San Francisco",
-      "category": "fde",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=7747640",
-      "updatedAt": "2026-09-10T13:11:58-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8055930",
       "title": "Forward Deployed AI Accelerator, Marketing",
       "company": "Stripe",
@@ -14404,6 +14391,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8055930",
+      "updatedAt": "2026-09-10T13:11:58-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-7747640",
+      "title": "Forward Deployed AI Accelerator, Marketing",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Seattle, San Francisco",
+      "category": "fde",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=7747640",
       "updatedAt": "2026-09-10T13:11:58-04:00",
       "source": "Direct ATS"
     },
@@ -14486,19 +14486,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-7608396",
-      "title": "Fraud Operations Manager",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Bengaluru",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=7608396",
-      "updatedAt": "2026-09-10T13:11:58-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8175832",
       "title": "Fraud Operations Manager",
       "company": "Stripe",
@@ -14508,6 +14495,19 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8175832",
+      "updatedAt": "2026-09-10T13:11:58-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-7608396",
+      "title": "Fraud Operations Manager",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Bengaluru",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=7608396",
       "updatedAt": "2026-09-10T13:11:58-04:00",
       "source": "Direct ATS"
     },
@@ -14525,19 +14525,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-7685460",
-      "title": "Fraud Operations Team Lead",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Mexico City",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=7685460",
-      "updatedAt": "2026-09-10T13:11:58-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8063857",
       "title": "Fraud Operations Team Lead",
       "company": "Stripe",
@@ -14547,6 +14534,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8063857",
+      "updatedAt": "2026-09-10T13:11:58-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-7685460",
+      "title": "Fraud Operations Team Lead",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Mexico City",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=7685460",
       "updatedAt": "2026-09-10T13:11:58-04:00",
       "source": "Direct ATS"
     },
@@ -15500,19 +15500,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8137997",
-      "title": "Machine Learning Engineer",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "South San Francisco, CA",
-      "category": "ai",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8137997",
-      "updatedAt": "2026-09-10T13:11:58-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8014859",
       "title": "Machine Learning Engineer",
       "company": "Stripe",
@@ -15522,6 +15509,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8014859",
+      "updatedAt": "2026-09-10T13:11:58-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8137997",
+      "title": "Machine Learning Engineer",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "South San Francisco, CA",
+      "category": "ai",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8137997",
       "updatedAt": "2026-09-10T13:11:58-04:00",
       "source": "Direct ATS"
     },
@@ -15630,19 +15630,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-7896538",
-      "title": "Manager, Sales Development",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Chicago, Illinois",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=7896538",
-      "updatedAt": "2026-09-10T13:11:58-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-7337544",
       "title": "Manager, Sales Development",
       "company": "Stripe",
@@ -15652,6 +15639,19 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=7337544",
+      "updatedAt": "2026-09-10T13:11:58-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-7896538",
+      "title": "Manager, Sales Development",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Chicago, Illinois",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=7896538",
       "updatedAt": "2026-09-10T13:11:58-04:00",
       "source": "Direct ATS"
     },
@@ -15708,19 +15708,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8152136",
-      "title": "Manager, Technical Account Management",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "San Francisco or Seattle",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8152136",
-      "updatedAt": "2026-09-10T13:11:58-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-7767222",
       "title": "Manager, Technical Account Management",
       "company": "Stripe",
@@ -15730,6 +15717,19 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=7767222",
+      "updatedAt": "2026-09-10T13:11:58-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8154304",
+      "title": "Manager, Technical Account Management",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Toronto",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8154304",
       "updatedAt": "2026-09-10T13:11:58-04:00",
       "source": "Direct ATS"
     },
@@ -15747,15 +15747,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8154304",
+      "id": "gh-8152136",
       "title": "Manager, Technical Account Management",
       "company": "Stripe",
       "logo": "\ud83d\udcb3",
-      "location": "Toronto",
+      "location": "San Francisco or Seattle",
       "category": "engineering",
       "experienceLevel": "senior",
       "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8154304",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8152136",
       "updatedAt": "2026-09-10T13:11:58-04:00",
       "source": "Direct ATS"
     },
@@ -15838,19 +15838,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8021192",
-      "title": "Monetization Operations Analyst",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "IN - Bengaluru",
-      "category": "data",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8021192",
-      "updatedAt": "2026-09-10T13:11:58-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8109554",
       "title": "Monetization Operations Analyst",
       "company": "Stripe",
@@ -15860,6 +15847,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8109554",
+      "updatedAt": "2026-09-10T13:11:58-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8021192",
+      "title": "Monetization Operations Analyst",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "IN - Bengaluru",
+      "category": "data",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8021192",
       "updatedAt": "2026-09-10T13:11:58-04:00",
       "source": "Direct ATS"
     },
@@ -15955,19 +15955,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8011682",
-      "title": "Operations Associate - Managed Support (Includes Weekend Rotation)",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Mexico City",
-      "category": "engineering",
-      "experienceLevel": "entry",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8011682",
-      "updatedAt": "2026-09-10T13:11:58-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8093103",
       "title": "Operations Associate - Managed Support (Includes Weekend Rotation)",
       "company": "Stripe",
@@ -15977,6 +15964,19 @@
       "experienceLevel": "entry",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8093103",
+      "updatedAt": "2026-09-10T13:11:58-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8011682",
+      "title": "Operations Associate - Managed Support (Includes Weekend Rotation)",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Mexico City",
+      "category": "engineering",
+      "experienceLevel": "entry",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8011682",
       "updatedAt": "2026-09-10T13:11:58-04:00",
       "source": "Direct ATS"
     },
@@ -17515,19 +17515,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-6570253",
-      "title": "Sales Development Representative",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Chicago, Illinois",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=6570253",
-      "updatedAt": "2026-09-10T13:11:58-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-6470774",
       "title": "Sales Development Representative",
       "company": "Stripe",
@@ -17537,6 +17524,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=6470774",
+      "updatedAt": "2026-09-10T13:11:58-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-6570253",
+      "title": "Sales Development Representative",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Chicago, Illinois",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=6570253",
       "updatedAt": "2026-09-10T13:11:58-04:00",
       "source": "Direct ATS"
     },
@@ -17563,19 +17563,6 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=6570259",
-      "updatedAt": "2026-09-10T13:11:58-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8083685",
-      "title": "Sales Development Representative (Hebrew Fluency)",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Dublin",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8083685",
       "updatedAt": "2026-09-10T13:11:58-04:00",
       "source": "Direct ATS"
     },
@@ -18230,19 +18217,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8130867",
-      "title": "Software Engineer, Intern",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "London",
-      "category": "engineering",
-      "experienceLevel": "entry",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8130867",
-      "updatedAt": "2026-09-10T13:11:58-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8031833",
       "title": "Software Engineer, Intern",
       "company": "Stripe",
@@ -18252,6 +18226,19 @@
       "experienceLevel": "entry",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8031833",
+      "updatedAt": "2026-09-10T13:11:58-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8130867",
+      "title": "Software Engineer, Intern",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "London",
+      "category": "engineering",
+      "experienceLevel": "entry",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8130867",
       "updatedAt": "2026-09-10T13:11:58-04:00",
       "source": "Direct ATS"
     },
@@ -18282,6 +18269,19 @@
       "source": "Direct ATS"
     },
     {
+      "id": "gh-8130805",
+      "title": "Software Engineer, Intern (Summer or Winter)",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Toronto",
+      "category": "engineering",
+      "experienceLevel": "entry",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8130805",
+      "updatedAt": "2026-09-10T13:11:58-04:00",
+      "source": "Direct ATS"
+    },
+    {
       "id": "gh-8097801",
       "title": "Software Engineer, Intern (Summer or Winter)",
       "company": "Stripe",
@@ -18304,19 +18304,6 @@
       "experienceLevel": "entry",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8128745",
-      "updatedAt": "2026-09-10T13:11:58-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8130805",
-      "title": "Software Engineer, Intern (Summer or Winter)",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Toronto",
-      "category": "engineering",
-      "experienceLevel": "entry",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8130805",
       "updatedAt": "2026-09-10T13:11:58-04:00",
       "source": "Direct ATS"
     },
@@ -18360,19 +18347,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8130930",
-      "title": "Software Engineer, New Grad",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "London",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8130930",
-      "updatedAt": "2026-09-10T13:11:58-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8157838",
       "title": "Software Engineer, New Grad",
       "company": "Stripe",
@@ -18382,32 +18356,6 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8157838",
-      "updatedAt": "2026-09-10T13:11:58-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8128744",
-      "title": "Software Engineer, New Grad",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "San Francisco, Seattle, New York",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8128744",
-      "updatedAt": "2026-09-10T15:28:24-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8130922",
-      "title": "Software Engineer, New Grad",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Bucharest",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8130922",
       "updatedAt": "2026-09-10T13:11:58-04:00",
       "source": "Direct ATS"
     },
@@ -18425,6 +18373,19 @@
       "source": "Direct ATS"
     },
     {
+      "id": "gh-8130930",
+      "title": "Software Engineer, New Grad",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "London",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8130930",
+      "updatedAt": "2026-09-10T13:11:58-04:00",
+      "source": "Direct ATS"
+    },
+    {
       "id": "gh-8130881",
       "title": "Software Engineer, New Grad",
       "company": "Stripe",
@@ -18435,6 +18396,32 @@
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8130881",
       "updatedAt": "2026-09-10T13:11:58-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8130922",
+      "title": "Software Engineer, New Grad",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Bucharest",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8130922",
+      "updatedAt": "2026-09-10T13:11:58-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8128744",
+      "title": "Software Engineer, New Grad",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "San Francisco, Seattle, New York",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8128744",
+      "updatedAt": "2026-09-10T15:28:24-04:00",
       "source": "Direct ATS"
     },
     {
@@ -19101,19 +19088,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-7737526",
-      "title": "Staff Product Manager, Local Payment Methods Growth",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Dublin",
-      "category": "product",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=7737526",
-      "updatedAt": "2026-09-10T13:11:58-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8142649",
       "title": "Staff Product Manager, Local Payment Methods Growth",
       "company": "Stripe",
@@ -19123,6 +19097,19 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8142649",
+      "updatedAt": "2026-09-10T13:11:58-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-7737526",
+      "title": "Staff Product Manager, Local Payment Methods Growth",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Dublin",
+      "category": "product",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=7737526",
       "updatedAt": "2026-09-10T13:11:58-04:00",
       "source": "Direct ATS"
     },
@@ -19894,19 +19881,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8128011",
-      "title": "University Recruiter",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Dublin, London",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8128011",
-      "updatedAt": "2026-09-10T13:11:58-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8159355",
       "title": "University Recruiter",
       "company": "Stripe",
@@ -19916,6 +19890,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8159355",
+      "updatedAt": "2026-09-10T13:11:58-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8128011",
+      "title": "University Recruiter",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Dublin, London",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8128011",
       "updatedAt": "2026-09-10T13:11:58-04:00",
       "source": "Direct ATS"
     },
@@ -38558,7 +38545,7 @@
       "experienceLevel": "entry",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8143982?gh_jid=8143982",
-      "updatedAt": "2026-09-13T02:32:20-04:00",
+      "updatedAt": "2026-09-13T14:32:35-04:00",
       "source": "Direct ATS"
     },
     {
@@ -38571,7 +38558,7 @@
       "experienceLevel": "entry",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8143976?gh_jid=8143976",
-      "updatedAt": "2026-09-13T02:32:15-04:00",
+      "updatedAt": "2026-09-13T14:32:29-04:00",
       "source": "Direct ATS"
     },
     {
@@ -38584,7 +38571,7 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8072244?gh_jid=8072244",
-      "updatedAt": "2026-09-13T02:36:38-04:00",
+      "updatedAt": "2026-09-13T14:36:56-04:00",
       "source": "Direct ATS"
     },
     {
@@ -38597,7 +38584,7 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8171037?gh_jid=8171037",
-      "updatedAt": "2026-09-13T02:31:23-04:00",
+      "updatedAt": "2026-09-13T14:31:38-04:00",
       "source": "Direct ATS"
     },
     {
@@ -38610,7 +38597,7 @@
       "experienceLevel": "entry",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8120368?gh_jid=8120368",
-      "updatedAt": "2026-09-13T02:33:19-04:00",
+      "updatedAt": "2026-09-13T14:33:35-04:00",
       "source": "Direct ATS"
     },
     {
@@ -38623,7 +38610,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8167425?gh_jid=8167425",
-      "updatedAt": "2026-09-13T02:31:15-04:00",
+      "updatedAt": "2026-09-13T14:31:30-04:00",
       "source": "Direct ATS"
     },
     {
@@ -38636,7 +38623,7 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7856888?gh_jid=7856888",
-      "updatedAt": "2026-09-13T02:42:51-04:00",
+      "updatedAt": "2026-09-13T14:42:58-04:00",
       "source": "Direct ATS"
     },
     {
@@ -38649,7 +38636,7 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8047847?gh_jid=8047847",
-      "updatedAt": "2026-09-13T02:39:06-04:00",
+      "updatedAt": "2026-09-13T14:39:22-04:00",
       "source": "Direct ATS"
     },
     {
@@ -38662,7 +38649,7 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7826363?gh_jid=7826363",
-      "updatedAt": "2026-09-13T02:40:59-04:00",
+      "updatedAt": "2026-09-13T14:41:07-04:00",
       "source": "Direct ATS"
     },
     {
@@ -38740,7 +38727,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7911884?gh_jid=7911884",
-      "updatedAt": "2026-09-13T02:40:26-04:00",
+      "updatedAt": "2026-09-13T14:40:34-04:00",
       "source": "Direct ATS"
     },
     {
@@ -38753,7 +38740,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8029414?gh_jid=8029414",
-      "updatedAt": "2026-09-13T02:38:22-04:00",
+      "updatedAt": "2026-09-13T14:38:40-04:00",
       "source": "Direct ATS"
     },
     {
@@ -38766,7 +38753,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7604271?gh_jid=7604271",
-      "updatedAt": "2026-09-13T02:42:43-04:00",
+      "updatedAt": "2026-09-13T14:42:51-04:00",
       "source": "Direct ATS"
     },
     {
@@ -38779,7 +38766,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7719455?gh_jid=7719455",
-      "updatedAt": "2026-09-13T02:42:07-04:00",
+      "updatedAt": "2026-09-13T14:42:16-04:00",
       "source": "Direct ATS"
     },
     {
@@ -38792,7 +38779,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7832171?gh_jid=7832171",
-      "updatedAt": "2026-09-13T02:43:58-04:00",
+      "updatedAt": "2026-09-13T14:44:08-04:00",
       "source": "Direct ATS"
     },
     {
@@ -38805,7 +38792,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7913665?gh_jid=7913665",
-      "updatedAt": "2026-09-13T02:40:19-04:00",
+      "updatedAt": "2026-09-13T14:40:27-04:00",
       "source": "Direct ATS"
     },
     {
@@ -38818,7 +38805,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7332473?gh_jid=7332473",
-      "updatedAt": "2026-09-13T02:43:51-04:00",
+      "updatedAt": "2026-09-13T14:44:01-04:00",
       "source": "Direct ATS"
     },
     {
@@ -38831,7 +38818,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7931911?gh_jid=7931911",
-      "updatedAt": "2026-09-13T02:44:17-04:00",
+      "updatedAt": "2026-09-13T14:44:24-04:00",
       "source": "Direct ATS"
     },
     {
@@ -38844,7 +38831,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7940279?gh_jid=7940279",
-      "updatedAt": "2026-09-13T02:40:02-04:00",
+      "updatedAt": "2026-09-13T14:40:16-04:00",
       "source": "Direct ATS"
     },
     {
@@ -38857,7 +38844,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7655813?gh_jid=7655813",
-      "updatedAt": "2026-09-13T02:42:36-04:00",
+      "updatedAt": "2026-09-13T14:42:44-04:00",
       "source": "Direct ATS"
     },
     {
@@ -38870,7 +38857,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7887896?gh_jid=7887896",
-      "updatedAt": "2026-09-13T02:40:43-04:00",
+      "updatedAt": "2026-09-13T14:40:52-04:00",
       "source": "Direct ATS"
     },
     {
@@ -38883,7 +38870,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8036430?gh_jid=8036430",
-      "updatedAt": "2026-09-13T02:42:26-04:00",
+      "updatedAt": "2026-09-13T14:42:35-04:00",
       "source": "Direct ATS"
     },
     {
@@ -38896,7 +38883,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7905464?gh_jid=7905464",
-      "updatedAt": "2026-09-13T02:40:21-04:00",
+      "updatedAt": "2026-09-13T14:40:30-04:00",
       "source": "Direct ATS"
     },
     {
@@ -38909,7 +38896,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8090079?gh_jid=8090079",
-      "updatedAt": "2026-09-13T02:34:39-04:00",
+      "updatedAt": "2026-09-13T14:34:57-04:00",
       "source": "Direct ATS"
     },
     {
@@ -38922,7 +38909,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7901793?gh_jid=7901793",
-      "updatedAt": "2026-09-13T02:40:48-04:00",
+      "updatedAt": "2026-09-13T14:40:56-04:00",
       "source": "Direct ATS"
     },
     {
@@ -38935,7 +38922,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8099956?gh_jid=8099956",
-      "updatedAt": "2026-09-13T02:34:04-04:00",
+      "updatedAt": "2026-09-13T14:34:22-04:00",
       "source": "Direct ATS"
     },
     {
@@ -38948,7 +38935,7 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7778939?gh_jid=7778939",
-      "updatedAt": "2026-09-13T02:41:43-04:00",
+      "updatedAt": "2026-09-13T14:41:51-04:00",
       "source": "Direct ATS"
     },
     {
@@ -38961,7 +38948,7 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7977161?gh_jid=7977161",
-      "updatedAt": "2026-09-13T02:39:48-04:00",
+      "updatedAt": "2026-09-13T14:40:03-04:00",
       "source": "Direct ATS"
     },
     {
@@ -38987,7 +38974,7 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7944233?gh_jid=7944233",
-      "updatedAt": "2026-09-13T02:40:11-04:00",
+      "updatedAt": "2026-09-13T14:40:18-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39000,7 +38987,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8077671?gh_jid=8077671",
-      "updatedAt": "2026-09-13T02:37:17-04:00",
+      "updatedAt": "2026-09-13T14:37:35-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39013,7 +39000,7 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8097774?gh_jid=8097774",
-      "updatedAt": "2026-09-13T02:36:14-04:00",
+      "updatedAt": "2026-09-13T14:36:32-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39026,7 +39013,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8164394?gh_jid=8164394",
-      "updatedAt": "2026-09-13T02:31:31-04:00",
+      "updatedAt": "2026-09-13T14:31:46-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39039,7 +39026,7 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8171128?gh_jid=8171128",
-      "updatedAt": "2026-09-13T02:31:13-04:00",
+      "updatedAt": "2026-09-13T14:31:28-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39052,7 +39039,7 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8047865?gh_jid=8047865",
-      "updatedAt": "2026-09-13T02:40:15-04:00",
+      "updatedAt": "2026-09-13T14:40:23-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39065,7 +39052,7 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8070037?gh_jid=8070037",
-      "updatedAt": "2026-09-13T02:37:41-04:00",
+      "updatedAt": "2026-09-13T14:37:57-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39078,7 +39065,7 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8107204?gh_jid=8107204",
-      "updatedAt": "2026-09-13T02:33:49-04:00",
+      "updatedAt": "2026-09-13T14:34:07-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39091,7 +39078,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7813041?gh_jid=7813041",
-      "updatedAt": "2026-09-13T02:41:16-04:00",
+      "updatedAt": "2026-09-13T14:41:25-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39104,7 +39091,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7808741?gh_jid=7808741",
-      "updatedAt": "2026-09-13T02:41:22-04:00",
+      "updatedAt": "2026-09-13T14:41:31-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39117,7 +39104,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8143149?gh_jid=8143149",
-      "updatedAt": "2026-09-13T02:32:10-04:00",
+      "updatedAt": "2026-09-13T14:32:25-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39130,7 +39117,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7965517?gh_jid=7965517",
-      "updatedAt": "2026-09-13T02:40:34-04:00",
+      "updatedAt": "2026-09-13T14:40:43-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39143,7 +39130,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7921673?gh_jid=7921673",
-      "updatedAt": "2026-09-13T02:40:36-04:00",
+      "updatedAt": "2026-09-13T14:40:45-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39195,7 +39182,7 @@
       "experienceLevel": "entry",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8148344?gh_jid=8148344",
-      "updatedAt": "2026-09-13T02:32:54-04:00",
+      "updatedAt": "2026-09-13T14:33:11-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39208,7 +39195,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7629489?gh_jid=7629489",
-      "updatedAt": "2026-09-13T02:42:53-04:00",
+      "updatedAt": "2026-09-13T14:43:01-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39221,7 +39208,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7834163?gh_jid=7834163",
-      "updatedAt": "2026-09-13T02:41:11-04:00",
+      "updatedAt": "2026-09-13T14:41:20-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39234,7 +39221,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8025477?gh_jid=8025477",
-      "updatedAt": "2026-09-13T02:38:00-04:00",
+      "updatedAt": "2026-09-13T14:38:18-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39247,7 +39234,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8052466?gh_jid=8052466",
-      "updatedAt": "2026-09-13T02:37:08-04:00",
+      "updatedAt": "2026-09-13T14:37:26-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39260,7 +39247,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8187377?gh_jid=8187377",
-      "updatedAt": "2026-09-13T02:30:29-04:00",
+      "updatedAt": "2026-09-13T14:30:43-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39273,7 +39260,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8073283?gh_jid=8073283",
-      "updatedAt": "2026-09-13T02:35:19-04:00",
+      "updatedAt": "2026-09-13T14:35:38-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39286,7 +39273,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7629843?gh_jid=7629843",
-      "updatedAt": "2026-09-13T02:42:48-04:00",
+      "updatedAt": "2026-09-13T14:42:56-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39299,7 +39286,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7351202?gh_jid=7351202",
-      "updatedAt": "2026-09-13T02:43:46-04:00",
+      "updatedAt": "2026-09-13T14:43:56-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39312,7 +39299,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7872401?gh_jid=7872401",
-      "updatedAt": "2026-09-13T02:40:56-04:00",
+      "updatedAt": "2026-09-13T14:41:04-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39325,7 +39312,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7645403?gh_jid=7645403",
-      "updatedAt": "2026-09-13T02:42:38-04:00",
+      "updatedAt": "2026-09-13T14:42:47-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39338,7 +39325,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8192327?gh_jid=8192327",
-      "updatedAt": "2026-09-13T02:42:38-04:00",
+      "updatedAt": "2026-09-13T14:42:47-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39351,7 +39338,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8106059?gh_jid=8106059",
-      "updatedAt": "2026-09-13T02:33:53-04:00",
+      "updatedAt": "2026-09-13T14:34:11-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39364,7 +39351,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8036287?gh_jid=8036287",
-      "updatedAt": "2026-09-13T02:39:35-04:00",
+      "updatedAt": "2026-09-13T14:39:50-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39377,7 +39364,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7789332?gh_jid=7789332",
-      "updatedAt": "2026-09-13T02:41:18-04:00",
+      "updatedAt": "2026-09-13T14:41:27-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39390,7 +39377,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7983905?gh_jid=7983905",
-      "updatedAt": "2026-09-13T02:41:52-04:00",
+      "updatedAt": "2026-09-13T14:42:01-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39403,7 +39390,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8099958?gh_jid=8099958",
-      "updatedAt": "2026-09-13T02:34:06-04:00",
+      "updatedAt": "2026-09-13T14:34:24-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39429,7 +39416,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8017415?gh_jid=8017415",
-      "updatedAt": "2026-09-13T02:44:12-04:00",
+      "updatedAt": "2026-09-13T14:44:19-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39442,7 +39429,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7744272?gh_jid=7744272",
-      "updatedAt": "2026-09-13T02:42:33-04:00",
+      "updatedAt": "2026-09-13T14:42:42-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39455,7 +39442,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8013437?gh_jid=8013437",
-      "updatedAt": "2026-09-13T02:39:11-04:00",
+      "updatedAt": "2026-09-13T14:39:26-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39481,7 +39468,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7983990?gh_jid=7983990",
-      "updatedAt": "2026-09-13T02:38:52-04:00",
+      "updatedAt": "2026-09-13T14:39:09-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39494,7 +39481,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8024627?gh_jid=8024627",
-      "updatedAt": "2026-09-13T02:39:04-04:00",
+      "updatedAt": "2026-09-13T14:39:20-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39507,7 +39494,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7650307?gh_jid=7650307",
-      "updatedAt": "2026-09-13T02:42:45-04:00",
+      "updatedAt": "2026-09-13T14:42:54-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39520,7 +39507,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7740153?gh_jid=7740153",
-      "updatedAt": "2026-09-13T02:42:19-04:00",
+      "updatedAt": "2026-09-13T14:42:28-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39546,7 +39533,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8029695?gh_jid=8029695",
-      "updatedAt": "2026-09-13T02:38:55-04:00",
+      "updatedAt": "2026-09-13T14:39:11-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39559,7 +39546,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7991993?gh_jid=7991993",
-      "updatedAt": "2026-09-13T02:39:41-04:00",
+      "updatedAt": "2026-09-13T14:39:57-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39572,7 +39559,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8036223?gh_jid=8036223",
-      "updatedAt": "2026-09-13T02:43:56-04:00",
+      "updatedAt": "2026-09-13T14:44:06-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39598,7 +39585,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7978492?gh_jid=7978492",
-      "updatedAt": "2026-09-13T02:39:01-04:00",
+      "updatedAt": "2026-09-13T14:39:18-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39611,7 +39598,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7998366?gh_jid=7998366",
-      "updatedAt": "2026-09-13T02:39:26-04:00",
+      "updatedAt": "2026-09-13T14:39:42-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39637,7 +39624,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8084445?gh_jid=8084445",
-      "updatedAt": "2026-09-13T02:39:26-04:00",
+      "updatedAt": "2026-09-13T14:39:42-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39663,7 +39650,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7545955?gh_jid=7545955",
-      "updatedAt": "2026-09-13T02:39:50-04:00",
+      "updatedAt": "2026-09-13T14:40:05-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39676,7 +39663,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8036680?gh_jid=8036680",
-      "updatedAt": "2026-09-13T02:43:17-04:00",
+      "updatedAt": "2026-09-13T14:43:25-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39689,7 +39676,7 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8172233?gh_jid=8172233",
-      "updatedAt": "2026-09-13T02:31:03-04:00",
+      "updatedAt": "2026-09-13T14:31:17-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39702,7 +39689,7 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8069989?gh_jid=8069989",
-      "updatedAt": "2026-09-13T02:37:20-04:00",
+      "updatedAt": "2026-09-13T14:37:37-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39715,7 +39702,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7779120?gh_jid=7779120",
-      "updatedAt": "2026-09-13T02:42:05-04:00",
+      "updatedAt": "2026-09-13T14:42:14-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39728,7 +39715,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7951971?gh_jid=7951971",
-      "updatedAt": "2026-09-13T02:39:39-04:00",
+      "updatedAt": "2026-09-13T14:39:54-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39741,7 +39728,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8139492?gh_jid=8139492",
-      "updatedAt": "2026-09-13T02:32:34-04:00",
+      "updatedAt": "2026-09-13T14:32:50-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39754,7 +39741,7 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8070027?gh_jid=8070027",
-      "updatedAt": "2026-09-13T02:36:51-04:00",
+      "updatedAt": "2026-09-13T14:37:08-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39767,7 +39754,7 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8069987?gh_jid=8069987",
-      "updatedAt": "2026-09-13T02:36:49-04:00",
+      "updatedAt": "2026-09-13T14:37:06-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39780,7 +39767,7 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8070025?gh_jid=8070025",
-      "updatedAt": "2026-09-13T02:36:47-04:00",
+      "updatedAt": "2026-09-13T14:37:04-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39806,7 +39793,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8171039?gh_jid=8171039",
-      "updatedAt": "2026-09-13T02:31:25-04:00",
+      "updatedAt": "2026-09-13T14:31:40-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39819,7 +39806,7 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7807813?gh_jid=7807813",
-      "updatedAt": "2026-09-13T02:41:50-04:00",
+      "updatedAt": "2026-09-13T14:41:58-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39832,7 +39819,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7997039?gh_jid=7997039",
-      "updatedAt": "2026-09-13T02:38:44-04:00",
+      "updatedAt": "2026-09-13T14:39:00-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39845,7 +39832,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8180852?gh_jid=8180852",
-      "updatedAt": "2026-09-13T02:30:44-04:00",
+      "updatedAt": "2026-09-13T14:30:58-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39858,7 +39845,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8172297?gh_jid=8172297",
-      "updatedAt": "2026-09-13T02:31:01-04:00",
+      "updatedAt": "2026-09-13T14:31:15-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39871,7 +39858,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8127054?gh_jid=8127054",
-      "updatedAt": "2026-09-13T02:33:00-04:00",
+      "updatedAt": "2026-09-13T14:33:17-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39884,7 +39871,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7977682?gh_jid=7977682",
-      "updatedAt": "2026-09-13T02:39:23-04:00",
+      "updatedAt": "2026-09-13T14:39:39-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39910,7 +39897,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8070890?gh_jid=8070890",
-      "updatedAt": "2026-09-13T02:35:25-04:00",
+      "updatedAt": "2026-09-13T14:35:44-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39923,7 +39910,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8131695?gh_jid=8131695",
-      "updatedAt": "2026-09-13T02:32:38-04:00",
+      "updatedAt": "2026-09-13T14:32:54-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39936,7 +39923,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8082263?gh_jid=8082263",
-      "updatedAt": "2026-09-13T02:35:03-04:00",
+      "updatedAt": "2026-09-13T14:35:23-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39949,7 +39936,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8168155?gh_jid=8168155",
-      "updatedAt": "2026-09-13T02:31:09-04:00",
+      "updatedAt": "2026-09-13T14:31:24-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39962,7 +39949,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8174830?gh_jid=8174830",
-      "updatedAt": "2026-09-13T02:31:05-04:00",
+      "updatedAt": "2026-09-13T14:31:20-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39975,7 +39962,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8161954?gh_jid=8161954",
-      "updatedAt": "2026-09-13T02:31:33-04:00",
+      "updatedAt": "2026-09-13T14:31:48-04:00",
       "source": "Direct ATS"
     },
     {
@@ -39988,7 +39975,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8055512?gh_jid=8055512",
-      "updatedAt": "2026-09-13T02:37:04-04:00",
+      "updatedAt": "2026-09-13T14:37:21-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40001,7 +39988,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8030839?gh_jid=8030839",
-      "updatedAt": "2026-09-13T02:42:14-04:00",
+      "updatedAt": "2026-09-13T14:42:23-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40014,7 +40001,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8077261?gh_jid=8077261",
-      "updatedAt": "2026-09-13T02:35:13-04:00",
+      "updatedAt": "2026-09-13T14:35:32-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40040,7 +40027,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8011015?gh_jid=8011015",
-      "updatedAt": "2026-09-13T02:39:44-04:00",
+      "updatedAt": "2026-09-13T14:39:59-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40053,7 +40040,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8164933?gh_jid=8164933",
-      "updatedAt": "2026-09-13T02:31:52-04:00",
+      "updatedAt": "2026-09-13T14:32:07-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40066,7 +40053,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7760129?gh_jid=7760129",
-      "updatedAt": "2026-09-13T02:41:58-04:00",
+      "updatedAt": "2026-09-13T14:42:07-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40079,7 +40066,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7396342?gh_jid=7396342",
-      "updatedAt": "2026-09-13T02:43:40-04:00",
+      "updatedAt": "2026-09-13T14:43:49-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40105,7 +40092,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8140565?gh_jid=8140565",
-      "updatedAt": "2026-09-13T02:32:40-04:00",
+      "updatedAt": "2026-09-13T14:32:56-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40118,7 +40105,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8055450?gh_jid=8055450",
-      "updatedAt": "2026-09-13T02:37:06-04:00",
+      "updatedAt": "2026-09-13T14:37:23-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40144,7 +40131,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7463674?gh_jid=7463674",
-      "updatedAt": "2026-09-13T02:43:29-04:00",
+      "updatedAt": "2026-09-13T14:43:37-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40157,7 +40144,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7947153?gh_jid=7947153",
-      "updatedAt": "2026-09-13T02:43:29-04:00",
+      "updatedAt": "2026-09-13T14:43:37-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40183,7 +40170,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7351220?gh_jid=7351220",
-      "updatedAt": "2026-09-13T02:43:26-04:00",
+      "updatedAt": "2026-09-13T14:43:34-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40196,7 +40183,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8047877?gh_jid=8047877",
-      "updatedAt": "2026-09-13T02:41:34-04:00",
+      "updatedAt": "2026-09-13T14:41:42-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40209,7 +40196,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8103714?gh_jid=8103714",
-      "updatedAt": "2026-09-13T02:34:01-04:00",
+      "updatedAt": "2026-09-13T14:34:20-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40222,7 +40209,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8070888?gh_jid=8070888",
-      "updatedAt": "2026-09-13T02:35:23-04:00",
+      "updatedAt": "2026-09-13T14:35:42-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40235,7 +40222,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8107208?gh_jid=8107208",
-      "updatedAt": "2026-09-13T02:33:59-04:00",
+      "updatedAt": "2026-09-13T14:34:17-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40248,7 +40235,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8027755?gh_jid=8027755",
-      "updatedAt": "2026-09-13T02:38:16-04:00",
+      "updatedAt": "2026-09-13T14:38:33-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40261,7 +40248,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8094717?gh_jid=8094717",
-      "updatedAt": "2026-09-13T02:34:26-04:00",
+      "updatedAt": "2026-09-13T14:34:42-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40274,7 +40261,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8022674?gh_jid=8022674",
-      "updatedAt": "2026-09-13T02:38:03-04:00",
+      "updatedAt": "2026-09-13T14:38:20-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40287,7 +40274,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8094661?gh_jid=8094661",
-      "updatedAt": "2026-09-13T02:34:33-04:00",
+      "updatedAt": "2026-09-13T14:34:50-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40300,7 +40287,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8068678?gh_jid=8068678",
-      "updatedAt": "2026-09-13T02:36:16-04:00",
+      "updatedAt": "2026-09-13T14:36:34-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40313,7 +40300,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8035873?gh_jid=8035873",
-      "updatedAt": "2026-09-13T02:39:57-04:00",
+      "updatedAt": "2026-09-13T14:40:12-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40326,7 +40313,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7839534?gh_jid=7839534",
-      "updatedAt": "2026-09-13T02:41:41-04:00",
+      "updatedAt": "2026-09-13T14:41:49-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40339,7 +40326,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7994532?gh_jid=7994532",
-      "updatedAt": "2026-09-13T02:42:17-04:00",
+      "updatedAt": "2026-09-13T14:42:25-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40352,7 +40339,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8127058?gh_jid=8127058",
-      "updatedAt": "2026-09-13T02:33:57-04:00",
+      "updatedAt": "2026-09-13T14:34:15-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40365,7 +40352,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7701911?gh_jid=7701911",
-      "updatedAt": "2026-09-13T02:38:41-04:00",
+      "updatedAt": "2026-09-13T14:38:57-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40378,7 +40365,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7997195?gh_jid=7997195",
-      "updatedAt": "2026-09-13T02:39:53-04:00",
+      "updatedAt": "2026-09-13T14:40:08-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40391,7 +40378,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8111889?gh_jid=8111889",
-      "updatedAt": "2026-09-13T02:34:43-04:00",
+      "updatedAt": "2026-09-13T14:35:01-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40404,7 +40391,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8037805?gh_jid=8037805",
-      "updatedAt": "2026-09-13T02:42:57-04:00",
+      "updatedAt": "2026-09-13T14:43:05-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40417,7 +40404,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8056346?gh_jid=8056346",
-      "updatedAt": "2026-09-13T02:37:02-04:00",
+      "updatedAt": "2026-09-13T14:37:19-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40430,7 +40417,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7896293?gh_jid=7896293",
-      "updatedAt": "2026-09-13T02:40:45-04:00",
+      "updatedAt": "2026-09-13T14:40:54-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40443,7 +40430,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8016408?gh_jid=8016408",
-      "updatedAt": "2026-09-13T02:38:18-04:00",
+      "updatedAt": "2026-09-13T14:38:35-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40456,7 +40443,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7896061?gh_jid=7896061",
-      "updatedAt": "2026-09-13T02:41:45-04:00",
+      "updatedAt": "2026-09-13T14:41:54-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40469,7 +40456,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7922649?gh_jid=7922649",
-      "updatedAt": "2026-09-13T02:39:55-04:00",
+      "updatedAt": "2026-09-13T14:40:10-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40482,7 +40469,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8148679?gh_jid=8148679",
-      "updatedAt": "2026-09-13T02:31:59-04:00",
+      "updatedAt": "2026-09-13T14:32:15-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40495,7 +40482,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8042554?gh_jid=8042554",
-      "updatedAt": "2026-09-13T02:37:43-04:00",
+      "updatedAt": "2026-09-13T14:37:59-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40508,7 +40495,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8131354?gh_jid=8131354",
-      "updatedAt": "2026-09-13T02:32:42-04:00",
+      "updatedAt": "2026-09-13T14:32:59-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40521,7 +40508,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8092905?gh_jid=8092905",
-      "updatedAt": "2026-09-13T02:36:12-04:00",
+      "updatedAt": "2026-09-13T14:36:30-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40534,7 +40521,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7655780?gh_jid=7655780",
-      "updatedAt": "2026-09-13T02:42:21-04:00",
+      "updatedAt": "2026-09-13T14:42:30-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40547,7 +40534,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8011079?gh_jid=8011079",
-      "updatedAt": "2026-09-13T02:38:30-04:00",
+      "updatedAt": "2026-09-13T14:38:47-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40560,7 +40547,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7698330?gh_jid=7698330",
-      "updatedAt": "2026-09-13T02:42:40-04:00",
+      "updatedAt": "2026-09-13T14:42:49-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40573,7 +40560,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7360413?gh_jid=7360413",
-      "updatedAt": "2026-09-13T02:42:30-04:00",
+      "updatedAt": "2026-09-13T14:42:40-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40586,7 +40573,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8047823?gh_jid=8047823",
-      "updatedAt": "2026-09-13T02:37:58-04:00",
+      "updatedAt": "2026-09-13T14:38:15-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40599,7 +40586,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7540219?gh_jid=7540219",
-      "updatedAt": "2026-09-13T02:44:14-04:00",
+      "updatedAt": "2026-09-13T14:44:22-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40625,7 +40612,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7545202?gh_jid=7545202",
-      "updatedAt": "2026-09-13T02:43:20-04:00",
+      "updatedAt": "2026-09-13T14:43:28-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40638,7 +40625,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8047817?gh_jid=8047817",
-      "updatedAt": "2026-09-13T02:37:45-04:00",
+      "updatedAt": "2026-09-13T14:38:02-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40651,7 +40638,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8025510?gh_jid=8025510",
-      "updatedAt": "2026-09-13T02:42:30-04:00",
+      "updatedAt": "2026-09-13T14:42:40-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40664,7 +40651,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8036535?gh_jid=8036535",
-      "updatedAt": "2026-09-13T02:41:07-04:00",
+      "updatedAt": "2026-09-13T14:41:15-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40677,7 +40664,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8056362?gh_jid=8056362",
-      "updatedAt": "2026-09-13T02:37:00-04:00",
+      "updatedAt": "2026-09-13T14:37:16-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40690,7 +40677,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8089039?gh_jid=8089039",
-      "updatedAt": "2026-09-13T02:34:42-04:00",
+      "updatedAt": "2026-09-13T14:34:59-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40703,7 +40690,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8094470?gh_jid=8094470",
-      "updatedAt": "2026-09-13T02:34:35-04:00",
+      "updatedAt": "2026-09-13T14:34:52-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40716,7 +40703,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8160843?gh_jid=8160843",
-      "updatedAt": "2026-09-13T02:34:11-04:00",
+      "updatedAt": "2026-09-13T14:34:27-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40729,7 +40716,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8079797?gh_jid=8079797",
-      "updatedAt": "2026-09-13T02:35:09-04:00",
+      "updatedAt": "2026-09-13T14:35:29-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40742,7 +40729,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8036724?gh_jid=8036724",
-      "updatedAt": "2026-09-13T02:40:54-04:00",
+      "updatedAt": "2026-09-13T14:41:02-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40755,7 +40742,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8079799?gh_jid=8079799",
-      "updatedAt": "2026-09-13T02:35:11-04:00",
+      "updatedAt": "2026-09-13T14:35:30-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40781,7 +40768,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8159886?gh_jid=8159886",
-      "updatedAt": "2026-09-13T02:43:44-04:00",
+      "updatedAt": "2026-09-13T14:43:53-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40794,7 +40781,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8120054?gh_jid=8120054",
-      "updatedAt": "2026-09-13T02:34:16-04:00",
+      "updatedAt": "2026-09-13T14:34:32-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40807,7 +40794,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7437922?gh_jid=7437922",
-      "updatedAt": "2026-09-13T02:37:15-04:00",
+      "updatedAt": "2026-09-13T14:37:32-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40833,7 +40820,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8014486?gh_jid=8014486",
-      "updatedAt": "2026-09-13T02:41:55-04:00",
+      "updatedAt": "2026-09-13T14:42:04-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40846,7 +40833,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7852258?gh_jid=7852258",
-      "updatedAt": "2026-09-13T02:43:38-04:00",
+      "updatedAt": "2026-09-13T14:43:46-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40859,7 +40846,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8127056?gh_jid=8127056",
-      "updatedAt": "2026-09-13T02:33:06-04:00",
+      "updatedAt": "2026-09-13T14:33:23-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40872,7 +40859,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8047829?gh_jid=8047829",
-      "updatedAt": "2026-09-13T02:38:21-04:00",
+      "updatedAt": "2026-09-13T14:38:38-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40885,7 +40872,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7998339?gh_jid=7998339",
-      "updatedAt": "2026-09-13T02:38:39-04:00",
+      "updatedAt": "2026-09-13T14:38:55-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40898,7 +40885,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7309267?gh_jid=7309267",
-      "updatedAt": "2026-09-13T02:41:01-04:00",
+      "updatedAt": "2026-09-13T14:41:09-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40911,7 +40898,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8008607?gh_jid=8008607",
-      "updatedAt": "2026-09-13T02:39:08-04:00",
+      "updatedAt": "2026-09-13T14:39:24-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40924,7 +40911,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8036943?gh_jid=8036943",
-      "updatedAt": "2026-09-13T02:41:09-04:00",
+      "updatedAt": "2026-09-13T14:41:17-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40937,7 +40924,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7354277?gh_jid=7354277",
-      "updatedAt": "2026-09-13T02:41:01-04:00",
+      "updatedAt": "2026-09-13T14:41:09-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40950,7 +40937,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7449585?gh_jid=7449585",
-      "updatedAt": "2026-09-13T02:43:34-04:00",
+      "updatedAt": "2026-09-13T14:43:42-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40976,7 +40963,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8140563?gh_jid=8140563",
-      "updatedAt": "2026-09-13T02:32:30-04:00",
+      "updatedAt": "2026-09-13T14:32:46-04:00",
       "source": "Direct ATS"
     },
     {
@@ -40989,7 +40976,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8148696?gh_jid=8148696",
-      "updatedAt": "2026-09-13T02:31:54-04:00",
+      "updatedAt": "2026-09-13T14:32:09-04:00",
       "source": "Direct ATS"
     },
     {
@@ -41002,7 +40989,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7913302?gh_jid=7913302",
-      "updatedAt": "2026-09-13T02:41:13-04:00",
+      "updatedAt": "2026-09-13T14:41:22-04:00",
       "source": "Direct ATS"
     },
     {
@@ -41015,7 +41002,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8142712?gh_jid=8142712",
-      "updatedAt": "2026-09-13T02:32:12-04:00",
+      "updatedAt": "2026-09-13T14:32:27-04:00",
       "source": "Direct ATS"
     },
     {
@@ -41028,7 +41015,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7561743?gh_jid=7561743",
-      "updatedAt": "2026-09-13T02:43:34-04:00",
+      "updatedAt": "2026-09-13T14:43:42-04:00",
       "source": "Direct ATS"
     },
     {
@@ -41041,7 +41028,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8016277?gh_jid=8016277",
-      "updatedAt": "2026-09-13T02:38:14-04:00",
+      "updatedAt": "2026-09-13T14:38:30-04:00",
       "source": "Direct ATS"
     },
     {
@@ -41054,7 +41041,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8129395?gh_jid=8129395",
-      "updatedAt": "2026-09-13T02:32:48-04:00",
+      "updatedAt": "2026-09-13T14:33:04-04:00",
       "source": "Direct ATS"
     },
     {
@@ -41067,7 +41054,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8047831?gh_jid=8047831",
-      "updatedAt": "2026-09-13T02:38:25-04:00",
+      "updatedAt": "2026-09-13T14:38:42-04:00",
       "source": "Direct ATS"
     },
     {
@@ -41080,7 +41067,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8127033?gh_jid=8127033",
-      "updatedAt": "2026-09-13T02:32:56-04:00",
+      "updatedAt": "2026-09-13T14:33:13-04:00",
       "source": "Direct ATS"
     },
     {
@@ -41106,7 +41093,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8097810?gh_jid=8097810",
-      "updatedAt": "2026-09-13T02:34:11-04:00",
+      "updatedAt": "2026-09-13T14:34:27-04:00",
       "source": "Direct ATS"
     },
     {
@@ -41119,7 +41106,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7985997?gh_jid=7985997",
-      "updatedAt": "2026-09-13T02:41:24-04:00",
+      "updatedAt": "2026-09-13T14:41:33-04:00",
       "source": "Direct ATS"
     },
     {
@@ -41132,7 +41119,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8017352?gh_jid=8017352",
-      "updatedAt": "2026-09-13T02:38:37-04:00",
+      "updatedAt": "2026-09-13T14:38:53-04:00",
       "source": "Direct ATS"
     },
     {
@@ -41145,7 +41132,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8015824?gh_jid=8015824",
-      "updatedAt": "2026-09-13T02:38:48-04:00",
+      "updatedAt": "2026-09-13T14:39:04-04:00",
       "source": "Direct ATS"
     },
     {
@@ -41158,7 +41145,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8148394?gh_jid=8148394",
-      "updatedAt": "2026-09-13T02:38:57-04:00",
+      "updatedAt": "2026-09-13T14:39:13-04:00",
       "source": "Direct ATS"
     },
     {
@@ -41171,7 +41158,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7862605?gh_jid=7862605",
-      "updatedAt": "2026-09-13T02:38:57-04:00",
+      "updatedAt": "2026-09-13T14:39:13-04:00",
       "source": "Direct ATS"
     },
     {
@@ -41184,7 +41171,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8079795?gh_jid=8079795",
-      "updatedAt": "2026-09-13T02:35:07-04:00",
+      "updatedAt": "2026-09-13T14:35:27-04:00",
       "source": "Direct ATS"
     },
     {
@@ -41197,7 +41184,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7997637?gh_jid=7997637",
-      "updatedAt": "2026-09-13T02:42:10-04:00",
+      "updatedAt": "2026-09-13T14:42:18-04:00",
       "source": "Direct ATS"
     },
     {
@@ -41210,7 +41197,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8174643?gh_jid=8174643",
-      "updatedAt": "2026-09-13T02:31:11-04:00",
+      "updatedAt": "2026-09-13T14:31:26-04:00",
       "source": "Direct ATS"
     },
     {
@@ -41223,7 +41210,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8104285?gh_jid=8104285",
-      "updatedAt": "2026-09-13T02:34:22-04:00",
+      "updatedAt": "2026-09-13T14:34:38-04:00",
       "source": "Direct ATS"
     },
     {
@@ -41236,7 +41223,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8066262?gh_jid=8066262",
-      "updatedAt": "2026-09-13T02:36:54-04:00",
+      "updatedAt": "2026-09-13T14:37:10-04:00",
       "source": "Direct ATS"
     },
     {
@@ -41249,7 +41236,7 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8097701?gh_jid=8097701",
-      "updatedAt": "2026-09-13T02:34:37-04:00",
+      "updatedAt": "2026-09-13T14:34:54-04:00",
       "source": "Direct ATS"
     },
     {
@@ -41262,7 +41249,7 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8083944?gh_jid=8083944",
-      "updatedAt": "2026-09-13T02:34:49-04:00",
+      "updatedAt": "2026-09-13T14:35:08-04:00",
       "source": "Direct ATS"
     },
     {
@@ -41275,7 +41262,7 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8115917?gh_jid=8115917",
-      "updatedAt": "2026-09-13T02:34:13-04:00",
+      "updatedAt": "2026-09-13T14:34:29-04:00",
       "source": "Direct ATS"
     },
     {
@@ -41288,7 +41275,7 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8113334?gh_jid=8113334",
-      "updatedAt": "2026-09-13T02:33:47-04:00",
+      "updatedAt": "2026-09-13T14:34:05-04:00",
       "source": "Direct ATS"
     },
     {
@@ -41301,7 +41288,7 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8131689?gh_jid=8131689",
-      "updatedAt": "2026-09-13T02:33:13-04:00",
+      "updatedAt": "2026-09-13T14:33:29-04:00",
       "source": "Direct ATS"
     },
     {
@@ -41314,7 +41301,7 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8060254?gh_jid=8060254",
-      "updatedAt": "2026-09-13T02:37:49-04:00",
+      "updatedAt": "2026-09-13T14:38:06-04:00",
       "source": "Direct ATS"
     },
     {
@@ -41327,7 +41314,7 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8171506?gh_jid=8171506",
-      "updatedAt": "2026-09-13T02:32:04-04:00",
+      "updatedAt": "2026-09-13T14:32:19-04:00",
       "source": "Direct ATS"
     },
     {
@@ -41340,7 +41327,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7482015?gh_jid=7482015",
-      "updatedAt": "2026-09-13T02:43:22-04:00",
+      "updatedAt": "2026-09-13T14:43:30-04:00",
       "source": "Direct ATS"
     },
     {
@@ -41353,7 +41340,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8047841?gh_jid=8047841",
-      "updatedAt": "2026-09-13T02:38:46-04:00",
+      "updatedAt": "2026-09-13T14:39:02-04:00",
       "source": "Direct ATS"
     },
     {
@@ -41366,7 +41353,7 @@
       "experienceLevel": "entry",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8143984?gh_jid=8143984",
-      "updatedAt": "2026-09-13T02:32:24-04:00",
+      "updatedAt": "2026-09-13T14:32:38-04:00",
       "source": "Direct ATS"
     },
     {
@@ -41379,7 +41366,7 @@
       "experienceLevel": "entry",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8143981?gh_jid=8143981",
-      "updatedAt": "2026-09-13T02:32:18-04:00",
+      "updatedAt": "2026-09-13T14:32:33-04:00",
       "source": "Direct ATS"
     },
     {
@@ -41392,7 +41379,7 @@
       "experienceLevel": "entry",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713",
-      "updatedAt": "2026-09-13T02:35:40-04:00",
+      "updatedAt": "2026-09-13T14:35:59-04:00",
       "source": "Direct ATS"
     },
     {
@@ -41405,7 +41392,7 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7886349?gh_jid=7886349",
-      "updatedAt": "2026-09-13T02:41:31-04:00",
+      "updatedAt": "2026-09-13T14:41:39-04:00",
       "source": "Direct ATS"
     },
     {
@@ -41418,7 +41405,7 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8069997?gh_jid=8069997",
-      "updatedAt": "2026-09-13T02:37:38-04:00",
+      "updatedAt": "2026-09-13T14:37:54-04:00",
       "source": "Direct ATS"
     },
     {
@@ -41444,7 +41431,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8046794?gh_jid=8046794",
-      "updatedAt": "2026-09-13T02:39:46-04:00",
+      "updatedAt": "2026-09-13T14:40:01-04:00",
       "source": "Direct ATS"
     },
     {
@@ -41457,7 +41444,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7754152?gh_jid=7754152",
-      "updatedAt": "2026-09-13T02:41:47-04:00",
+      "updatedAt": "2026-09-13T14:41:56-04:00",
       "source": "Direct ATS"
     },
     {
@@ -41470,7 +41457,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8067424?gh_jid=8067424",
-      "updatedAt": "2026-09-13T02:36:45-04:00",
+      "updatedAt": "2026-09-13T14:37:02-04:00",
       "source": "Direct ATS"
     },
     {
@@ -41496,7 +41483,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8123084?gh_jid=8123084",
-      "updatedAt": "2026-09-13T02:40:21-04:00",
+      "updatedAt": "2026-09-13T14:40:30-04:00",
       "source": "Direct ATS"
     },
     {
@@ -41509,7 +41496,7 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8070133?gh_jid=8070133",
-      "updatedAt": "2026-09-13T02:36:18-04:00",
+      "updatedAt": "2026-09-13T14:36:36-04:00",
       "source": "Direct ATS"
     },
     {
@@ -41522,7 +41509,7 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8174264?gh_jid=8174264",
-      "updatedAt": "2026-09-13T02:30:52-04:00",
+      "updatedAt": "2026-09-13T14:31:07-04:00",
       "source": "Direct ATS"
     },
     {
@@ -44694,7 +44681,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8604587002",
-      "updatedAt": "2026-09-12T23:01:19-04:00",
+      "updatedAt": "2026-09-13T14:59:51-04:00",
       "source": "Direct ATS"
     },
     {
@@ -53278,19 +53265,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8801523002",
-      "title": "Candidate Experience Specialist, Contractor",
-      "company": "GitLab",
-      "logo": "\ud83e\udd8a",
-      "location": "Remote, United Kingdom",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/gitlab/jobs/8801523002",
-      "updatedAt": "2026-09-11T18:04:03-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8782471002",
       "title": "Candidate Experience Specialist, Contractor",
       "company": "GitLab",
@@ -53301,6 +53275,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/gitlab/jobs/8782471002",
       "updatedAt": "2026-09-11T18:02:02-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8801523002",
+      "title": "Candidate Experience Specialist, Contractor",
+      "company": "GitLab",
+      "logo": "\ud83e\udd8a",
+      "location": "Remote, United Kingdom",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/gitlab/jobs/8801523002",
+      "updatedAt": "2026-09-11T18:04:03-04:00",
       "source": "Direct ATS"
     },
     {
@@ -53876,19 +53863,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8778279002",
-      "title": "Intermediate Backend Engineer, EMEA",
-      "company": "GitLab",
-      "logo": "\ud83e\udd8a",
-      "location": "Remote, United Kingdom",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/gitlab/jobs/8778279002",
-      "updatedAt": "2026-09-02T14:49:54-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8775415002",
       "title": "Intermediate Backend Engineer, EMEA",
       "company": "GitLab",
@@ -53899,6 +53873,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/gitlab/jobs/8775415002",
       "updatedAt": "2026-09-02T14:49:40-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8778279002",
+      "title": "Intermediate Backend Engineer, EMEA",
+      "company": "GitLab",
+      "logo": "\ud83e\udd8a",
+      "location": "Remote, United Kingdom",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/gitlab/jobs/8778279002",
+      "updatedAt": "2026-09-02T14:49:54-04:00",
       "source": "Direct ATS"
     },
     {
@@ -54851,6 +54838,19 @@
       "source": "Direct ATS"
     },
     {
+      "id": "gh-8790705002",
+      "title": "Senior Executive Business Partner, CFO",
+      "company": "GitLab",
+      "logo": "\ud83e\udd8a",
+      "location": "Remote",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/gitlab/jobs/8790705002",
+      "updatedAt": "2026-09-13T13:51:24-04:00",
+      "source": "Direct ATS"
+    },
+    {
       "id": "gh-8731564002",
       "title": "Senior FP&A Analyst, Cloud Hosting",
       "company": "GitLab",
@@ -55306,19 +55306,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8611764002",
-      "title": "Senior Solutions Architect",
-      "company": "GitLab",
-      "logo": "\ud83e\udd8a",
-      "location": "Remote, United Kingdom",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/gitlab/jobs/8611764002",
-      "updatedAt": "2026-08-31T17:56:36-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8731996002",
       "title": "Senior Solutions Architect",
       "company": "GitLab",
@@ -55355,6 +55342,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/gitlab/jobs/8783485002",
       "updatedAt": "2026-09-08T22:58:54-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8611764002",
+      "title": "Senior Solutions Architect",
+      "company": "GitLab",
+      "logo": "\ud83e\udd8a",
+      "location": "Remote, United Kingdom",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/gitlab/jobs/8611764002",
+      "updatedAt": "2026-08-31T17:56:36-04:00",
       "source": "Direct ATS"
     },
     {
@@ -55410,19 +55410,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8692874002",
-      "title": "Senior Support Engineer",
-      "company": "GitLab",
-      "logo": "\ud83e\udd8a",
-      "location": "Bangalore, India",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/gitlab/jobs/8692874002",
-      "updatedAt": "2026-09-09T02:23:46-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8692880002",
       "title": "Senior Support Engineer",
       "company": "GitLab",
@@ -55433,6 +55420,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/gitlab/jobs/8692880002",
       "updatedAt": "2026-09-01T08:46:45-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8692874002",
+      "title": "Senior Support Engineer",
+      "company": "GitLab",
+      "logo": "\ud83e\udd8a",
+      "location": "Bangalore, India",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/gitlab/jobs/8692874002",
+      "updatedAt": "2026-09-09T02:23:46-04:00",
       "source": "Direct ATS"
     },
     {
@@ -55904,19 +55904,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8675560002",
-      "title": "Strategic Account Executive, Poland",
-      "company": "GitLab",
-      "logo": "\ud83e\udd8a",
-      "location": "Remote",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/gitlab/jobs/8675560002",
-      "updatedAt": "2026-09-09T06:47:21-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8789017002",
       "title": "Strategic Account Executive, Poland",
       "company": "GitLab",
@@ -55927,6 +55914,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/gitlab/jobs/8789017002",
       "updatedAt": "2026-09-09T04:50:17-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8675560002",
+      "title": "Strategic Account Executive, Poland",
+      "company": "GitLab",
+      "logo": "\ud83e\udd8a",
+      "location": "Remote",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/gitlab/jobs/8675560002",
+      "updatedAt": "2026-09-09T06:47:21-04:00",
       "source": "Direct ATS"
     },
     {
@@ -61230,7 +61230,7 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5234118007?gh_jid=5234118007",
-      "updatedAt": "2026-09-12T21:26:57-04:00",
+      "updatedAt": "2026-09-13T12:07:06-04:00",
       "source": "Direct ATS"
     },
     {
