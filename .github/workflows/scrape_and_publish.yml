@@ -2,15 +2,24 @@ name: RoleRadar Multi-ATS Scraper & Publish
 
 on:
   schedule:
-    # Runs every 6 hours
-    - cron: '0 */6 * * *'
+    # Runs every hour
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
-  scrape:
+  scrape-and-publish:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
@@ -35,4 +44,16 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add public/data/feed.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore(feed): auto-update multi-ats job feed [skip ci]" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore(feed): auto-update multi-ats job feed" && git push)
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './public'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
