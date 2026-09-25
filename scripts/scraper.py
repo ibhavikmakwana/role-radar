@@ -46,6 +46,8 @@ def categorize_role(title: str, dept: str = "") -> str:
         return "android"
     if re.search(r'\b(ios|swift|swiftui)\b', combined):
         return "ios"
+    if re.search(r'\b(asp\.net|aspnet|\.net|dotnet|c#|csharp|\.net core)\b', combined):
+        return "dotnet"
     if re.search(r'\b(cloud|aws|azure|gcp|devops|sre|site reliability|kubernetes|docker|terraform|ci/cd)\b', combined):
         return "cloud"
     if re.search(r'\b(product designer|ui\/ux|ui ux|ux designer|ui designer|product design|visual designer|interaction designer|design)\b', combined):
