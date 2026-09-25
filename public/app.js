@@ -277,8 +277,40 @@
 
     let filtered = allJobs.filter((job) => {
       // Category filter
-      if (currentCategory !== 'all' && job.category !== currentCategory) {
-        return false;
+      if (currentCategory !== 'all') {
+        if (currentCategory === 'robotics') {
+          const isRob = job.category === 'robotics' || /\b(robotics|ros\b|ros2\b|gazebo|mechatronics|autonomous|manipulator|embedded systems|microcontroller|slam\b|drone)\b/i.test(job.title);
+          if (!isRob) return false;
+        } else if (currentCategory === 'flutter') {
+          const isFlu = job.category === 'flutter' || /\b(flutter|dart)\b/i.test(job.title);
+          if (!isFlu) return false;
+        } else if (currentCategory === 'android') {
+          const isAnd = job.category === 'android' || /\b(android|kotlin|jetpack compose)\b/i.test(job.title);
+          if (!isAnd) return false;
+        } else if (currentCategory === 'ios') {
+          const isIos = job.category === 'ios' || /\b(ios|swift|swiftui)\b/i.test(job.title);
+          if (!isIos) return false;
+        } else if (currentCategory === 'dotnet') {
+          const isDotNet = job.category === 'dotnet' || /\b(asp\.net|aspnet|\.net|dotnet|c#|csharp|\.net core)\b/i.test(job.title);
+          if (!isDotNet) return false;
+        } else if (currentCategory === 'cloud') {
+          const isCloud = job.category === 'cloud' || /\b(cloud|aws|azure|gcp|devops|sre|site reliability|kubernetes|docker|terraform|ci\/cd)\b/i.test(job.title);
+          if (!isCloud) return false;
+        } else if (currentCategory === 'product') {
+          const isProd = job.category === 'product' || /\b(product designer|ui\/ux|ui ux|ux designer|ui designer|product design|visual designer|interaction designer)\b/i.test(job.title);
+          if (!isProd) return false;
+        } else if (currentCategory === 'data') {
+          const isData = job.category === 'data' || /\b(data|analyst|analytics|bi\b|business intelligence|tableau|power bi|sql|looker|dbt|data scientist|data engineer)\b/i.test(job.title);
+          if (!isData) return false;
+        } else if (currentCategory === 'ai') {
+          const isAi = job.category === 'ai' || /\b(ai\b|ml\b|machine learning|deep learning|llm|nlp|agent|computer vision|prompt)\b/i.test(job.title);
+          if (!isAi) return false;
+        } else if (currentCategory === 'fde') {
+          const isFde = job.category === 'fde' || /\b(forward deployed|fde|solutions engineer|deployment strategist)\b/i.test(job.title);
+          if (!isFde) return false;
+        } else if (job.category !== currentCategory) {
+          return false;
+        }
       }
 
       // Sub-filter chips
