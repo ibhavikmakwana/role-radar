@@ -26,7 +26,7 @@ def load_sources():
 
 def determine_experience(title: str) -> str:
     t = str(title).lower()
-    if re.search(r'\b(intern|internship|trainee|fresher|graduate|entry|junior|associate|l1|sde 1|sde-1)\b', t):
+    if re.search(r'\b(intern|internship|trainee|fresher|graduate|entry|junior|associate|l1|sde 1|sde-1|sde i\b|get\b|fresher\b)\b', t):
         return "entry"
     if re.search(r'\b(staff|principal|director|head of|vp|architect|distinguished|engineering manager|tech lead)\b', t):
         return "lead"
@@ -38,14 +38,22 @@ def categorize_role(title: str, dept: str = "") -> str:
     combined = f"{title} {dept}".lower()
     if re.search(r'\b(forward deployed|fde|solutions engineer|deployment strategist)\b', combined):
         return "fde"
+    if re.search(r'\b(robotics|ros\b|ros2\b|gazebo|mechatronics|autonomous|manipulator|embedded systems|microcontroller|slam\b|drone)\b', combined):
+        return "robotics"
+    if re.search(r'\b(flutter|dart)\b', combined):
+        return "flutter"
+    if re.search(r'\b(android|kotlin|jetpack compose)\b', combined):
+        return "android"
+    if re.search(r'\b(ios|swift|swiftui)\b', combined):
+        return "ios"
+    if re.search(r'\b(cloud|aws|azure|gcp|devops|sre|site reliability|kubernetes|docker|terraform|ci/cd)\b', combined):
+        return "cloud"
+    if re.search(r'\b(product designer|ui\/ux|ui ux|ux designer|ui designer|product design|visual designer|interaction designer|design)\b', combined):
+        return "product"
     if re.search(r'\b(ai\b|ml\b|machine learning|deep learning|llm|nlp|agent|computer vision|prompt)\b', combined):
         return "ai"
-    if re.search(r'\b(flutter|dart|android|kotlin|ios|swift|swiftui|react native|mobile)\b', combined):
-        return "mobile"
-    if re.search(r'\b(data|analyst|analytics|bi\b|business intelligence|tableau|power bi|sql|looker|dbt)\b', combined):
+    if re.search(r'\b(data|analyst|analytics|bi\b|business intelligence|tableau|power bi|sql|looker|dbt|data scientist|data engineer)\b', combined):
         return "data"
-    if re.search(r'\b(product|designer|ux|ui|design|growth|product manager|pm\b)\b', combined):
-        return "product"
     return "engineering"
 
 def fetch_greenhouse(board):

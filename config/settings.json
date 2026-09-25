@@ -12,10 +12,14 @@
   "categories": [
     { "id": "all", "label": "All Roles" },
     { "id": "ai", "label": "AI & LLM Systems" },
-    { "id": "engineering", "label": "Software Engineering" },
-    { "id": "mobile", "label": "Mobile & Flutter/iOS/Android" },
-    { "id": "data", "label": "Data & Analytics" },
-    { "id": "product", "label": "Product & Design" },
+    { "id": "flutter", "label": "Flutter Development" },
+    { "id": "android", "label": "Android Development" },
+    { "id": "ios", "label": "iOS Development" },
+    { "id": "engineering", "label": "Software & Full Stack" },
+    { "id": "cloud", "label": "Cloud & DevOps" },
+    { "id": "data", "label": "Data Science & Analytics" },
+    { "id": "product", "label": "Product Design & UX" },
+    { "id": "robotics", "label": "Robotics & Autonomous" },
     { "id": "fde", "label": "Forward Deployed & Solutions" }
   ]
 }
