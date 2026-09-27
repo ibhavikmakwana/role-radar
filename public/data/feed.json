@@ -1,7 +1,7 @@
 {
   "status": "ok",
-  "generatedAt": "2026-09-27T18:51:18.399745",
-  "totalJobs": 8108,
+  "generatedAt": "2026-09-27T21:47:38.313673",
+  "totalJobs": 8109,
   "jobs": [
     {
       "id": "gh-4461450008",
@@ -104053,6 +104053,19 @@
       "atsType": "lever",
       "applyUrl": "https://jobs.lever.co/spotify/499543e3-78e7-473a-8a1d-a82ce9ce9030",
       "updatedAt": "2026-04-28T08:45:37.083000",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "lev-1e8c984e-fa8e-4dbb-8f74-6f608ae3bfa1",
+      "title": "Senior Web Engineer - Subscriptions",
+      "company": "Spotify",
+      "logo": "\ud83d\udfe2",
+      "location": "London",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "lever",
+      "applyUrl": "https://jobs.lever.co/spotify/1e8c984e-fa8e-4dbb-8f74-6f608ae3bfa1",
+      "updatedAt": "2026-07-28T14:32:49.417000",
       "source": "Direct ATS"
     },
     {
