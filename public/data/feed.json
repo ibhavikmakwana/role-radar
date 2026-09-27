@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-09-27T09:02:03.142814",
+  "generatedAt": "2026-09-27T14:56:00.948015",
   "totalJobs": 8107,
   "jobs": [
     {
@@ -11834,19 +11834,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8172487",
-      "title": "Abuse Investigator",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Dublin",
-      "category": "data",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8172487",
-      "updatedAt": "2026-09-25T16:45:00-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8172510",
       "title": "Abuse Investigator",
       "company": "Stripe",
@@ -11856,6 +11843,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8172510",
+      "updatedAt": "2026-09-25T16:45:00-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8172487",
+      "title": "Abuse Investigator",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Dublin",
+      "category": "data",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8172487",
       "updatedAt": "2026-09-25T16:45:00-04:00",
       "source": "Direct ATS"
     },
@@ -12458,19 +12458,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8213481",
-      "title": "Account Executive, Product (Payouts) - Hunter",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "London, Dublin",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8213481",
-      "updatedAt": "2026-09-25T16:45:07-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8196269",
       "title": "Account Executive, Product (Payouts) - Hunter",
       "company": "Stripe",
@@ -12481,6 +12468,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8196269",
       "updatedAt": "2026-09-25T16:45:05-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8213481",
+      "title": "Account Executive, Product (Payouts) - Hunter",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "London, Dublin",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8213481",
+      "updatedAt": "2026-09-25T16:45:07-04:00",
       "source": "Direct ATS"
     },
     {
@@ -12562,19 +12562,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8175828",
-      "title": "Account Executive, Product Sales - Currency Management",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Singapore",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8175828",
-      "updatedAt": "2026-09-25T16:45:01-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8190416",
       "title": "Account Executive, Product Sales - Currency Management",
       "company": "Stripe",
@@ -12585,6 +12572,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8190416",
       "updatedAt": "2026-09-25T16:45:04-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8175828",
+      "title": "Account Executive, Product Sales - Currency Management",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Singapore",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8175828",
+      "updatedAt": "2026-09-25T16:45:01-04:00",
       "source": "Direct ATS"
     },
     {
@@ -13173,19 +13173,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-7557899",
-      "title": "Backend Engineer, Developer & End-user Experience Platform",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Toronto, NY, SEA, SF",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=7557899",
-      "updatedAt": "2026-09-25T16:44:35-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-7476555",
       "title": "Backend Engineer, Developer & End-user Experience Platform",
       "company": "Stripe",
@@ -13196,6 +13183,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=7476555",
       "updatedAt": "2026-09-25T16:44:36-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-7557899",
+      "title": "Backend Engineer, Developer & End-user Experience Platform",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Toronto, NY, SEA, SF",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=7557899",
+      "updatedAt": "2026-09-25T16:44:35-04:00",
       "source": "Direct ATS"
     },
     {
@@ -13303,19 +13303,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8079783",
-      "title": "Business Partner Analyst",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "US-SF, US-Seattle, US-NYC, US-Chicago, US-Georgia or US-Remote",
-      "category": "data",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8079783",
-      "updatedAt": "2026-09-25T16:44:51-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-7919064",
       "title": "Business Partner Analyst",
       "company": "Stripe",
@@ -13326,6 +13313,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=7919064",
       "updatedAt": "2026-09-25T16:44:43-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8079783",
+      "title": "Business Partner Analyst",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "US-SF, US-Seattle, US-NYC, US-Chicago, US-Georgia or US-Remote",
+      "category": "data",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8079783",
+      "updatedAt": "2026-09-25T16:44:51-04:00",
       "source": "Direct ATS"
     },
     {
@@ -13472,19 +13472,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8138000",
-      "title": "Communities Partner Development Manager, SaaS Platforms",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "US-Remote",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8138000",
-      "updatedAt": "2026-09-25T16:44:55-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8103952",
       "title": "Communities Partner Development Manager, SaaS Platforms",
       "company": "Stripe",
@@ -13495,6 +13482,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8103952",
       "updatedAt": "2026-09-25T16:44:52-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8138000",
+      "title": "Communities Partner Development Manager, SaaS Platforms",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "US-Remote",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8138000",
+      "updatedAt": "2026-09-25T16:44:55-04:00",
       "source": "Direct ATS"
     },
     {
@@ -13836,19 +13836,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8208521",
-      "title": "Customer Success Manager, Enterprise",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Chicago, US",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8208521",
-      "updatedAt": "2026-09-25T16:45:06-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8178692",
       "title": "Customer Success Manager, Enterprise",
       "company": "Stripe",
@@ -13859,6 +13846,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8178692",
       "updatedAt": "2026-09-25T16:45:02-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8208521",
+      "title": "Customer Success Manager, Enterprise",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Chicago, US",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8208521",
+      "updatedAt": "2026-09-25T16:45:06-04:00",
       "source": "Direct ATS"
     },
     {
@@ -14551,19 +14551,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8232743",
-      "title": "Enterprise Account Executive, Privy",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "New York",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8232743",
-      "updatedAt": "2026-09-25T16:45:09-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8232741",
       "title": "Enterprise Account Executive, Privy",
       "company": "Stripe",
@@ -14573,6 +14560,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8232741",
+      "updatedAt": "2026-09-25T16:45:09-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8232743",
+      "title": "Enterprise Account Executive, Privy",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "New York",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8232743",
       "updatedAt": "2026-09-25T16:45:09-04:00",
       "source": "Direct ATS"
     },
@@ -14850,19 +14850,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8066310",
-      "title": "Fraud Operations Associate SDC",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Bengaluru",
-      "category": "engineering",
-      "experienceLevel": "entry",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8066310",
-      "updatedAt": "2026-09-25T16:44:50-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-7651078",
       "title": "Fraud Operations Associate SDC",
       "company": "Stripe",
@@ -14876,16 +14863,16 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-7608396",
-      "title": "Fraud Operations Manager",
+      "id": "gh-8066310",
+      "title": "Fraud Operations Associate SDC",
       "company": "Stripe",
       "logo": "\ud83d\udcb3",
       "location": "Bengaluru",
       "category": "engineering",
-      "experienceLevel": "senior",
+      "experienceLevel": "entry",
       "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=7608396",
-      "updatedAt": "2026-09-25T16:44:38-04:00",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8066310",
+      "updatedAt": "2026-09-25T16:44:50-04:00",
       "source": "Direct ATS"
     },
     {
@@ -14902,6 +14889,19 @@
       "source": "Direct ATS"
     },
     {
+      "id": "gh-7608396",
+      "title": "Fraud Operations Manager",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Bengaluru",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=7608396",
+      "updatedAt": "2026-09-25T16:44:38-04:00",
+      "source": "Direct ATS"
+    },
+    {
       "id": "gh-7994541",
       "title": "Fraud Operations Manager (Mandarin-speaking)",
       "company": "Stripe",
@@ -14915,19 +14915,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8063857",
-      "title": "Fraud Operations Team Lead",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Bengaluru",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8063857",
-      "updatedAt": "2026-09-25T16:44:49-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-7685460",
       "title": "Fraud Operations Team Lead",
       "company": "Stripe",
@@ -14938,6 +14925,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=7685460",
       "updatedAt": "2026-09-25T16:44:39-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8063857",
+      "title": "Fraud Operations Team Lead",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Bengaluru",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8063857",
+      "updatedAt": "2026-09-25T16:44:49-04:00",
       "source": "Direct ATS"
     },
     {
@@ -14967,19 +14967,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8194604",
-      "title": "Frontend Engineer, Data Product Experiences",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "N/A",
-      "category": "data",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8194604",
-      "updatedAt": "2026-09-25T16:45:04-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8194606",
       "title": "Frontend Engineer, Data Product Experiences",
       "company": "Stripe",
@@ -14989,6 +14976,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8194606",
+      "updatedAt": "2026-09-25T16:45:04-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8194604",
+      "title": "Frontend Engineer, Data Product Experiences",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "N/A",
+      "category": "data",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8194604",
       "updatedAt": "2026-09-25T16:45:04-04:00",
       "source": "Direct ATS"
     },
@@ -15279,16 +15279,16 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8145119",
+      "id": "gh-8201680",
       "title": "GTM Strategy & Operations Analyst",
       "company": "Stripe",
       "logo": "\ud83d\udcb3",
-      "location": "New York, NY",
+      "location": "NYC, SF, Seattle, US",
       "category": "data",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8145119",
-      "updatedAt": "2026-09-25T16:44:57-04:00",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8201680",
+      "updatedAt": "2026-09-25T16:45:05-04:00",
       "source": "Direct ATS"
     },
     {
@@ -15305,16 +15305,16 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8201680",
+      "id": "gh-8145119",
       "title": "GTM Strategy & Operations Analyst",
       "company": "Stripe",
       "logo": "\ud83d\udcb3",
-      "location": "NYC, SF, Seattle, US",
+      "location": "New York, NY",
       "category": "data",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8201680",
-      "updatedAt": "2026-09-25T16:45:05-04:00",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8145119",
+      "updatedAt": "2026-09-25T16:44:57-04:00",
       "source": "Direct ATS"
     },
     {
@@ -15695,19 +15695,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8075570",
-      "title": "Integration Engineer, Professional Services",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Seattle, San Francisco, or New York",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8075570",
-      "updatedAt": "2026-09-25T16:44:50-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8075577",
       "title": "Integration Engineer, Professional Services",
       "company": "Stripe",
@@ -15731,6 +15718,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8203973",
       "updatedAt": "2026-09-25T16:45:06-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8075570",
+      "title": "Integration Engineer, Professional Services",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Seattle, San Francisco, or New York",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8075570",
+      "updatedAt": "2026-09-25T16:44:50-04:00",
       "source": "Direct ATS"
     },
     {
@@ -16124,19 +16124,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-7896538",
-      "title": "Manager, Sales Development",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Chicago, Illinois",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=7896538",
-      "updatedAt": "2026-09-25T16:44:41-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-7337544",
       "title": "Manager, Sales Development",
       "company": "Stripe",
@@ -16147,6 +16134,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=7337544",
       "updatedAt": "2026-09-25T16:44:35-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-7896538",
+      "title": "Manager, Sales Development",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Chicago, Illinois",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=7896538",
+      "updatedAt": "2026-09-25T16:44:41-04:00",
       "source": "Direct ATS"
     },
     {
@@ -16202,19 +16202,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-7767222",
-      "title": "Manager, Technical Account Management",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Dublin",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=7767222",
-      "updatedAt": "2026-09-25T16:44:39-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8154304",
       "title": "Manager, Technical Account Management",
       "company": "Stripe",
@@ -16225,6 +16212,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8154304",
       "updatedAt": "2026-09-25T16:44:57-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-7767222",
+      "title": "Manager, Technical Account Management",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Dublin",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=7767222",
+      "updatedAt": "2026-09-25T16:44:39-04:00",
       "source": "Direct ATS"
     },
     {
@@ -16332,19 +16332,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8021192",
-      "title": "Monetization Operations Analyst",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "IN - Bengaluru",
-      "category": "data",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8021192",
-      "updatedAt": "2026-09-25T16:44:47-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8109554",
       "title": "Monetization Operations Analyst",
       "company": "Stripe",
@@ -16355,6 +16342,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8109554",
       "updatedAt": "2026-09-25T16:44:52-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8021192",
+      "title": "Monetization Operations Analyst",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "IN - Bengaluru",
+      "category": "data",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8021192",
+      "updatedAt": "2026-09-25T16:44:47-04:00",
       "source": "Direct ATS"
     },
     {
@@ -16423,19 +16423,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8102597",
-      "title": "Operations Associate, Financial Crimes EDD/PEP",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Bangalore ",
-      "category": "engineering",
-      "experienceLevel": "entry",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8102597",
-      "updatedAt": "2026-09-25T16:44:52-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-7202953",
       "title": "Operations Associate, Financial Crimes EDD/PEP",
       "company": "Stripe",
@@ -16446,6 +16433,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=7202953",
       "updatedAt": "2026-09-25T16:44:34-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8102597",
+      "title": "Operations Associate, Financial Crimes EDD/PEP",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Bangalore ",
+      "category": "engineering",
+      "experienceLevel": "entry",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8102597",
+      "updatedAt": "2026-09-25T16:44:52-04:00",
       "source": "Direct ATS"
     },
     {
@@ -16524,19 +16524,6 @@
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8053011",
       "updatedAt": "2026-09-25T16:44:49-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8203653",
-      "title": "Operations Program Manager",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Bengaluru",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8203653",
-      "updatedAt": "2026-09-25T16:45:05-04:00",
       "source": "Direct ATS"
     },
     {
@@ -16709,19 +16696,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8094869",
-      "title": "Partner Development Manager, Strategic Partnerships",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "US-NYC; US-San Francisco; US-Seattle; US-Remote; US- Chicago; US-Atlanta; Canada-Toronto; Canada-Remote",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8094869",
-      "updatedAt": "2026-09-25T16:44:52-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-7973002",
       "title": "Partner Development Manager, Strategic Partnerships",
       "company": "Stripe",
@@ -16732,6 +16706,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=7973002",
       "updatedAt": "2026-09-25T16:44:45-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8094869",
+      "title": "Partner Development Manager, Strategic Partnerships",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "US-NYC; US-San Francisco; US-Seattle; US-Remote; US- Chicago; US-Atlanta; Canada-Toronto; Canada-Remote",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8094869",
+      "updatedAt": "2026-09-25T16:44:52-04:00",
       "source": "Direct ATS"
     },
     {
@@ -17879,19 +17866,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8209641",
-      "title": "Program Manager, Risk Operations GTM Enablement",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Dublin, Ireland",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8209641",
-      "updatedAt": "2026-09-25T16:45:06-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8158082",
       "title": "Program Manager, Risk Operations GTM Enablement",
       "company": "Stripe",
@@ -17902,6 +17876,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8158082",
       "updatedAt": "2026-09-25T16:44:34-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8209641",
+      "title": "Program Manager, Risk Operations GTM Enablement",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Dublin, Ireland",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8209641",
+      "updatedAt": "2026-09-25T16:45:06-04:00",
       "source": "Direct ATS"
     },
     {
@@ -18542,19 +18529,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-7944515",
-      "title": "Sales Strategy & Operations Business Partner",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "San Francisco",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=7944515",
-      "updatedAt": "2026-09-25T16:44:44-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8089882",
       "title": "Sales Strategy & Operations Business Partner",
       "company": "Stripe",
@@ -18565,6 +18539,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8089882",
       "updatedAt": "2026-09-25T16:44:51-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-7944515",
+      "title": "Sales Strategy & Operations Business Partner",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "San Francisco",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=7944515",
+      "updatedAt": "2026-09-25T16:44:44-04:00",
       "source": "Direct ATS"
     },
     {
@@ -19114,19 +19101,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8031833",
-      "title": "Software Engineer, Intern",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Bengaluru",
-      "category": "engineering",
-      "experienceLevel": "entry",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8031833",
-      "updatedAt": "2026-09-25T16:44:48-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8130883",
       "title": "Software Engineer, Intern",
       "company": "Stripe",
@@ -19137,6 +19111,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8130883",
       "updatedAt": "2026-09-25T16:44:55-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8031833",
+      "title": "Software Engineer, Intern",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Bengaluru",
+      "category": "engineering",
+      "experienceLevel": "entry",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8031833",
+      "updatedAt": "2026-09-25T16:44:48-04:00",
       "source": "Direct ATS"
     },
     {
@@ -19179,19 +19166,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8128745",
-      "title": "Software Engineer, Intern (Summer or Winter)",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "San Francisco, Seattle, New York City",
-      "category": "engineering",
-      "experienceLevel": "entry",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8128745",
-      "updatedAt": "2026-09-25T16:44:55-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8130805",
       "title": "Software Engineer, Intern (Summer or Winter)",
       "company": "Stripe",
@@ -19201,6 +19175,19 @@
       "experienceLevel": "entry",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8130805",
+      "updatedAt": "2026-09-25T16:44:55-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8128745",
+      "title": "Software Engineer, Intern (Summer or Winter)",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "San Francisco, Seattle, New York City",
+      "category": "engineering",
+      "experienceLevel": "entry",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8128745",
       "updatedAt": "2026-09-25T16:44:55-04:00",
       "source": "Direct ATS"
     },
@@ -19218,19 +19205,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8128744",
-      "title": "Software Engineer, New Grad",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "San Francisco, Seattle, New York",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8128744",
-      "updatedAt": "2026-09-25T16:44:54-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8130881",
       "title": "Software Engineer, New Grad",
       "company": "Stripe",
@@ -19240,19 +19214,6 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8130881",
-      "updatedAt": "2026-09-25T16:44:55-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8130930",
-      "title": "Software Engineer, New Grad",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "London",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8130930",
       "updatedAt": "2026-09-25T16:44:55-04:00",
       "source": "Direct ATS"
     },
@@ -19270,16 +19231,16 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8130922",
+      "id": "gh-8128744",
       "title": "Software Engineer, New Grad",
       "company": "Stripe",
       "logo": "\ud83d\udcb3",
-      "location": "Bucharest",
+      "location": "San Francisco, Seattle, New York",
       "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8130922",
-      "updatedAt": "2026-09-25T16:44:55-04:00",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8128744",
+      "updatedAt": "2026-09-25T16:44:54-04:00",
       "source": "Direct ATS"
     },
     {
@@ -19293,6 +19254,32 @@
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8157838",
       "updatedAt": "2026-09-25T16:44:58-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8130930",
+      "title": "Software Engineer, New Grad",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "London",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8130930",
+      "updatedAt": "2026-09-25T16:44:55-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8130922",
+      "title": "Software Engineer, New Grad",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Bucharest",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8130922",
+      "updatedAt": "2026-09-25T16:44:55-04:00",
       "source": "Direct ATS"
     },
     {
@@ -19907,19 +19894,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8142649",
-      "title": "Staff Product Manager, Local Payment Methods Growth",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "London",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8142649",
-      "updatedAt": "2026-09-25T16:44:39-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-7737526",
       "title": "Staff Product Manager, Local Payment Methods Growth",
       "company": "Stripe",
@@ -19929,6 +19903,19 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=7737526",
+      "updatedAt": "2026-09-25T16:44:39-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8142649",
+      "title": "Staff Product Manager, Local Payment Methods Growth",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "London",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8142649",
       "updatedAt": "2026-09-25T16:44:39-04:00",
       "source": "Direct ATS"
     },
@@ -20141,19 +20128,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-7939868",
-      "title": "Staff Software Engineer, Machine Learning Platform",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "San Francisco, Seattle",
-      "category": "ai",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=7939868",
-      "updatedAt": "2026-09-25T16:44:44-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-7712852",
       "title": "Staff Software Engineer, Machine Learning Platform",
       "company": "Stripe",
@@ -20164,6 +20138,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=7712852",
       "updatedAt": "2026-09-25T16:44:39-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-7939868",
+      "title": "Staff Software Engineer, Machine Learning Platform",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "San Francisco, Seattle",
+      "category": "ai",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=7939868",
+      "updatedAt": "2026-09-25T16:44:44-04:00",
       "source": "Direct ATS"
     },
     {
@@ -20479,19 +20466,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8023524",
-      "title": "Technical Account Manager",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Mexico City",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8023524",
-      "updatedAt": "2026-09-25T16:44:47-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8044158",
       "title": "Technical Account Manager",
       "company": "Stripe",
@@ -20502,6 +20476,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8044158",
       "updatedAt": "2026-09-25T16:44:48-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8023524",
+      "title": "Technical Account Manager",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Mexico City",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8023524",
+      "updatedAt": "2026-09-25T16:44:47-04:00",
       "source": "Direct ATS"
     },
     {
@@ -20622,19 +20609,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8142856",
-      "title": "Technical Recruiter (Fixed Term Contract)",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Singapore",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8142856",
-      "updatedAt": "2026-09-25T16:44:56-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8154525",
       "title": "Technical Recruiter (Fixed Term Contract)",
       "company": "Stripe",
@@ -20645,6 +20619,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8154525",
       "updatedAt": "2026-09-25T16:44:57-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8142856",
+      "title": "Technical Recruiter (Fixed Term Contract)",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Singapore",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8142856",
+      "updatedAt": "2026-09-25T16:44:56-04:00",
       "source": "Direct ATS"
     },
     {
@@ -20687,19 +20674,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-7860377",
-      "title": "Technical Support Engineer, Metronome",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Dublin, Ireland",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=7860377",
-      "updatedAt": "2026-09-25T16:44:40-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8171220",
       "title": "Technical Support Engineer, Metronome",
       "company": "Stripe",
@@ -20710,6 +20684,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8171220",
       "updatedAt": "2026-09-25T16:45:00-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-7860377",
+      "title": "Technical Support Engineer, Metronome",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Dublin, Ireland",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=7860377",
+      "updatedAt": "2026-09-25T16:44:40-04:00",
       "source": "Direct ATS"
     },
     {
@@ -43255,19 +43242,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8099751002",
-      "title": "AI Engineer - FDE (Forward Deployed Engineer)",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Remote - India",
-      "category": "fde",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8099751002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8574655002",
       "title": "AI Engineer - FDE (Forward Deployed Engineer)",
       "company": "Databricks",
@@ -43277,6 +43251,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8574655002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8099751002",
+      "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Remote - India",
+      "category": "fde",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8099751002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -43437,19 +43424,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8423165002",
-      "title": "Business Development Representative",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Chicago, Illinois",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8423165002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8423167002",
       "title": "Business Development Representative",
       "company": "Databricks",
@@ -43459,6 +43433,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8423167002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8423165002",
+      "title": "Business Development Representative",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Chicago, Illinois",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8423165002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -43502,45 +43489,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8575046002",
-      "title": "Delivery Solutions Architect",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Paris, France",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8575046002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8441894002",
-      "title": "Delivery Solutions Architect",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Finland; Remote - Denmark; Stockholm, Sweden",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8441894002",
-      "updatedAt": "2026-09-25T06:23:29-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8735820002",
-      "title": "Delivery Solutions Architect",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Melbourne, Australia; Queensland, Australia",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8735820002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8549044002",
       "title": "Delivery Solutions Architect",
       "company": "Databricks",
@@ -43554,41 +43502,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8735814002",
+      "id": "gh-8575046002",
       "title": "Delivery Solutions Architect",
       "company": "Databricks",
       "logo": "\ud83d\udd37",
-      "location": "Mumbai, India",
+      "location": "Paris, France",
       "category": "engineering",
       "experienceLevel": "lead",
       "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8735814002",
-      "updatedAt": "2026-09-25T07:36:44-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8549681002",
-      "title": "Delivery Solutions Architect",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "London, United Kingdom",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8549681002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8826872002",
-      "title": "Delivery Solutions Architect",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Munich, Germany",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8826872002",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8575046002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -43606,6 +43528,45 @@
       "source": "Direct ATS"
     },
     {
+      "id": "gh-8813844002",
+      "title": "Delivery Solutions Architect",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Tokyo, Japan",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8813844002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8441894002",
+      "title": "Delivery Solutions Architect",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Finland; Remote - Denmark; Stockholm, Sweden",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8441894002",
+      "updatedAt": "2026-09-25T06:23:29-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8826872002",
+      "title": "Delivery Solutions Architect",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Munich, Germany",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8826872002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
       "id": "gh-8575048002",
       "title": "Delivery Solutions Architect",
       "company": "Databricks",
@@ -43619,15 +43580,41 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8813844002",
+      "id": "gh-8549681002",
       "title": "Delivery Solutions Architect",
       "company": "Databricks",
       "logo": "\ud83d\udd37",
-      "location": "Tokyo, Japan",
+      "location": "London, United Kingdom",
       "category": "engineering",
       "experienceLevel": "lead",
       "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8813844002",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8549681002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8735814002",
+      "title": "Delivery Solutions Architect",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Mumbai, India",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8735814002",
+      "updatedAt": "2026-09-25T07:36:44-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8735820002",
+      "title": "Delivery Solutions Architect",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Melbourne, Australia; Queensland, Australia",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8735820002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -43762,16 +43749,16 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8637736002",
+      "id": "gh-8548183002",
       "title": "Deployment Strategist",
       "company": "Databricks",
       "logo": "\ud83d\udd37",
-      "location": "Remote - India",
+      "location": "London, United Kingdom",
       "category": "fde",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8637736002",
-      "updatedAt": "2026-09-22T22:22:27-04:00",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8548183002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
     {
@@ -43788,19 +43775,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8548183002",
-      "title": "Deployment Strategist",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "London, United Kingdom",
-      "category": "fde",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8548183002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8630011002",
       "title": "Deployment Strategist",
       "company": "Databricks",
@@ -43811,6 +43785,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8630011002",
       "updatedAt": "2026-09-22T22:21:05-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8637736002",
+      "title": "Deployment Strategist",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Remote - India",
+      "category": "fde",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8637736002",
+      "updatedAt": "2026-09-22T22:22:27-04:00",
       "source": "Direct ATS"
     },
     {
@@ -44477,19 +44464,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8813191002",
-      "title": "Enterprise Account Executive - China",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Singapore",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8813191002",
-      "updatedAt": "2026-09-25T04:04:25-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8844022002",
       "title": "Enterprise Account Executive - China",
       "company": "Databricks",
@@ -44499,6 +44473,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8844022002",
+      "updatedAt": "2026-09-25T04:04:25-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8813191002",
+      "title": "Enterprise Account Executive - China",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Singapore",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8813191002",
       "updatedAt": "2026-09-25T04:04:25-04:00",
       "source": "Direct ATS"
     },
@@ -44698,19 +44685,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8604250002",
-      "title": "Enterprise Account Executive, State and Local",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Southeast - United States",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8604250002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8631661002",
       "title": "Enterprise Account Executive, State and Local",
       "company": "Databricks",
@@ -44720,6 +44694,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8631661002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8604250002",
+      "title": "Enterprise Account Executive, State and Local",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Southeast - United States",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8604250002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -44854,19 +44841,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8229672002",
-      "title": "Executive Assistant",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Costa Rica",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8229672002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8842226002",
       "title": "Executive Assistant",
       "company": "Databricks",
@@ -44877,6 +44851,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8842226002",
       "updatedAt": "2026-09-25T16:48:36-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8229672002",
+      "title": "Executive Assistant",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Costa Rica",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8229672002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
     {
@@ -45010,6 +44997,19 @@
       "source": "Direct ATS"
     },
     {
+      "id": "gh-8540455002",
+      "title": "Forward Deployed Engineer",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Seoul, South Korea",
+      "category": "fde",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8540455002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
       "id": "gh-8462016002",
       "title": "Forward Deployed Engineer",
       "company": "Databricks",
@@ -45020,19 +45020,6 @@
       "atsType": "greenhouse",
       "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8462016002",
       "updatedAt": "2026-09-22T04:48:53-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8741922002",
-      "title": "Forward Deployed Engineer",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Tokyo, Japan",
-      "category": "fde",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8741922002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
     {
@@ -45049,15 +45036,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8540455002",
+      "id": "gh-8741922002",
       "title": "Forward Deployed Engineer",
       "company": "Databricks",
       "logo": "\ud83d\udd37",
-      "location": "Seoul, South Korea",
+      "location": "Tokyo, Japan",
       "category": "fde",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8540455002",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8741922002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -45361,54 +45348,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8569558002",
+      "id": "gh-8569457002",
       "title": "Lakebase Sales Specialist",
       "company": "Databricks",
       "logo": "\ud83d\udd37",
-      "location": "Herzliya, Israel",
+      "location": "Mexico City",
       "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569558002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8569552002",
-      "title": "Lakebase Sales Specialist",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Paris, France",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569552002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8569524002",
-      "title": "Lakebase Sales Specialist",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Amsterdam, Netherlands",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569524002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8569572002",
-      "title": "Lakebase Sales Specialist",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Tokyo, Japan",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569572002",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569457002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -45426,19 +45374,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8569554002",
-      "title": "Lakebase Sales Specialist",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Milan, Italy",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569554002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8569410002",
       "title": "Lakebase Sales Specialist",
       "company": "Databricks",
@@ -45452,15 +45387,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8569522002",
+      "id": "gh-8569552002",
       "title": "Lakebase Sales Specialist",
       "company": "Databricks",
       "logo": "\ud83d\udd37",
-      "location": "Stockholm, Sweden",
+      "location": "Paris, France",
       "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569522002",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569552002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -45478,15 +45413,67 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8569457002",
+      "id": "gh-8569572002",
       "title": "Lakebase Sales Specialist",
       "company": "Databricks",
       "logo": "\ud83d\udd37",
-      "location": "Mexico City",
+      "location": "Tokyo, Japan",
       "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569457002",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569572002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8569558002",
+      "title": "Lakebase Sales Specialist",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Herzliya, Israel",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569558002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8569554002",
+      "title": "Lakebase Sales Specialist",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Milan, Italy",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569554002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8569522002",
+      "title": "Lakebase Sales Specialist",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Stockholm, Sweden",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569522002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8569524002",
+      "title": "Lakebase Sales Specialist",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Amsterdam, Netherlands",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569524002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -45595,15 +45582,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8569594002",
+      "id": "gh-8569570002",
       "title": "Lakebase Specialist Sales",
       "company": "Databricks",
       "logo": "\ud83d\udd37",
-      "location": "Singapore",
+      "location": "Melbourne, Australia",
       "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569594002",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569570002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -45621,15 +45608,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8569570002",
+      "id": "gh-8569594002",
       "title": "Lakebase Specialist Sales",
       "company": "Databricks",
       "logo": "\ud83d\udd37",
-      "location": "Melbourne, Australia",
+      "location": "Singapore",
       "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569570002",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569594002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -45722,6 +45709,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8768956002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8403943002",
+      "title": "Lead Solutions Architect - Generative AI (EMEA Emerging DNB)",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Remote - United Kingdom",
+      "category": "ai",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8403943002",
+      "updatedAt": "2026-09-27T10:14:23-04:00",
       "source": "Direct ATS"
     },
     {
@@ -45933,15 +45933,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8503068002",
+      "id": "gh-8535419002",
       "title": "Manager, Forward Deployed Engineering",
       "company": "Databricks",
       "logo": "\ud83d\udd37",
-      "location": "Remote - India",
+      "location": "Tokyo, Japan",
       "category": "fde",
       "experienceLevel": "senior",
       "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8503068002",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8535419002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -45959,6 +45959,19 @@
       "source": "Direct ATS"
     },
     {
+      "id": "gh-8503068002",
+      "title": "Manager, Forward Deployed Engineering",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Remote - India",
+      "category": "fde",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8503068002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
       "id": "gh-8445817002",
       "title": "Manager, Forward Deployed Engineering",
       "company": "Databricks",
@@ -45968,19 +45981,6 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8445817002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8535419002",
-      "title": "Manager, Forward Deployed Engineering",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Tokyo, Japan",
-      "category": "fde",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8535419002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -46102,19 +46102,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8536436002",
-      "title": "Named Enterprise Account Executive",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Stockholm, Sweden",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8536436002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8536432002",
       "title": "Named Enterprise Account Executive",
       "company": "Databricks",
@@ -46124,6 +46111,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8536432002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8536436002",
+      "title": "Named Enterprise Account Executive",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Stockholm, Sweden",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8536436002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -46284,19 +46284,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8400559002",
-      "title": "Principal Engineer, Authentication",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Mountain View, California; San Francisco, California",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8400559002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8400563002",
       "title": "Principal Engineer, Authentication",
       "company": "Databricks",
@@ -46306,6 +46293,19 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8400563002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8400559002",
+      "title": "Principal Engineer, Authentication",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Mountain View, California; San Francisco, California",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8400559002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -46323,32 +46323,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-7274488002",
-      "title": "Principal Engineer - Privacy",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "San Francisco, California",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=7274488002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-7274875002",
-      "title": "Principal Engineer - Privacy",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Amsterdam, Netherlands",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=7274875002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-7274619002",
       "title": "Principal Engineer - Privacy",
       "company": "Databricks",
@@ -46362,6 +46336,19 @@
       "source": "Direct ATS"
     },
     {
+      "id": "gh-7274488002",
+      "title": "Principal Engineer - Privacy",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "San Francisco, California",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=7274488002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
       "id": "gh-8224828002",
       "title": "Principal Engineer - Privacy",
       "company": "Databricks",
@@ -46371,6 +46358,19 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8224828002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-7274875002",
+      "title": "Principal Engineer - Privacy",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Amsterdam, Netherlands",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=7274875002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -46583,19 +46583,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8679970002",
-      "title": "SAP Functional SME",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Mountain View, California",
-      "category": "data",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8679970002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8688851002",
       "title": "SAP Functional SME",
       "company": "Databricks",
@@ -46605,6 +46592,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8688851002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8679970002",
+      "title": "SAP Functional SME",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Mountain View, California",
+      "category": "data",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8679970002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -46622,19 +46622,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8779023002",
-      "title": "Scale Solution Engineer",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Heredia, Costa Rica",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8779023002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8779016002",
       "title": "Scale Solution Engineer",
       "company": "Databricks",
@@ -46644,6 +46631,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8779016002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8779023002",
+      "title": "Scale Solution Engineer",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Heredia, Costa Rica",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8779023002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -46947,19 +46947,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8422798002",
-      "title": "Senior Manager, Global Premier Support",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Mountain View, California; Plano, Texas; San Francisco, California",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8422798002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8583146002",
       "title": "Senior Manager, Global Premier Support",
       "company": "Databricks",
@@ -46969,6 +46956,19 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8583146002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8422798002",
+      "title": "Senior Manager, Global Premier Support",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Mountain View, California; Plano, Texas; San Francisco, California",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8422798002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -46986,19 +46986,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-7734812002",
-      "title": "Senior Manager, Infrastructure Data Science",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "San Francisco, California",
-      "category": "data",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=7734812002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-7641390002",
       "title": "Senior Manager, Infrastructure Data Science",
       "company": "Databricks",
@@ -47008,6 +46995,19 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=7641390002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-7734812002",
+      "title": "Senior Manager, Infrastructure Data Science",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "San Francisco, California",
+      "category": "data",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=7734812002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -47168,19 +47168,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-6779084002",
-      "title": "Senior Software Engineer - Backend",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Bellevue, Washington",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=6779084002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-4799387002",
       "title": "Senior Software Engineer - Backend",
       "company": "Databricks",
@@ -47194,54 +47181,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-7477087002",
+      "id": "gh-8029671002",
       "title": "Senior Software Engineer - Backend",
       "company": "Databricks",
       "logo": "\ud83d\udd37",
-      "location": "Berlin, Germany",
+      "location": "Amsterdam, Netherlands",
       "category": "engineering",
       "experienceLevel": "senior",
       "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=7477087002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8012803002",
-      "title": "Senior Software Engineer - Backend",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Belgrade, Serbia",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8012803002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8320183002",
-      "title": "Senior Software Engineer - Backend",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Bengaluru, India",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8320183002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8093295002",
-      "title": "Senior Software Engineer - Backend",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Vancouver, Canada",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8093295002",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8029671002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -47259,15 +47207,67 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8029671002",
+      "id": "gh-8093295002",
       "title": "Senior Software Engineer - Backend",
       "company": "Databricks",
       "logo": "\ud83d\udd37",
-      "location": "Amsterdam, Netherlands",
+      "location": "Vancouver, Canada",
       "category": "engineering",
       "experienceLevel": "senior",
       "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8029671002",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8093295002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8012803002",
+      "title": "Senior Software Engineer - Backend",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Belgrade, Serbia",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8012803002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-7477087002",
+      "title": "Senior Software Engineer - Backend",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Berlin, Germany",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=7477087002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-6779084002",
+      "title": "Senior Software Engineer - Backend",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Bellevue, Washington",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=6779084002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8320183002",
+      "title": "Senior Software Engineer - Backend",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Bengaluru, India",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8320183002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -47337,19 +47337,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8012809002",
-      "title": "Senior Software Engineer - Database Engine Internals",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Belgrade, Serbia",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8012809002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-6544383002",
       "title": "Senior Software Engineer - Database Engine Internals",
       "company": "Databricks",
@@ -47359,6 +47346,19 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544383002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8012809002",
+      "title": "Senior Software Engineer - Database Engine Internals",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Belgrade, Serbia",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8012809002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -47389,15 +47389,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-4513122002",
+      "id": "gh-6936994002",
       "title": "Senior Software Engineer - Distributed Data Systems",
       "company": "Databricks",
       "logo": "\ud83d\udd37",
-      "location": "San Francisco, California",
+      "location": "Bellevue, Washington",
       "category": "data",
       "experienceLevel": "senior",
       "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=4513122002",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=6936994002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -47415,6 +47415,19 @@
       "source": "Direct ATS"
     },
     {
+      "id": "gh-4513122002",
+      "title": "Senior Software Engineer - Distributed Data Systems",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "San Francisco, California",
+      "category": "data",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=4513122002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
       "id": "gh-8012800002",
       "title": "Senior Software Engineer - Distributed Data Systems",
       "company": "Databricks",
@@ -47424,45 +47437,6 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8012800002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-6936994002",
-      "title": "Senior Software Engineer - Distributed Data Systems",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Bellevue, Washington",
-      "category": "data",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=6936994002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8099342002",
-      "title": "Senior Software Engineer - Fullstack",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Vancouver, Canada",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8099342002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-7898766002",
-      "title": "Senior Software Engineer - Fullstack",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Mountain View, California; San Francisco, California",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=7898766002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -47480,6 +47454,32 @@
       "source": "Direct ATS"
     },
     {
+      "id": "gh-8029679002",
+      "title": "Senior Software Engineer - Fullstack",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Amsterdam, Netherlands",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8029679002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8099342002",
+      "title": "Senior Software Engineer - Fullstack",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Vancouver, Canada",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8099342002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
       "id": "gh-5445641002",
       "title": "Senior Software Engineer - Fullstack",
       "company": "Databricks",
@@ -47493,15 +47493,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8029679002",
+      "id": "gh-7898766002",
       "title": "Senior Software Engineer - Fullstack",
       "company": "Databricks",
       "logo": "\ud83d\udd37",
-      "location": "Amsterdam, Netherlands",
+      "location": "Mountain View, California; San Francisco, California",
       "category": "engineering",
       "experienceLevel": "senior",
       "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8029679002",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=7898766002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -47675,20 +47675,7 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8567957002",
-      "title": "Senior Solutions Architect",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Central - United States; Northeast - United States; Southeast - United States",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8567957002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8652984002",
+      "id": "gh-8661245002",
       "title": "Senior Solutions Architect",
       "company": "Databricks",
       "logo": "\ud83d\udd37",
@@ -47696,7 +47683,7 @@
       "category": "engineering",
       "experienceLevel": "lead",
       "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8652984002",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8661245002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -47714,7 +47701,7 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8661245002",
+      "id": "gh-8652984002",
       "title": "Senior Solutions Architect",
       "company": "Databricks",
       "logo": "\ud83d\udd37",
@@ -47722,7 +47709,20 @@
       "category": "engineering",
       "experienceLevel": "lead",
       "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8661245002",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8652984002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8567957002",
+      "title": "Senior Solutions Architect",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Central - United States; Northeast - United States; Southeast - United States",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8567957002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -47753,19 +47753,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8720251002",
-      "title": "Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Paris, France",
-      "category": "data",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8720251002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8720254002",
       "title": "Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)",
       "company": "Databricks",
@@ -47788,6 +47775,19 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8720253002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8720251002",
+      "title": "Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Paris, France",
+      "category": "data",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8720251002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -48013,15 +48013,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8303017002",
+      "id": "gh-8303015002",
       "title": "Senior Staff Software Engineer - Delta",
       "company": "Databricks",
       "logo": "\ud83d\udd37",
-      "location": "Z\u00fcrich, Switzerland",
+      "location": "Amsterdam, Netherlands",
       "category": "engineering",
       "experienceLevel": "lead",
       "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8303017002",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8303015002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -48039,19 +48039,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8303020002",
-      "title": "Senior Staff Software Engineer - Delta",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "London, United Kingdom",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8303020002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8303014002",
       "title": "Senior Staff Software Engineer - Delta",
       "company": "Databricks",
@@ -48065,15 +48052,28 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8303015002",
+      "id": "gh-8303017002",
       "title": "Senior Staff Software Engineer - Delta",
       "company": "Databricks",
       "logo": "\ud83d\udd37",
-      "location": "Amsterdam, Netherlands",
+      "location": "Z\u00fcrich, Switzerland",
       "category": "engineering",
       "experienceLevel": "lead",
       "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8303015002",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8303017002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8303020002",
+      "title": "Senior Staff Software Engineer - Delta",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "London, United Kingdom",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8303020002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -48156,19 +48156,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-7274908002",
-      "title": "Senior Staff Software Engineer - Security Infrastructure",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Mountain View, California",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=7274908002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-7274902002",
       "title": "Senior Staff Software Engineer - Security Infrastructure",
       "company": "Databricks",
@@ -48178,6 +48165,19 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=7274902002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-7274908002",
+      "title": "Senior Staff Software Engineer - Security Infrastructure",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Mountain View, California",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=7274908002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -48312,80 +48312,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5898477002",
+      "id": "gh-8605160002",
       "title": "Solutions Architect",
       "company": "Databricks",
       "logo": "\ud83d\udd37",
-      "location": "Toronto, Canada",
+      "location": "Arizona; California; Utah",
       "category": "engineering",
       "experienceLevel": "lead",
       "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=5898477002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8633227002",
-      "title": "Solutions Architect",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Central - United States",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8633227002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8641892002",
-      "title": "Solutions Architect",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Pune, India",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8641892002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8531153002",
-      "title": "Solutions Architect",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Stockholm, Sweden",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8531153002",
-      "updatedAt": "2026-09-24T09:19:36-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8603684002",
-      "title": "Solutions Architect",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Auckland, New Zealand",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8603684002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8437008002",
-      "title": "Solutions Architect",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Queensland, Australia",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8437008002",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8605160002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -48403,15 +48338,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8568031002",
+      "id": "gh-8607718002",
       "title": "Solutions Architect",
       "company": "Databricks",
       "logo": "\ud83d\udd37",
-      "location": "San Francisco, California",
+      "location": "Seoul, South Korea",
       "category": "engineering",
       "experienceLevel": "lead",
       "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8568031002",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8607718002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -48442,15 +48377,28 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8608603002",
+      "id": "gh-7896350002",
       "title": "Solutions Architect",
       "company": "Databricks",
       "logo": "\ud83d\udd37",
-      "location": "Munich, Germany",
+      "location": "Mexico City",
       "category": "engineering",
       "experienceLevel": "lead",
       "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8608603002",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=7896350002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8437008002",
+      "title": "Solutions Architect",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Queensland, Australia",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8437008002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -48468,15 +48416,28 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-7896350002",
+      "id": "gh-8641892002",
       "title": "Solutions Architect",
       "company": "Databricks",
       "logo": "\ud83d\udd37",
-      "location": "Mexico City",
+      "location": "Pune, India",
       "category": "engineering",
       "experienceLevel": "lead",
       "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=7896350002",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8641892002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8633227002",
+      "title": "Solutions Architect",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Central - United States",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8633227002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -48494,32 +48455,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8605160002",
-      "title": "Solutions Architect",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Arizona; California; Utah",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8605160002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8607718002",
-      "title": "Solutions Architect",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Seoul, South Korea",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8607718002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8795446002",
       "title": "Solutions Architect",
       "company": "Databricks",
@@ -48530,6 +48465,71 @@
       "atsType": "greenhouse",
       "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8795446002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8603684002",
+      "title": "Solutions Architect",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Auckland, New Zealand",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8603684002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8568031002",
+      "title": "Solutions Architect",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "San Francisco, California",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8568031002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5898477002",
+      "title": "Solutions Architect",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Toronto, Canada",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=5898477002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8608603002",
+      "title": "Solutions Architect",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Munich, Germany",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8608603002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8531153002",
+      "title": "Solutions Architect",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Stockholm, Sweden",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8531153002",
+      "updatedAt": "2026-09-24T09:19:36-04:00",
       "source": "Direct ATS"
     },
     {
@@ -48555,32 +48555,6 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8746185002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8755476002",
-      "title": "Solutions Architect - Communications, Media, Entertainment and Games",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Remote - New York",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8755476002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8755482002",
-      "title": "Solutions Architect - Communications, Media, Entertainment and Games",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Remote - Pennsylvania",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8755482002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -48637,6 +48611,32 @@
       "source": "Direct ATS"
     },
     {
+      "id": "gh-8755476002",
+      "title": "Solutions Architect - Communications, Media, Entertainment and Games",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Remote - New York",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8755476002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8755482002",
+      "title": "Solutions Architect - Communications, Media, Entertainment and Games",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Remote - Pennsylvania",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8755482002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
       "id": "gh-6117756002",
       "title": "Solutions Architect - Communications, Media, Entertainment & Gaming",
       "company": "Databricks",
@@ -48676,6 +48676,32 @@
       "source": "Direct ATS"
     },
     {
+      "id": "gh-8798964002",
+      "title": "Solutions Architect, CustomerLake",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Berlin, Germany",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8798964002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8762388002",
+      "title": "Solutions Architect, CustomerLake",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "London, United Kingdom",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8762388002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
       "id": "gh-8785263002",
       "title": "Solutions Architect, CustomerLake",
       "company": "Databricks",
@@ -48711,32 +48737,6 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8785266002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8798964002",
-      "title": "Solutions Architect, CustomerLake",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Berlin, Germany",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8798964002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8762388002",
-      "title": "Solutions Architect, CustomerLake",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "London, United Kingdom",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8762388002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -48975,19 +48975,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8568009002",
-      "title": "Solutions Architect - Lakebase",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Milan, Italy",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8568009002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8567993002",
       "title": "Solutions Architect - Lakebase",
       "company": "Databricks",
@@ -48997,6 +48984,19 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8567993002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8568009002",
+      "title": "Solutions Architect - Lakebase",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Milan, Italy",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8568009002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -49261,19 +49261,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8593505002",
-      "title": "Specialist Solutions Architect - AI/ML",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Mumbai, India",
-      "category": "ai",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8593505002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8697991002",
       "title": "Specialist Solutions Architect - AI/ML",
       "company": "Databricks",
@@ -49283,6 +49270,19 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8697991002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8593505002",
+      "title": "Specialist Solutions Architect - AI/ML",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Mumbai, India",
+      "category": "ai",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8593505002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -49365,19 +49365,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8785055002",
-      "title": "Specialist Solutions Architect (Security)",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Tokyo, Japan",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8785055002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8622164002",
       "title": "Specialist Solutions Architect (Security)",
       "company": "Databricks",
@@ -49388,6 +49375,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8622164002",
       "updatedAt": "2026-09-22T12:18:53-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8785055002",
+      "title": "Specialist Solutions Architect (Security)",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Tokyo, Japan",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8785055002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
     {
@@ -49534,19 +49534,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8583353002",
-      "title": "Sr. Delivery Solutions Architect",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Tokyo, Japan",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8583353002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8465963002",
       "title": "Sr. Delivery Solutions Architect",
       "company": "Databricks",
@@ -49556,6 +49543,19 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8465963002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8583353002",
+      "title": "Sr. Delivery Solutions Architect",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Tokyo, Japan",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8583353002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -49898,19 +49898,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8487325002",
-      "title": "Sr. Executive Assistant",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Mountain View, California; San Francisco, California",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8487325002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8523677002",
       "title": "Sr. Executive Assistant",
       "company": "Databricks",
@@ -49920,6 +49907,19 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8523677002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8487325002",
+      "title": "Sr. Executive Assistant",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Mountain View, California; San Francisco, California",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8487325002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -49976,15 +49976,28 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8739474002",
+      "id": "gh-8514430002",
       "title": "Sr. Forward Deployed Engineer",
       "company": "Databricks",
       "logo": "\ud83d\udd37",
-      "location": "San Francisco, California",
+      "location": "Western Australia, Australia",
       "category": "fde",
       "experienceLevel": "senior",
       "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739474002",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8514430002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8739484002",
+      "title": "Sr. Forward Deployed Engineer",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "United States",
+      "category": "fde",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739484002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -50015,32 +50028,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8739484002",
-      "title": "Sr. Forward Deployed Engineer",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "United States",
-      "category": "fde",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739484002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8739465002",
-      "title": "Sr. Forward Deployed Engineer",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Remote - Washington D.C.",
-      "category": "fde",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739465002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8741925002",
       "title": "Sr. Forward Deployed Engineer",
       "company": "Databricks",
@@ -50050,32 +50037,6 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8741925002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8739462002",
-      "title": "Sr. Forward Deployed Engineer",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "New York City, New York",
-      "category": "fde",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739462002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8739458002",
-      "title": "Sr. Forward Deployed Engineer",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Chicago, Illinois",
-      "category": "fde",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739458002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -50093,171 +50054,54 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8514430002",
+      "id": "gh-8739458002",
       "title": "Sr. Forward Deployed Engineer",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Western Australia, Australia",
-      "category": "fde",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8514430002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8461226002",
-      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "New York City, New York",
-      "category": "fde",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461226002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8461168002",
-      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Los Angeles, California",
-      "category": "fde",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461168002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8461243002",
-      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Denver, Colorado",
-      "category": "fde",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461243002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8461251002",
-      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Mountain View, California",
-      "category": "fde",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461251002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8461258002",
-      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Raleigh, North Carolina",
-      "category": "fde",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461258002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8461222002",
-      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Boston, Massachusetts",
-      "category": "fde",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461222002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8461220002",
-      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
       "company": "Databricks",
       "logo": "\ud83d\udd37",
       "location": "Chicago, Illinois",
       "category": "fde",
       "experienceLevel": "senior",
       "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461220002",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739458002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8461219002",
-      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+      "id": "gh-8739462002",
+      "title": "Sr. Forward Deployed Engineer",
       "company": "Databricks",
       "logo": "\ud83d\udd37",
-      "location": "Austin, Texas",
+      "location": "New York City, New York",
       "category": "fde",
       "experienceLevel": "senior",
       "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461219002",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739462002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8461218002",
-      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+      "id": "gh-8739465002",
+      "title": "Sr. Forward Deployed Engineer",
       "company": "Databricks",
       "logo": "\ud83d\udd37",
-      "location": "Dallas, Texas",
+      "location": "Remote - Washington D.C.",
       "category": "fde",
       "experienceLevel": "senior",
       "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461218002",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739465002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8461193002",
-      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Seattle, Washington",
-      "category": "fde",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461193002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8461163002",
-      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+      "id": "gh-8739474002",
+      "title": "Sr. Forward Deployed Engineer",
       "company": "Databricks",
       "logo": "\ud83d\udd37",
       "location": "San Francisco, California",
       "category": "fde",
       "experienceLevel": "senior",
       "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461163002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8461239002",
-      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Atlanta, Georgia",
-      "category": "fde",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461239002",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739474002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -50275,6 +50119,45 @@
       "source": "Direct ATS"
     },
     {
+      "id": "gh-8461243002",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Denver, Colorado",
+      "category": "fde",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461243002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8461222002",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Boston, Massachusetts",
+      "category": "fde",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461222002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8461251002",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Mountain View, California",
+      "category": "fde",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461251002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
       "id": "gh-8494153002",
       "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
       "company": "Databricks",
@@ -50284,6 +50167,123 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494153002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8461163002",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "San Francisco, California",
+      "category": "fde",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461163002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8461168002",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Los Angeles, California",
+      "category": "fde",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461168002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8461193002",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Seattle, Washington",
+      "category": "fde",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461193002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8461218002",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Dallas, Texas",
+      "category": "fde",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461218002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8461219002",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Austin, Texas",
+      "category": "fde",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461219002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8461220002",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Chicago, Illinois",
+      "category": "fde",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461220002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8461226002",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "New York City, New York",
+      "category": "fde",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461226002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8461258002",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Raleigh, North Carolina",
+      "category": "fde",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461258002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8461239002",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Atlanta, Georgia",
+      "category": "fde",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461239002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -50301,15 +50301,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8488399002",
+      "id": "gh-8807081002",
       "title": "Sr. Forward Deployed Engineer (FDE) - Digital Native Business",
       "company": "Databricks",
       "logo": "\ud83d\udd37",
-      "location": "San Francisco, California",
+      "location": "West Coast - United States",
       "category": "fde",
       "experienceLevel": "senior",
       "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8488399002",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8807081002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -50327,15 +50327,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8807049002",
+      "id": "gh-8488399002",
       "title": "Sr. Forward Deployed Engineer (FDE) - Digital Native Business",
       "company": "Databricks",
       "logo": "\ud83d\udd37",
-      "location": "Remote - New York",
+      "location": "San Francisco, California",
       "category": "fde",
       "experienceLevel": "senior",
       "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8807049002",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8488399002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -50353,119 +50353,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8807081002",
+      "id": "gh-8807049002",
       "title": "Sr. Forward Deployed Engineer (FDE) - Digital Native Business",
       "company": "Databricks",
       "logo": "\ud83d\udd37",
-      "location": "West Coast - United States",
+      "location": "Remote - New York",
       "category": "fde",
       "experienceLevel": "senior",
       "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8807081002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8592908002",
-      "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Atlanta, Georgia",
-      "category": "fde",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592908002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8592942002",
-      "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "New York City, New York",
-      "category": "fde",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592942002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8592937002",
-      "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Boston, Massachusetts",
-      "category": "fde",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592937002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8592952002",
-      "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Washington, D.C.",
-      "category": "fde",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592952002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8592938002",
-      "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Chicago, Illinois",
-      "category": "fde",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592938002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8438791002",
-      "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Central - United States",
-      "category": "fde",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8438791002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8592939002",
-      "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Philadelphia, Pennsylvania",
-      "category": "fde",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592939002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8592951002",
-      "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Charlotte, North Carolina",
-      "category": "fde",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592951002",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8807049002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -50483,15 +50379,106 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8782216002",
-      "title": "Sr. Forward Deployed Engineer - FDE (Fullstack)",
+      "id": "gh-8592937002",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
       "company": "Databricks",
       "logo": "\ud83d\udd37",
-      "location": "Z\u00fcrich, Switzerland",
+      "location": "Boston, Massachusetts",
       "category": "fde",
       "experienceLevel": "senior",
       "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8782216002",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592937002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8592951002",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Charlotte, North Carolina",
+      "category": "fde",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592951002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8438791002",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Central - United States",
+      "category": "fde",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8438791002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8592908002",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Atlanta, Georgia",
+      "category": "fde",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592908002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8592938002",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Chicago, Illinois",
+      "category": "fde",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592938002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8592939002",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Philadelphia, Pennsylvania",
+      "category": "fde",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592939002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8592942002",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "New York City, New York",
+      "category": "fde",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592942002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8592952002",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Washington, D.C.",
+      "category": "fde",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592952002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -50509,28 +50496,28 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8494146002",
-      "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
+      "id": "gh-8782216002",
+      "title": "Sr. Forward Deployed Engineer - FDE (Fullstack)",
       "company": "Databricks",
       "logo": "\ud83d\udd37",
-      "location": "Atlanta, Georgia",
+      "location": "Z\u00fcrich, Switzerland",
       "category": "fde",
       "experienceLevel": "senior",
       "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494146002",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8782216002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8371312002",
+      "id": "gh-8494148002",
       "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
       "company": "Databricks",
       "logo": "\ud83d\udd37",
-      "location": "New York City, New York",
+      "location": "Philadelphia, Pennsylvania",
       "category": "fde",
       "experienceLevel": "senior",
       "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8371312002",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494148002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -50561,19 +50548,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8494148002",
-      "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Philadelphia, Pennsylvania",
-      "category": "fde",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494148002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8494144002",
       "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
       "company": "Databricks",
@@ -50600,28 +50574,41 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8341313002",
-      "title": "Sr. Forward Deployed Engineer (FDE) - Manufacturing",
+      "id": "gh-8494146002",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Atlanta, Georgia",
+      "category": "fde",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494146002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8371312002",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
       "company": "Databricks",
       "logo": "\ud83d\udd37",
       "location": "New York City, New York",
       "category": "fde",
       "experienceLevel": "senior",
       "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8341313002",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8371312002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8494156002",
+      "id": "gh-8494154002",
       "title": "Sr. Forward Deployed Engineer (FDE) - Manufacturing",
       "company": "Databricks",
       "logo": "\ud83d\udd37",
-      "location": "Seattle, Washington",
+      "location": "Boston, Massachusetts",
       "category": "fde",
       "experienceLevel": "senior",
       "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494156002",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494154002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -50639,15 +50626,28 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8494154002",
+      "id": "gh-8494156002",
       "title": "Sr. Forward Deployed Engineer (FDE) - Manufacturing",
       "company": "Databricks",
       "logo": "\ud83d\udd37",
-      "location": "Boston, Massachusetts",
+      "location": "Seattle, Washington",
       "category": "fde",
       "experienceLevel": "senior",
       "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494154002",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494156002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8341313002",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Manufacturing",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "New York City, New York",
+      "category": "fde",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8341313002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -50678,6 +50678,32 @@
       "source": "Direct ATS"
     },
     {
+      "id": "gh-8647667002",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Central - United States",
+      "category": "fde",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8647667002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8647677002",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Remote - California",
+      "category": "fde",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8647677002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
       "id": "gh-8647675002",
       "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
       "company": "Databricks",
@@ -50704,6 +50730,19 @@
       "source": "Direct ATS"
     },
     {
+      "id": "gh-8643895002",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Northeast - United States; Southeast - United States",
+      "category": "fde",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8643895002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
       "id": "gh-8647669002",
       "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
       "company": "Databricks",
@@ -50717,19 +50756,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8647677002",
-      "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Remote - California",
-      "category": "fde",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8647677002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8647668002",
       "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
       "company": "Databricks",
@@ -50739,32 +50765,6 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8647668002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8647667002",
-      "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Central - United States",
-      "category": "fde",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8647667002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8643895002",
-      "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Northeast - United States; Southeast - United States",
-      "category": "fde",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8643895002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -50990,19 +50990,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8682223002",
-      "title": "Sr. Manager, Field Engineering",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Sydney, Australia",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8682223002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8736179002",
       "title": "Sr. Manager, Field Engineering",
       "company": "Databricks",
@@ -51016,19 +51003,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8732052002",
-      "title": "Sr. Manager, Field Engineering",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Chicago, Illinois; Connecticut; New Jersey; Remote - New York; Remote - Washington D.C.; San Francisco, California",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732052002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8438767002",
       "title": "Sr. Manager, Field Engineering",
       "company": "Databricks",
@@ -51038,6 +51012,32 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8438767002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8682223002",
+      "title": "Sr. Manager, Field Engineering",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Sydney, Australia",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8682223002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8732052002",
+      "title": "Sr. Manager, Field Engineering",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Chicago, Illinois; Connecticut; New Jersey; Remote - New York; Remote - Washington D.C.; San Francisco, California",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732052002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -51341,19 +51341,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8235785002",
-      "title": "Sr. Product Manager, Databricks Free Edition",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Seattle, Washington",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8235785002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-7680573002",
       "title": "Sr. Product Manager, Databricks Free Edition",
       "company": "Databricks",
@@ -51363,6 +51350,19 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=7680573002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8235785002",
+      "title": "Sr. Product Manager, Databricks Free Edition",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Seattle, Washington",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8235785002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -51614,19 +51614,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8211452002",
-      "title": "Sr Software Engineer-Networking",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Mountain View, California",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8211452002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8211450002",
       "title": "Sr Software Engineer-Networking",
       "company": "Databricks",
@@ -51636,6 +51623,19 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8211450002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8211452002",
+      "title": "Sr Software Engineer-Networking",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Mountain View, California",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8211452002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -51679,6 +51679,45 @@
       "source": "Direct ATS"
     },
     {
+      "id": "gh-8632383002",
+      "title": "Sr. Solutions Architect",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Northeast - United States",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8632383002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8620635002",
+      "title": "Sr. Solutions Architect",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Melbourne, Australia",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8620635002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8682362002",
+      "title": "Sr. Solutions Architect",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "London, United Kingdom",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8682362002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
       "id": "gh-8620285002",
       "title": "Sr. Solutions Architect",
       "company": "Databricks",
@@ -51692,15 +51731,41 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8789428002",
+      "id": "gh-8537033002",
       "title": "Sr. Solutions Architect",
       "company": "Databricks",
       "logo": "\ud83d\udd37",
-      "location": "Singapore",
+      "location": "Queensland, Australia",
       "category": "engineering",
       "experienceLevel": "lead",
       "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8789428002",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8537033002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8567987002",
+      "title": "Sr. Solutions Architect",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Remote - Texas",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8567987002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8720995002",
+      "title": "Sr. Solutions Architect",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Munich, Germany",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8720995002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -51731,15 +51796,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8632383002",
+      "id": "gh-8476064002",
       "title": "Sr. Solutions Architect",
       "company": "Databricks",
       "logo": "\ud83d\udd37",
-      "location": "Northeast - United States",
+      "location": "Bengaluru, India",
       "category": "engineering",
       "experienceLevel": "lead",
       "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8632383002",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8476064002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -51770,28 +51835,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8720995002",
+      "id": "gh-8785045002",
       "title": "Sr. Solutions Architect",
       "company": "Databricks",
       "logo": "\ud83d\udd37",
-      "location": "Munich, Germany",
+      "location": "Auckland, New Zealand",
       "category": "engineering",
       "experienceLevel": "lead",
       "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8720995002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8476064002",
-      "title": "Sr. Solutions Architect",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Bengaluru, India",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8476064002",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8785045002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -51809,67 +51861,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8682362002",
+      "id": "gh-8789428002",
       "title": "Sr. Solutions Architect",
       "company": "Databricks",
       "logo": "\ud83d\udd37",
-      "location": "London, United Kingdom",
+      "location": "Singapore",
       "category": "engineering",
       "experienceLevel": "lead",
       "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8682362002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8785045002",
-      "title": "Sr. Solutions Architect",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Auckland, New Zealand",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8785045002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8567987002",
-      "title": "Sr. Solutions Architect",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Remote - Texas",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8567987002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8537033002",
-      "title": "Sr. Solutions Architect",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Queensland, Australia",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8537033002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8620635002",
-      "title": "Sr. Solutions Architect",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Melbourne, Australia",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8620635002",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8789428002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -52186,32 +52186,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8593371002",
-      "title": "Sr. Solutions Engineer",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Toronto, Canada",
-      "category": "fde",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8593371002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8783420002",
-      "title": "Sr. Solutions Engineer",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Singapore",
-      "category": "fde",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8783420002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8721005002",
       "title": "Sr. Solutions Engineer",
       "company": "Databricks",
@@ -52221,6 +52195,19 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8721005002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8609866002",
+      "title": "Sr. Solutions Engineer",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Stockholm, Sweden",
+      "category": "fde",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8609866002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -52238,15 +52225,28 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8609866002",
+      "id": "gh-8783420002",
       "title": "Sr. Solutions Engineer",
       "company": "Databricks",
       "logo": "\ud83d\udd37",
-      "location": "Stockholm, Sweden",
+      "location": "Singapore",
       "category": "fde",
       "experienceLevel": "senior",
       "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8609866002",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8783420002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8593371002",
+      "title": "Sr. Solutions Engineer",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Toronto, Canada",
+      "category": "fde",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8593371002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -52290,19 +52290,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8828100002",
-      "title": "Sr. Solutions Engineer - Games",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Southwest - United States",
-      "category": "fde",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8828100002",
-      "updatedAt": "2026-09-21T16:30:59-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8727543002",
       "title": "Sr. Solutions Engineer - Games",
       "company": "Databricks",
@@ -52313,6 +52300,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8727543002",
       "updatedAt": "2026-09-21T16:28:58-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8828100002",
+      "title": "Sr. Solutions Engineer - Games",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Southwest - United States",
+      "category": "fde",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8828100002",
+      "updatedAt": "2026-09-21T16:30:59-04:00",
       "source": "Direct ATS"
     },
     {
@@ -52420,19 +52420,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8524420002",
-      "title": "Sr Staff Product Operations Manager",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Mountain View, California; San Francisco, California",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8524420002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8524422002",
       "title": "Sr Staff Product Operations Manager",
       "company": "Databricks",
@@ -52442,6 +52429,19 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8524422002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8524420002",
+      "title": "Sr Staff Product Operations Manager",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Mountain View, California; San Francisco, California",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8524420002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -52823,19 +52823,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8653264002",
-      "title": "Staff Forward Deployed Engineer",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Berlin, Germany; Munich, Germany",
-      "category": "fde",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8653264002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8530855002",
       "title": "Staff Forward Deployed Engineer",
       "company": "Databricks",
@@ -52845,6 +52832,19 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8530855002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8653264002",
+      "title": "Staff Forward Deployed Engineer",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Berlin, Germany; Munich, Germany",
+      "category": "fde",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8653264002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -52979,19 +52979,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-7649411002",
-      "title": "Staff Product Manager",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Berlin, Germany",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=7649411002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-7649409002",
       "title": "Staff Product Manager",
       "company": "Databricks",
@@ -53001,6 +52988,19 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=7649409002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-7649411002",
+      "title": "Staff Product Manager",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Berlin, Germany",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=7649411002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -53057,19 +53057,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8420607002",
-      "title": "Staff Product Manager, Serverless Workspaces",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "San Francisco, California",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8420607002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8427954002",
       "title": "Staff Product Manager, Serverless Workspaces",
       "company": "Databricks",
@@ -53079,6 +53066,19 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8427954002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8420607002",
+      "title": "Staff Product Manager, Serverless Workspaces",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "San Francisco, California",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8420607002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -53330,32 +53330,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-6779232002",
-      "title": "Staff Software Engineer - Backend",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Seattle, Washington",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=6779232002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8012814002",
-      "title": "Staff Software Engineer - Backend",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Belgrade, Serbia",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8012814002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5408888002",
       "title": "Staff Software Engineer - Backend",
       "company": "Databricks",
@@ -53365,45 +53339,6 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=5408888002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8029674002",
-      "title": "Staff Software Engineer - Backend",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Amsterdam, Netherlands",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8029674002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-7984907002",
-      "title": "Staff Software Engineer - Backend",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Berlin, Germany",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=7984907002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8320187002",
-      "title": "Staff Software Engineer - Backend",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Bengaluru, India",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8320187002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -53434,15 +53369,67 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8374611002",
+      "id": "gh-6779232002",
       "title": "Staff Software Engineer - Backend",
       "company": "Databricks",
       "logo": "\ud83d\udd37",
-      "location": "London, United Kingdom",
+      "location": "Seattle, Washington",
       "category": "engineering",
       "experienceLevel": "lead",
       "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8374611002",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=6779232002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8320187002",
+      "title": "Staff Software Engineer - Backend",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Bengaluru, India",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8320187002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-7984907002",
+      "title": "Staff Software Engineer - Backend",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Berlin, Germany",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=7984907002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8012814002",
+      "title": "Staff Software Engineer - Backend",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Belgrade, Serbia",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8012814002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8029674002",
+      "title": "Staff Software Engineer - Backend",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Amsterdam, Netherlands",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8029674002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -53456,6 +53443,19 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8093293002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8374611002",
+      "title": "Staff Software Engineer - Backend",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "London, United Kingdom",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8374611002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -53616,15 +53616,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5646855002",
+      "id": "gh-8012831002",
       "title": "Staff Software Engineer - Distributed Data Systems",
       "company": "Databricks",
       "logo": "\ud83d\udd37",
-      "location": "San Francisco, California",
+      "location": "Belgrade, Serbia",
       "category": "data",
       "experienceLevel": "lead",
       "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=5646855002",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8012831002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -53642,15 +53642,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8012831002",
+      "id": "gh-5646855002",
       "title": "Staff Software Engineer - Distributed Data Systems",
       "company": "Databricks",
       "logo": "\ud83d\udd37",
-      "location": "Belgrade, Serbia",
+      "location": "San Francisco, California",
       "category": "data",
       "experienceLevel": "lead",
       "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8012831002",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=5646855002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -54188,19 +54188,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8643831002",
-      "title": "Startup Hunter Account Executive",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Ontario, Canada",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8643831002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8438936002",
       "title": "Startup Hunter Account Executive",
       "company": "Databricks",
@@ -54210,6 +54197,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8438936002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8643831002",
+      "title": "Startup Hunter Account Executive",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Ontario, Canada",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8643831002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -54292,19 +54292,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8766584002",
-      "title": "Strategic Core Account Executive",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "San Francisco, California",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8766584002",
-      "updatedAt": "2026-09-24T10:00:06-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8628029002",
       "title": "Strategic Core Account Executive",
       "company": "Databricks",
@@ -54315,6 +54302,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8628029002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8766584002",
+      "title": "Strategic Core Account Executive",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "San Francisco, California",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8766584002",
+      "updatedAt": "2026-09-24T10:00:06-04:00",
       "source": "Direct ATS"
     },
     {
@@ -54448,19 +54448,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8644185002",
-      "title": "Strategic DNB Hunter Account Executive (China)",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "China",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8644185002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8585188002",
       "title": "Strategic DNB Hunter Account Executive (China)",
       "company": "Databricks",
@@ -54470,6 +54457,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8585188002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8644185002",
+      "title": "Strategic DNB Hunter Account Executive (China)",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "China",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8644185002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -54526,19 +54526,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8599138002",
-      "title": "Strategic Enterprise Account Executive, Life Sciences",
-      "company": "Databricks",
-      "logo": "\ud83d\udd37",
-      "location": "Northeast - United States",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8599138002",
-      "updatedAt": "2026-09-25T13:04:19-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8648999002",
       "title": "Strategic Enterprise Account Executive, Life Sciences",
       "company": "Databricks",
@@ -54548,6 +54535,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8648999002",
+      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8790046002",
+      "title": "Strategic Enterprise Account Executive, Life Sciences",
+      "company": "Databricks",
+      "logo": "\ud83d\udd37",
+      "location": "Philadelphia, Pennsylvania; Remote - North Carolina",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8790046002",
       "updatedAt": "2026-09-21T13:22:12-04:00",
       "source": "Direct ATS"
     },
@@ -54565,16 +54565,16 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8790046002",
+      "id": "gh-8599138002",
       "title": "Strategic Enterprise Account Executive, Life Sciences",
       "company": "Databricks",
       "logo": "\ud83d\udd37",
-      "location": "Philadelphia, Pennsylvania; Remote - North Carolina",
+      "location": "Northeast - United States",
       "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8790046002",
-      "updatedAt": "2026-09-21T13:22:12-04:00",
+      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8599138002",
+      "updatedAt": "2026-09-25T13:04:19-04:00",
       "source": "Direct ATS"
     },
     {
