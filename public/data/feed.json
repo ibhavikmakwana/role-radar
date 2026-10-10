@@ -1,7 +1,7 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-10T13:11:37.789110",
-  "totalJobs": 8308,
+  "generatedAt": "2026-10-10T18:09:22.717265",
+  "totalJobs": 8307,
   "jobs": [
     {
       "id": "gh-4461450008",
@@ -8870,19 +8870,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-4644742005",
-      "title": "Forward Deployed Product Manager, Enterprise",
-      "company": "Scale AI",
-      "logo": "\u26a1",
-      "location": "London, UK",
-      "category": "fde",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4644742005",
-      "updatedAt": "2026-10-06T18:37:39-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-4673051005",
       "title": "Forward Deployed Product Manager, Enterprise",
       "company": "Scale AI",
@@ -8892,6 +8879,19 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4673051005",
+      "updatedAt": "2026-10-06T18:37:39-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-4644742005",
+      "title": "Forward Deployed Product Manager, Enterprise",
+      "company": "Scale AI",
+      "logo": "\u26a1",
+      "location": "London, UK",
+      "category": "fde",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4644742005",
       "updatedAt": "2026-10-06T18:37:39-04:00",
       "source": "Direct ATS"
     },
@@ -8957,19 +8957,6 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4694861005",
-      "updatedAt": "2026-10-06T18:37:39-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-4687050005",
-      "title": "Frontier Data Strategist",
-      "company": "Scale AI",
-      "logo": "\u26a1",
-      "location": "San Francisco, CA; New York, NY",
-      "category": "ai",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4687050005",
       "updatedAt": "2026-10-06T18:37:39-04:00",
       "source": "Direct ATS"
     },
@@ -9884,19 +9871,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-4729620005",
-      "title": "Senior Product Design Manager, Enterprise",
-      "company": "Scale AI",
-      "logo": "\u26a1",
-      "location": "London, UK",
-      "category": "product",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4729620005",
-      "updatedAt": "2026-10-06T18:37:39-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-4721008005",
       "title": "Senior Product Design Manager, Enterprise",
       "company": "Scale AI",
@@ -9906,6 +9880,19 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4721008005",
+      "updatedAt": "2026-10-06T18:37:39-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-4729620005",
+      "title": "Senior Product Design Manager, Enterprise",
+      "company": "Scale AI",
+      "logo": "\u26a1",
+      "location": "London, UK",
+      "category": "product",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4729620005",
       "updatedAt": "2026-10-06T18:37:39-04:00",
       "source": "Direct ATS"
     },
@@ -10105,15 +10092,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-4730846005",
+      "id": "gh-4730834005",
       "title": "Software Engineering Intern (Summer 2027)",
       "company": "Scale AI",
       "logo": "\u26a1",
-      "location": "London, UK",
+      "location": "Doha, Qatar ",
       "category": "engineering",
       "experienceLevel": "entry",
       "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005",
       "updatedAt": "2026-10-06T18:37:39-04:00",
       "source": "Direct ATS"
     },
@@ -10131,15 +10118,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-4730834005",
+      "id": "gh-4730846005",
       "title": "Software Engineering Intern (Summer 2027)",
       "company": "Scale AI",
       "logo": "\u26a1",
-      "location": "Doha, Qatar ",
+      "location": "London, UK",
       "category": "engineering",
       "experienceLevel": "entry",
       "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
       "updatedAt": "2026-10-06T18:37:39-04:00",
       "source": "Direct ATS"
     },
@@ -47801,7 +47788,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8407875002",
-      "updatedAt": "2026-10-07T20:10:59-04:00",
+      "updatedAt": "2026-10-10T12:01:05-04:00",
       "source": "Direct ATS"
     },
     {
@@ -64558,7 +64545,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5248269007?gh_jid=5248269007",
-      "updatedAt": "2026-10-05T19:17:56-04:00",
+      "updatedAt": "2026-10-10T09:18:35-04:00",
       "source": "Direct ATS"
     },
     {
@@ -67795,7 +67782,7 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5126216007?gh_jid=5126216007",
-      "updatedAt": "2026-10-08T23:01:09-04:00",
+      "updatedAt": "2026-10-10T09:19:02-04:00",
       "source": "Direct ATS"
     },
     {
