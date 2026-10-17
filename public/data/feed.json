@@ -1,7 +1,7 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-17T13:29:45.870201",
-  "totalJobs": 8358,
+  "generatedAt": "2026-10-17T16:46:42.908976",
+  "totalJobs": 8360,
   "jobs": [
     {
       "id": "gh-4461450008",
@@ -12094,19 +12094,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8172510",
-      "title": "Abuse Investigator",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Seattle, San Francisco, New York City",
-      "category": "data",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8172510",
-      "updatedAt": "2026-10-07T19:02:27-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8172508",
       "title": "Abuse Investigator",
       "company": "Stripe",
@@ -12116,6 +12103,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8172508",
+      "updatedAt": "2026-10-07T19:02:27-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8172510",
+      "title": "Abuse Investigator",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Seattle, San Francisco, New York City",
+      "category": "data",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8172510",
       "updatedAt": "2026-10-07T19:02:27-04:00",
       "source": "Direct ATS"
     },
@@ -12861,19 +12861,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8174160",
-      "title": "Account Executive, Product - Local Payment Methods",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Singapore",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8174160",
-      "updatedAt": "2026-10-07T19:02:27-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8190036",
       "title": "Account Executive, Product - Local Payment Methods",
       "company": "Stripe",
@@ -12883,6 +12870,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8190036",
+      "updatedAt": "2026-10-07T19:02:27-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8174160",
+      "title": "Account Executive, Product - Local Payment Methods",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Singapore",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8174160",
       "updatedAt": "2026-10-07T19:02:27-04:00",
       "source": "Direct ATS"
     },
@@ -12978,19 +12978,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8175828",
-      "title": "Account Executive, Product Sales - Currency Management",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Singapore",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8175828",
-      "updatedAt": "2026-10-07T19:02:27-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8190416",
       "title": "Account Executive, Product Sales - Currency Management",
       "company": "Stripe",
@@ -13000,6 +12987,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8190416",
+      "updatedAt": "2026-10-07T19:02:27-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8175828",
+      "title": "Account Executive, Product Sales - Currency Management",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Singapore",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8175828",
       "updatedAt": "2026-10-07T19:02:27-04:00",
       "source": "Direct ATS"
     },
@@ -13212,19 +13212,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8238741",
-      "title": "Account Executive, SMB Grower",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Toronto, Canada ",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8238741",
-      "updatedAt": "2026-10-07T19:02:27-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8238743",
       "title": "Account Executive, SMB Grower",
       "company": "Stripe",
@@ -13234,6 +13221,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8238743",
+      "updatedAt": "2026-10-07T19:02:27-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8238741",
+      "title": "Account Executive, SMB Grower",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Toronto, Canada ",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8238741",
       "updatedAt": "2026-10-07T19:02:27-04:00",
       "source": "Direct ATS"
     },
@@ -14161,19 +14161,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8208521",
-      "title": "Customer Success Manager, Enterprise",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Chicago, US",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8208521",
-      "updatedAt": "2026-10-07T19:02:27-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8178692",
       "title": "Customer Success Manager, Enterprise",
       "company": "Stripe",
@@ -14183,6 +14170,19 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8178692",
+      "updatedAt": "2026-10-07T19:02:27-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8208521",
+      "title": "Customer Success Manager, Enterprise",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Chicago, US",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8208521",
       "updatedAt": "2026-10-07T19:02:27-04:00",
       "source": "Direct ATS"
     },
@@ -14278,19 +14278,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8194287",
-      "title": "Data Analyst, Intern",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Toronto",
-      "category": "data",
-      "experienceLevel": "entry",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8194287",
-      "updatedAt": "2026-10-07T19:02:27-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8194291",
       "title": "Data Analyst, Intern",
       "company": "Stripe",
@@ -14300,6 +14287,19 @@
       "experienceLevel": "entry",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8194291",
+      "updatedAt": "2026-10-07T19:02:27-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8194287",
+      "title": "Data Analyst, Intern",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Toronto",
+      "category": "data",
+      "experienceLevel": "entry",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8194287",
       "updatedAt": "2026-10-07T19:02:27-04:00",
       "source": "Direct ATS"
     },
@@ -15240,19 +15240,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-7608396",
-      "title": "Fraud Operations Manager",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Bengaluru",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=7608396",
-      "updatedAt": "2026-10-07T19:02:27-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8175832",
       "title": "Fraud Operations Manager",
       "company": "Stripe",
@@ -15262,6 +15249,19 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8175832",
+      "updatedAt": "2026-10-07T19:02:27-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-7608396",
+      "title": "Fraud Operations Manager",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Bengaluru",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=7608396",
       "updatedAt": "2026-10-07T19:02:27-04:00",
       "source": "Direct ATS"
     },
@@ -15279,19 +15279,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8195058",
-      "title": "Fraud Strategist",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Singapore",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8195058",
-      "updatedAt": "2026-10-07T19:02:27-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8112448",
       "title": "Fraud Strategist",
       "company": "Stripe",
@@ -15301,6 +15288,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8112448",
+      "updatedAt": "2026-10-07T19:02:27-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8195058",
+      "title": "Fraud Strategist",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Singapore",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8195058",
       "updatedAt": "2026-10-07T19:02:27-04:00",
       "source": "Direct ATS"
     },
@@ -15383,19 +15383,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8214618",
-      "title": "Full Stack Engineer, Enterprise Engineering",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "N/A",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8214618",
-      "updatedAt": "2026-10-07T19:02:27-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8214616",
       "title": "Full Stack Engineer, Enterprise Engineering",
       "company": "Stripe",
@@ -15405,6 +15392,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8214616",
+      "updatedAt": "2026-10-07T19:02:27-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8214618",
+      "title": "Full Stack Engineer, Enterprise Engineering",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "N/A",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8214618",
       "updatedAt": "2026-10-07T19:02:27-04:00",
       "source": "Direct ATS"
     },
@@ -15630,19 +15630,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8201680",
-      "title": "GTM Strategy & Operations Analyst",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "NYC, SF, Seattle, US",
-      "category": "data",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8201680",
-      "updatedAt": "2026-10-07T19:02:27-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8145119",
       "title": "GTM Strategy & Operations Analyst",
       "company": "Stripe",
@@ -15652,6 +15639,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8145119",
+      "updatedAt": "2026-10-07T19:02:27-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8201680",
+      "title": "GTM Strategy & Operations Analyst",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "NYC, SF, Seattle, US",
+      "category": "data",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8201680",
       "updatedAt": "2026-10-07T19:02:27-04:00",
       "source": "Direct ATS"
     },
@@ -16020,19 +16020,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8203975",
-      "title": "Integration Engineer",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Toronto, Canada",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8203975",
-      "updatedAt": "2026-10-07T19:02:27-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8203966",
       "title": "Integration Engineer",
       "company": "Stripe",
@@ -16043,6 +16030,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8203966",
       "updatedAt": "2026-10-08T13:12:58-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8203975",
+      "title": "Integration Engineer",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Toronto, Canada",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8203975",
+      "updatedAt": "2026-10-07T19:02:27-04:00",
       "source": "Direct ATS"
     },
     {
@@ -16098,19 +16098,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8203973",
-      "title": "Integration Engineer, Professional Services",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "United States",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8203973",
-      "updatedAt": "2026-10-07T19:02:27-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8075570",
       "title": "Integration Engineer, Professional Services",
       "company": "Stripe",
@@ -16120,6 +16107,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8075570",
+      "updatedAt": "2026-10-07T19:02:27-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8203973",
+      "title": "Integration Engineer, Professional Services",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "United States",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8203973",
       "updatedAt": "2026-10-07T19:02:27-04:00",
       "source": "Direct ATS"
     },
@@ -16566,19 +16566,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-7896538",
-      "title": "Manager, Sales Development",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Chicago, Illinois",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=7896538",
-      "updatedAt": "2026-10-07T19:02:27-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-7337544",
       "title": "Manager, Sales Development",
       "company": "Stripe",
@@ -16588,6 +16575,19 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=7337544",
+      "updatedAt": "2026-10-07T19:02:27-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-7896538",
+      "title": "Manager, Sales Development",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Chicago, Illinois",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=7896538",
       "updatedAt": "2026-10-07T19:02:27-04:00",
       "source": "Direct ATS"
     },
@@ -16644,16 +16644,16 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-7767222",
+      "id": "gh-8152136",
       "title": "Manager, Technical Account Management",
       "company": "Stripe",
       "logo": "\ud83d\udcb3",
-      "location": "Dublin",
+      "location": "San Francisco or Seattle",
       "category": "engineering",
       "experienceLevel": "senior",
       "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=7767222",
-      "updatedAt": "2026-10-15T12:22:35-04:00",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8152136",
+      "updatedAt": "2026-10-07T19:02:27-04:00",
       "source": "Direct ATS"
     },
     {
@@ -16670,16 +16670,16 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8152136",
+      "id": "gh-7767222",
       "title": "Manager, Technical Account Management",
       "company": "Stripe",
       "logo": "\ud83d\udcb3",
-      "location": "San Francisco or Seattle",
+      "location": "Dublin",
       "category": "engineering",
       "experienceLevel": "senior",
       "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8152136",
-      "updatedAt": "2026-10-07T19:02:27-04:00",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=7767222",
+      "updatedAt": "2026-10-15T12:22:35-04:00",
       "source": "Direct ATS"
     },
     {
@@ -16943,6 +16943,19 @@
       "source": "Direct ATS"
     },
     {
+      "id": "gh-8203653",
+      "title": "Operations Program Manager",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Bengaluru",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8203653",
+      "updatedAt": "2026-10-17T11:28:28-04:00",
+      "source": "Direct ATS"
+    },
+    {
       "id": "gh-8162189",
       "title": "Operations Recruiter",
       "company": "Stripe",
@@ -16982,6 +16995,19 @@
       "source": "Direct ATS"
     },
     {
+      "id": "gh-8267519",
+      "title": "Partner Development Manager",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "London",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8267519",
+      "updatedAt": "2026-10-16T05:52:11-04:00",
+      "source": "Direct ATS"
+    },
+    {
       "id": "gh-8104427",
       "title": "Partner Development Manager",
       "company": "Stripe",
@@ -17005,19 +17031,6 @@
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8234703",
       "updatedAt": "2026-10-13T08:24:07-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8267519",
-      "title": "Partner Development Manager",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "London",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8267519",
-      "updatedAt": "2026-10-16T05:52:11-04:00",
       "source": "Direct ATS"
     },
     {
@@ -17268,19 +17281,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8262027",
-      "title": "People Consultant",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Toronto",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8262027",
-      "updatedAt": "2026-10-13T15:14:34-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-7866374",
       "title": "People Consultant",
       "company": "Stripe",
@@ -17291,6 +17291,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=7866374",
       "updatedAt": "2026-10-07T19:02:27-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8262027",
+      "title": "People Consultant",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Toronto",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8262027",
+      "updatedAt": "2026-10-13T15:14:34-04:00",
       "source": "Direct ATS"
     },
     {
@@ -17437,19 +17450,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8053517",
-      "title": "Privacy Operations Program Manager",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "US Remote",
-      "category": "data",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8053517",
-      "updatedAt": "2026-10-07T19:02:27-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8094087",
       "title": "Privacy Operations Program Manager",
       "company": "Stripe",
@@ -17459,6 +17459,19 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8094087",
+      "updatedAt": "2026-10-07T19:02:27-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8053517",
+      "title": "Privacy Operations Program Manager",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "US Remote",
+      "category": "data",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8053517",
       "updatedAt": "2026-10-07T19:02:27-04:00",
       "source": "Direct ATS"
     },
@@ -18191,19 +18204,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8209641",
-      "title": "Program Manager, Risk Operations GTM Enablement",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Dublin, Ireland",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8209641",
-      "updatedAt": "2026-10-07T19:02:27-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8158082",
       "title": "Program Manager, Risk Operations GTM Enablement",
       "company": "Stripe",
@@ -18213,6 +18213,19 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8158082",
+      "updatedAt": "2026-10-07T19:02:27-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8209641",
+      "title": "Program Manager, Risk Operations GTM Enablement",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Dublin, Ireland",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8209641",
       "updatedAt": "2026-10-07T19:02:27-04:00",
       "source": "Direct ATS"
     },
@@ -19322,19 +19335,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8137972",
-      "title": "Software Engineer",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Chicago, IL",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8137972",
-      "updatedAt": "2026-10-07T19:02:27-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8267736",
       "title": "Software Engineer",
       "company": "Stripe",
@@ -19357,6 +19357,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8249901",
+      "updatedAt": "2026-10-07T19:02:27-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8137972",
+      "title": "Software Engineer",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Chicago, IL",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8137972",
       "updatedAt": "2026-10-07T19:02:27-04:00",
       "source": "Direct ATS"
     },
@@ -19439,19 +19452,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8212508",
-      "title": "Software Engineer, Early Career \u2014 Immediate Start",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "San Francisco, Seattle, New York",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8212508",
-      "updatedAt": "2026-10-07T19:02:27-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8212517",
       "title": "Software Engineer, Early Career \u2014 Immediate Start",
       "company": "Stripe",
@@ -19465,6 +19465,19 @@
       "source": "Direct ATS"
     },
     {
+      "id": "gh-8212508",
+      "title": "Software Engineer, Early Career \u2014 Immediate Start",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "San Francisco, Seattle, New York",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8212508",
+      "updatedAt": "2026-10-07T19:02:27-04:00",
+      "source": "Direct ATS"
+    },
+    {
       "id": "gh-8197135",
       "title": "Software Engineer, High Availability and Disaster Recovery",
       "company": "Stripe",
@@ -19474,19 +19487,6 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8197135",
-      "updatedAt": "2026-10-07T19:02:27-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8130867",
-      "title": "Software Engineer, Intern",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "London",
-      "category": "engineering",
-      "experienceLevel": "entry",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8130867",
       "updatedAt": "2026-10-07T19:02:27-04:00",
       "source": "Direct ATS"
     },
@@ -19513,6 +19513,19 @@
       "experienceLevel": "entry",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8031833",
+      "updatedAt": "2026-10-07T19:02:27-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8130867",
+      "title": "Software Engineer, Intern",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "London",
+      "category": "engineering",
+      "experienceLevel": "entry",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8130867",
       "updatedAt": "2026-10-07T19:02:27-04:00",
       "source": "Direct ATS"
     },
@@ -19621,15 +19634,28 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8130930",
+      "id": "gh-8160776",
       "title": "Software Engineer, New Grad",
       "company": "Stripe",
       "logo": "\ud83d\udcb3",
-      "location": "London",
+      "location": "Singapore",
       "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8130930",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8160776",
+      "updatedAt": "2026-10-07T19:02:27-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8130922",
+      "title": "Software Engineer, New Grad",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Bucharest",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8130922",
       "updatedAt": "2026-10-07T19:02:27-04:00",
       "source": "Direct ATS"
     },
@@ -19647,32 +19673,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8160776",
-      "title": "Software Engineer, New Grad",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Singapore",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8160776",
-      "updatedAt": "2026-10-07T19:02:27-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8130881",
-      "title": "Software Engineer, New Grad",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Dublin",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8130881",
-      "updatedAt": "2026-10-07T19:02:27-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8128744",
       "title": "Software Engineer, New Grad",
       "company": "Stripe",
@@ -19686,15 +19686,28 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8130922",
+      "id": "gh-8130930",
       "title": "Software Engineer, New Grad",
       "company": "Stripe",
       "logo": "\ud83d\udcb3",
-      "location": "Bucharest",
+      "location": "London",
       "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8130922",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8130930",
+      "updatedAt": "2026-10-07T19:02:27-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8130881",
+      "title": "Software Engineer, New Grad",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Dublin",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8130881",
       "updatedAt": "2026-10-07T19:02:27-04:00",
       "source": "Direct ATS"
     },
@@ -19998,19 +20011,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8179419",
-      "title": "Solutions Architect, Metronome (Startups)",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "London",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8179419",
-      "updatedAt": "2026-10-07T19:02:27-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8072257",
       "title": "Solutions Architect, Metronome (Startups)",
       "company": "Stripe",
@@ -20021,6 +20021,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8072257",
       "updatedAt": "2026-10-16T16:13:03-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8179419",
+      "title": "Solutions Architect, Metronome (Startups)",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "London",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8179419",
+      "updatedAt": "2026-10-07T19:02:27-04:00",
       "source": "Direct ATS"
     },
     {
@@ -20492,19 +20505,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-7737526",
-      "title": "Staff Product Manager, Local Payment Methods Growth",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Dublin",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=7737526",
-      "updatedAt": "2026-10-09T14:20:29-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8142649",
       "title": "Staff Product Manager, Local Payment Methods Growth",
       "company": "Stripe",
@@ -20515,6 +20515,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8142649",
       "updatedAt": "2026-10-09T14:20:32-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-7737526",
+      "title": "Staff Product Manager, Local Payment Methods Growth",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Dublin",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=7737526",
+      "updatedAt": "2026-10-09T14:20:29-04:00",
       "source": "Direct ATS"
     },
     {
@@ -20609,19 +20622,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8174963",
-      "title": "Staff Security Engineer, Abuse Control",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Dublin",
-      "category": "data",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8174963",
-      "updatedAt": "2026-10-07T19:02:27-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8211180",
       "title": "Staff Security Engineer, Abuse Control",
       "company": "Stripe",
@@ -20631,6 +20631,19 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8211180",
+      "updatedAt": "2026-10-07T19:02:27-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8174963",
+      "title": "Staff Security Engineer, Abuse Control",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Dublin",
+      "category": "data",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8174963",
       "updatedAt": "2026-10-07T19:02:27-04:00",
       "source": "Direct ATS"
     },
@@ -20960,19 +20973,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8245230",
-      "title": "Strategy and Analytics Business Partner",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Bangalore",
-      "category": "data",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8245230",
-      "updatedAt": "2026-10-13T06:57:47-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-7813411",
       "title": "Strategy and Analytics Business Partner",
       "company": "Stripe",
@@ -20983,6 +20983,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=7813411",
       "updatedAt": "2026-10-07T19:02:27-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8245230",
+      "title": "Strategy and Analytics Business Partner",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Bangalore",
+      "category": "data",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8245230",
+      "updatedAt": "2026-10-13T06:57:47-04:00",
       "source": "Direct ATS"
     },
     {
@@ -41071,6 +41084,19 @@
       "source": "Direct ATS"
     },
     {
+      "id": "gh-8269038",
+      "title": "Executive Talent Business Partner",
+      "company": "Roblox",
+      "logo": "\ud83c\udfae",
+      "location": "San Mateo, CA, United States",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://careers.roblox.com/jobs/8269038?gh_jid=8269038",
+      "updatedAt": "2026-10-17T09:39:19-04:00",
+      "source": "Direct ATS"
+    },
+    {
       "id": "gh-7977161",
       "title": "Finance Business Partner, Trust & Safety (6319)",
       "company": "Roblox",
@@ -41526,19 +41552,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-7744272",
-      "title": "Principal Software Engineer",
-      "company": "Roblox",
-      "logo": "\ud83c\udfae",
-      "location": "San Mateo, CA, United States",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://careers.roblox.com/jobs/7744272?gh_jid=7744272",
-      "updatedAt": "2026-10-16T14:44:26-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8017415",
       "title": "Principal Software Engineer",
       "company": "Roblox",
@@ -41549,6 +41562,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8017415?gh_jid=8017415",
       "updatedAt": "2026-10-16T14:45:41-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-7744272",
+      "title": "Principal Software Engineer",
+      "company": "Roblox",
+      "logo": "\ud83c\udfae",
+      "location": "San Mateo, CA, United States",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://careers.roblox.com/jobs/7744272?gh_jid=7744272",
+      "updatedAt": "2026-10-16T14:44:26-04:00",
       "source": "Direct ATS"
     },
     {
@@ -41825,19 +41851,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8129410",
-      "title": "Principal Software Engineer - Roblox Database",
-      "company": "Roblox",
-      "logo": "\ud83c\udfae",
-      "location": "San Mateo, CA, United States",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://careers.roblox.com/jobs/8129410?gh_jid=8129410",
-      "updatedAt": "2026-10-16T23:00:44-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8036892",
       "title": "Principal Software Engineer - Roblox Database",
       "company": "Roblox",
@@ -41848,6 +41861,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8036892?gh_jid=8036892",
       "updatedAt": "2026-10-16T23:01:07-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8129410",
+      "title": "Principal Software Engineer - Roblox Database",
+      "company": "Roblox",
+      "logo": "\ud83c\udfae",
+      "location": "San Mateo, CA, United States",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://careers.roblox.com/jobs/8129410?gh_jid=8129410",
+      "updatedAt": "2026-10-16T23:00:44-04:00",
       "source": "Direct ATS"
     },
     {
@@ -42995,19 +43021,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8056362",
-      "title": "Senior Software Engineer, Compute Cell Platform",
-      "company": "Roblox",
-      "logo": "\ud83c\udfae",
-      "location": "San Mateo, CA, United States",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://careers.roblox.com/jobs/8056362?gh_jid=8056362",
-      "updatedAt": "2026-10-16T14:40:36-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8197586",
       "title": "Senior Software Engineer, Compute Cell Platform",
       "company": "Roblox",
@@ -43018,6 +43031,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8197586?gh_jid=8197586",
       "updatedAt": "2026-10-16T14:34:43-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8056362",
+      "title": "Senior Software Engineer, Compute Cell Platform",
+      "company": "Roblox",
+      "logo": "\ud83c\udfae",
+      "location": "San Mateo, CA, United States",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://careers.roblox.com/jobs/8056362?gh_jid=8056362",
+      "updatedAt": "2026-10-16T14:40:36-04:00",
       "source": "Direct ATS"
     },
     {
@@ -43502,19 +43528,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8015824",
-      "title": "Senior Software Engineer, Service Mesh",
-      "company": "Roblox",
-      "logo": "\ud83c\udfae",
-      "location": "San Mateo, CA, United States",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://careers.roblox.com/jobs/8015824?gh_jid=8015824",
-      "updatedAt": "2026-10-16T22:45:17-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8148698",
       "title": "Senior Software Engineer, Service Mesh",
       "company": "Roblox",
@@ -43525,6 +43538,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8148698?gh_jid=8148698",
       "updatedAt": "2026-10-16T23:00:33-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8015824",
+      "title": "Senior Software Engineer, Service Mesh",
+      "company": "Roblox",
+      "logo": "\ud83c\udfae",
+      "location": "San Mateo, CA, United States",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://careers.roblox.com/jobs/8015824?gh_jid=8015824",
+      "updatedAt": "2026-10-16T22:45:17-04:00",
       "source": "Direct ATS"
     },
     {
