@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-17T23:41:40.487604",
+  "generatedAt": "2026-10-18T02:29:20.018743",
   "totalJobs": 8360,
   "jobs": [
     {
@@ -225,16 +225,16 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5443882008",
+      "id": "gh-5424310008",
       "title": "Applied AI Architect",
       "company": "Anthropic",
       "logo": "\ud83e\udde0",
-      "location": "Bangalore, India",
+      "location": "Mumbai, India",
       "category": "ai",
       "experienceLevel": "lead",
       "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5443882008",
-      "updatedAt": "2026-10-09T00:06:04-04:00",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5424310008",
+      "updatedAt": "2026-09-21T03:22:45-04:00",
       "source": "Direct ATS"
     },
     {
@@ -251,16 +251,16 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5424310008",
+      "id": "gh-5443882008",
       "title": "Applied AI Architect",
       "company": "Anthropic",
       "logo": "\ud83e\udde0",
-      "location": "Mumbai, India",
+      "location": "Bangalore, India",
       "category": "ai",
       "experienceLevel": "lead",
       "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5424310008",
-      "updatedAt": "2026-09-21T03:22:45-04:00",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5443882008",
+      "updatedAt": "2026-10-09T00:06:04-04:00",
       "source": "Direct ATS"
     },
     {
@@ -407,19 +407,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5390787008",
-      "title": "Applied AI Architect, Partnerships",
-      "company": "Anthropic",
-      "logo": "\ud83e\udde0",
-      "location": "Paris, France",
-      "category": "ai",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5390787008",
-      "updatedAt": "2026-08-28T16:46:44-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5426933008",
       "title": "Applied AI Architect, Partnerships",
       "company": "Anthropic",
@@ -430,6 +417,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5426933008",
       "updatedAt": "2026-09-21T04:42:09-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5390787008",
+      "title": "Applied AI Architect, Partnerships",
+      "company": "Anthropic",
+      "logo": "\ud83e\udde0",
+      "location": "Paris, France",
+      "category": "ai",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5390787008",
+      "updatedAt": "2026-08-28T16:46:44-04:00",
       "source": "Direct ATS"
     },
     {
@@ -589,6 +589,19 @@
       "source": "Direct ATS"
     },
     {
+      "id": "gh-5390795008",
+      "title": "Applied AI Engineer, Enterprise",
+      "company": "Anthropic",
+      "logo": "\ud83e\udde0",
+      "location": "Munich, Germany",
+      "category": "ai",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5390795008",
+      "updatedAt": "2026-09-14T17:09:40-04:00",
+      "source": "Direct ATS"
+    },
+    {
       "id": "gh-5390754008",
       "title": "Applied AI Engineer, Enterprise",
       "company": "Anthropic",
@@ -612,19 +625,6 @@
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5354765008",
       "updatedAt": "2026-09-28T06:56:13-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-5390795008",
-      "title": "Applied AI Engineer, Enterprise",
-      "company": "Anthropic",
-      "logo": "\ud83e\udde0",
-      "location": "Munich, Germany",
-      "category": "ai",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5390795008",
-      "updatedAt": "2026-09-14T17:09:40-04:00",
       "source": "Direct ATS"
     },
     {
@@ -2721,19 +2721,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5391016008",
-      "title": "Forward Deployed Engineer",
-      "company": "Anthropic",
-      "logo": "\ud83e\udde0",
-      "location": "Munich, Germany",
-      "category": "fde",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5391016008",
-      "updatedAt": "2026-08-28T16:45:54-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5423029008",
       "title": "Forward Deployed Engineer",
       "company": "Anthropic",
@@ -2744,6 +2731,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5423029008",
       "updatedAt": "2026-09-14T05:27:39-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5391016008",
+      "title": "Forward Deployed Engineer",
+      "company": "Anthropic",
+      "logo": "\ud83e\udde0",
+      "location": "Munich, Germany",
+      "category": "fde",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5391016008",
+      "updatedAt": "2026-08-28T16:45:54-04:00",
       "source": "Direct ATS"
     },
     {
@@ -3280,16 +3280,16 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5396397008",
+      "id": "gh-5439526008",
       "title": "IT Support Engineer",
       "company": "Anthropic",
       "logo": "\ud83e\udde0",
-      "location": "Tokyo, Japan",
+      "location": "Z\u00fcrich, CH",
       "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5396397008",
-      "updatedAt": "2026-08-28T16:49:12-04:00",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5439526008",
+      "updatedAt": "2026-10-14T06:46:47-04:00",
       "source": "Direct ATS"
     },
     {
@@ -3306,16 +3306,16 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5439526008",
+      "id": "gh-5396397008",
       "title": "IT Support Engineer",
       "company": "Anthropic",
       "logo": "\ud83e\udde0",
-      "location": "Z\u00fcrich, CH",
+      "location": "Tokyo, Japan",
       "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5439526008",
-      "updatedAt": "2026-10-14T06:46:47-04:00",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5396397008",
+      "updatedAt": "2026-08-28T16:49:12-04:00",
       "source": "Direct ATS"
     },
     {
@@ -3527,6 +3527,19 @@
       "source": "Direct ATS"
     },
     {
+      "id": "gh-5391356008",
+      "title": "Manager, Account Executive",
+      "company": "Anthropic",
+      "logo": "\ud83e\udde0",
+      "location": "Tokyo, Japan",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5391356008",
+      "updatedAt": "2026-10-17T21:02:10-04:00",
+      "source": "Direct ATS"
+    },
+    {
       "id": "gh-5282833008",
       "title": "Manager, Account Executive - Hedge Funds",
       "company": "Anthropic",
@@ -3540,19 +3553,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5430869008",
-      "title": "Manager, Applied AI Architect",
-      "company": "Anthropic",
-      "logo": "\ud83e\udde0",
-      "location": "Seoul, South Korea",
-      "category": "ai",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5430869008",
-      "updatedAt": "2026-09-22T02:55:09-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5443331008",
       "title": "Manager, Applied AI Architect",
       "company": "Anthropic",
@@ -3563,6 +3563,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5443331008",
       "updatedAt": "2026-10-12T23:07:58-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5430869008",
+      "title": "Manager, Applied AI Architect",
+      "company": "Anthropic",
+      "logo": "\ud83e\udde0",
+      "location": "Seoul, South Korea",
+      "category": "ai",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5430869008",
+      "updatedAt": "2026-09-22T02:55:09-04:00",
       "source": "Direct ATS"
     },
     {
@@ -4151,19 +4164,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5440752008",
-      "title": "Partner Success Lead",
-      "company": "Anthropic",
-      "logo": "\ud83e\udde0",
-      "location": "Munich, Germany",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5440752008",
-      "updatedAt": "2026-10-05T12:26:25-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5391215008",
       "title": "Partner Success Lead",
       "company": "Anthropic",
@@ -4174,6 +4174,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5391215008",
       "updatedAt": "2026-08-21T21:02:15-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5440752008",
+      "title": "Partner Success Lead",
+      "company": "Anthropic",
+      "logo": "\ud83e\udde0",
+      "location": "Munich, Germany",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5440752008",
+      "updatedAt": "2026-10-05T12:26:25-04:00",
       "source": "Direct ATS"
     },
     {
@@ -4801,19 +4814,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5138042008",
-      "title": "Product Support Specialist",
-      "company": "Anthropic",
-      "logo": "\ud83e\udde0",
-      "location": "Tokyo, Japan",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5138042008",
-      "updatedAt": "2026-08-28T16:49:11-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-4979585008",
       "title": "Product Support Specialist",
       "company": "Anthropic",
@@ -4824,6 +4824,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4979585008",
       "updatedAt": "2026-08-21T12:49:44-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5138042008",
+      "title": "Product Support Specialist",
+      "company": "Anthropic",
+      "logo": "\ud83e\udde0",
+      "location": "Tokyo, Japan",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5138042008",
+      "updatedAt": "2026-08-28T16:49:11-04:00",
       "source": "Direct ATS"
     },
     {
@@ -5295,19 +5308,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5112018008",
-      "title": "Research Engineer, Production Model Post-Training",
-      "company": "Anthropic",
-      "logo": "\ud83e\udde0",
-      "location": "Z\u00fcrich, CH",
-      "category": "ai",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5112018008",
-      "updatedAt": "2026-08-28T16:49:39-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-4613592008",
       "title": "Research Engineer, Production Model Post-Training",
       "company": "Anthropic",
@@ -5318,6 +5318,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4613592008",
       "updatedAt": "2026-08-21T12:49:37-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5112018008",
+      "title": "Research Engineer, Production Model Post-Training",
+      "company": "Anthropic",
+      "logo": "\ud83e\udde0",
+      "location": "Z\u00fcrich, CH",
+      "category": "ai",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5112018008",
+      "updatedAt": "2026-08-28T16:49:39-04:00",
       "source": "Direct ATS"
     },
     {
@@ -5526,19 +5539,6 @@
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5391199008",
       "updatedAt": "2026-09-03T22:45:57-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-5199633008",
-      "title": "Revenue Strategy & Operations",
-      "company": "Anthropic",
-      "logo": "\ud83e\udde0",
-      "location": "Seoul, South Korea",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5199633008",
-      "updatedAt": "2026-08-31T01:03:50-04:00",
       "source": "Direct ATS"
     },
     {
@@ -6400,19 +6400,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5139038008",
-      "title": "Staff Engineer, Datacenter Server Lifecycle",
-      "company": "Anthropic",
-      "logo": "\ud83e\udde0",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5139038008",
-      "updatedAt": "2026-08-21T12:50:00-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5309917008",
       "title": "Staff Engineer, Datacenter Server Lifecycle",
       "company": "Anthropic",
@@ -6423,6 +6410,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5309917008",
       "updatedAt": "2026-10-05T12:24:23-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5139038008",
+      "title": "Staff Engineer, Datacenter Server Lifecycle",
+      "company": "Anthropic",
+      "logo": "\ud83e\udde0",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5139038008",
+      "updatedAt": "2026-08-21T12:50:00-04:00",
       "source": "Direct ATS"
     },
     {
@@ -6699,19 +6699,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5101173008",
-      "title": "Staff Software Engineer, AI Reliability Engineering",
-      "company": "Anthropic",
-      "logo": "\ud83e\udde0",
-      "location": "London, UK",
-      "category": "ai",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5101173008",
-      "updatedAt": "2026-08-28T14:43:57-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5101169008",
       "title": "Staff Software Engineer, AI Reliability Engineering",
       "company": "Anthropic",
@@ -6722,6 +6709,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5101169008",
       "updatedAt": "2026-08-28T14:43:33-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5101173008",
+      "title": "Staff Software Engineer, AI Reliability Engineering",
+      "company": "Anthropic",
+      "logo": "\ud83e\udde0",
+      "location": "London, UK",
+      "category": "ai",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5101173008",
+      "updatedAt": "2026-08-28T14:43:57-04:00",
       "source": "Direct ATS"
     },
     {
@@ -7115,19 +7115,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5097742008",
-      "title": "Staff Software Engineer, Inference",
-      "company": "Anthropic",
-      "logo": "\ud83e\udde0",
-      "location": "London, UK",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5097742008",
-      "updatedAt": "2026-08-28T14:43:57-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5150472008",
       "title": "Staff Software Engineer, Inference",
       "company": "Anthropic",
@@ -7138,6 +7125,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5150472008",
       "updatedAt": "2026-10-13T09:03:08-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5097742008",
+      "title": "Staff Software Engineer, Inference",
+      "company": "Anthropic",
+      "logo": "\ud83e\udde0",
+      "location": "London, UK",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5097742008",
+      "updatedAt": "2026-08-28T14:43:57-04:00",
       "source": "Direct ATS"
     },
     {
@@ -7726,19 +7726,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5126008008",
-      "title": "Strategic Account Executive, Tech",
-      "company": "Anthropic",
-      "logo": "\ud83e\udde0",
-      "location": "Seattle, WA",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5126008008",
-      "updatedAt": "2026-09-09T13:24:40-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5108111008",
       "title": "Strategic Account Executive, Tech",
       "company": "Anthropic",
@@ -7749,6 +7736,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5108111008",
       "updatedAt": "2026-09-09T22:01:04-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5126008008",
+      "title": "Strategic Account Executive, Tech",
+      "company": "Anthropic",
+      "logo": "\ud83e\udde0",
+      "location": "Seattle, WA",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5126008008",
+      "updatedAt": "2026-09-09T13:24:40-04:00",
       "source": "Direct ATS"
     },
     {
