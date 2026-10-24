@@ -1,7 +1,7 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-24T11:46:28.756463",
-  "totalJobs": 8342,
+  "generatedAt": "2026-10-24T15:11:22.484023",
+  "totalJobs": 8341,
   "jobs": [
     {
       "id": "gh-5456619008",
@@ -38016,58 +38016,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8097302",
-      "title": "Senior Enterprise Account Executive, Growth",
-      "company": "MongoDB",
-      "logo": "\ud83c\udf43",
-      "location": "New York City",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8097302",
-      "updatedAt": "2026-10-23T11:31:54-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8147949",
-      "title": "Senior Enterprise Account Executive, Growth",
-      "company": "MongoDB",
-      "logo": "\ud83c\udf43",
-      "location": "San Francisco",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8147949",
-      "updatedAt": "2026-10-23T11:31:54-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8229703",
-      "title": "Senior Enterprise Account Executive, Growth",
-      "company": "MongoDB",
-      "logo": "\ud83c\udf43",
-      "location": "Melbourne",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8229703",
-      "updatedAt": "2026-10-23T11:31:54-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-7687359",
-      "title": "Senior Enterprise Account Executive, Growth",
-      "company": "MongoDB",
-      "logo": "\ud83c\udf43",
-      "location": "Denver",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=7687359",
-      "updatedAt": "2026-10-23T11:31:54-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8147923",
       "title": "Senior Enterprise Account Executive, Growth",
       "company": "MongoDB",
@@ -38094,6 +38042,58 @@
       "source": "Direct ATS"
     },
     {
+      "id": "gh-7687359",
+      "title": "Senior Enterprise Account Executive, Growth",
+      "company": "MongoDB",
+      "logo": "\ud83c\udf43",
+      "location": "Denver",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=7687359",
+      "updatedAt": "2026-10-23T11:31:54-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8147949",
+      "title": "Senior Enterprise Account Executive, Growth",
+      "company": "MongoDB",
+      "logo": "\ud83c\udf43",
+      "location": "San Francisco",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8147949",
+      "updatedAt": "2026-10-23T11:31:54-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8097302",
+      "title": "Senior Enterprise Account Executive, Growth",
+      "company": "MongoDB",
+      "logo": "\ud83c\udf43",
+      "location": "New York City",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8097302",
+      "updatedAt": "2026-10-23T11:31:54-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8229703",
+      "title": "Senior Enterprise Account Executive, Growth",
+      "company": "MongoDB",
+      "logo": "\ud83c\udf43",
+      "location": "Melbourne",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8229703",
+      "updatedAt": "2026-10-23T11:31:54-04:00",
+      "source": "Direct ATS"
+    },
+    {
       "id": "gh-8180129",
       "title": "Senior Enterprise Account Executive, Public Sector",
       "company": "MongoDB",
@@ -38107,19 +38107,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8237572",
-      "title": "Senior Financial Analyst",
-      "company": "MongoDB",
-      "logo": "\ud83c\udf43",
-      "location": "Austin; New York City; Palo Alto; San Francisco",
-      "category": "data",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8237572",
-      "updatedAt": "2026-10-23T11:31:54-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8168951",
       "title": "Senior Financial Analyst",
       "company": "MongoDB",
@@ -38129,6 +38116,19 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8168951",
+      "updatedAt": "2026-10-23T11:31:54-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8237572",
+      "title": "Senior Financial Analyst",
+      "company": "MongoDB",
+      "logo": "\ud83c\udf43",
+      "location": "Austin; New York City; Palo Alto; San Francisco",
+      "category": "data",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8237572",
       "updatedAt": "2026-10-23T11:31:54-04:00",
       "source": "Direct ATS"
     },
@@ -38250,19 +38250,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8072504",
-      "title": "Senior Manager, Financial Planning & Analysis",
-      "company": "MongoDB",
-      "logo": "\ud83c\udf43",
-      "location": "Austin; New York City",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8072504",
-      "updatedAt": "2026-10-23T11:31:54-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8072506",
       "title": "Senior Manager, Financial Planning & Analysis",
       "company": "MongoDB",
@@ -38272,6 +38259,19 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8072506",
+      "updatedAt": "2026-10-23T11:31:54-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8072504",
+      "title": "Senior Manager, Financial Planning & Analysis",
+      "company": "MongoDB",
+      "logo": "\ud83c\udf43",
+      "location": "Austin; New York City",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8072504",
       "updatedAt": "2026-10-23T11:31:54-04:00",
       "source": "Direct ATS"
     },
@@ -38406,19 +38406,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-7113803",
-      "title": "Senior Product Manager",
-      "company": "MongoDB",
-      "logo": "\ud83c\udf43",
-      "location": "Dublin; Ireland",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=7113803",
-      "updatedAt": "2026-10-23T11:31:54-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8128356",
       "title": "Senior Product Manager",
       "company": "MongoDB",
@@ -38428,6 +38415,19 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8128356",
+      "updatedAt": "2026-10-23T11:31:54-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-7113803",
+      "title": "Senior Product Manager",
+      "company": "MongoDB",
+      "logo": "\ud83c\udf43",
+      "location": "Dublin; Ireland",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=7113803",
       "updatedAt": "2026-10-23T11:31:54-04:00",
       "source": "Direct ATS"
     },
@@ -38575,19 +38575,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8018423",
-      "title": "Senior Salesforce Engineer",
-      "company": "MongoDB",
-      "logo": "\ud83c\udf43",
-      "location": "Gurugram",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8018423",
-      "updatedAt": "2026-10-23T11:31:54-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-7991447",
       "title": "Senior Salesforce Engineer",
       "company": "MongoDB",
@@ -38597,6 +38584,19 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=7991447",
+      "updatedAt": "2026-10-23T11:31:54-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8018423",
+      "title": "Senior Salesforce Engineer",
+      "company": "MongoDB",
+      "logo": "\ud83c\udf43",
+      "location": "Gurugram",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8018423",
       "updatedAt": "2026-10-23T11:31:54-04:00",
       "source": "Direct ATS"
     },
@@ -38653,19 +38653,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8178900",
-      "title": "Senior Software Engineer",
-      "company": "MongoDB",
-      "logo": "\ud83c\udf43",
-      "location": "Bengaluru",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8178900",
-      "updatedAt": "2026-10-23T11:31:54-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8300359",
       "title": "Senior Software Engineer",
       "company": "MongoDB",
@@ -38688,6 +38675,19 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8020377",
+      "updatedAt": "2026-10-23T11:31:54-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8178900",
+      "title": "Senior Software Engineer",
+      "company": "MongoDB",
+      "logo": "\ud83c\udf43",
+      "location": "Bengaluru",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8178900",
       "updatedAt": "2026-10-23T11:31:54-04:00",
       "source": "Direct ATS"
     },
@@ -38796,19 +38796,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8221182",
-      "title": "Senior Software Engineer, Cluster Scalability",
-      "company": "MongoDB",
-      "logo": "\ud83c\udf43",
-      "location": "United States",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8221182",
-      "updatedAt": "2026-10-23T11:31:54-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8221184",
       "title": "Senior Software Engineer, Cluster Scalability",
       "company": "MongoDB",
@@ -38818,6 +38805,19 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8221184",
+      "updatedAt": "2026-10-23T11:31:54-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8221182",
+      "title": "Senior Software Engineer, Cluster Scalability",
+      "company": "MongoDB",
+      "logo": "\ud83c\udf43",
+      "location": "United States",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8221182",
       "updatedAt": "2026-10-23T11:31:54-04:00",
       "source": "Direct ATS"
     },
@@ -39160,28 +39160,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8120181",
+      "id": "gh-8053142",
       "title": "Senior Solutions Architect",
       "company": "MongoDB",
       "logo": "\ud83c\udf43",
-      "location": "Japan",
+      "location": "Warsaw",
       "category": "engineering",
       "experienceLevel": "lead",
       "atsType": "greenhouse",
-      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8120181",
-      "updatedAt": "2026-10-23T11:31:54-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8230043",
-      "title": "Senior Solutions Architect",
-      "company": "MongoDB",
-      "logo": "\ud83c\udf43",
-      "location": "Singapore",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8230043",
+      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8053142",
       "updatedAt": "2026-10-23T11:31:54-04:00",
       "source": "Direct ATS"
     },
@@ -39199,15 +39186,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8173801",
+      "id": "gh-8210719",
       "title": "Senior Solutions Architect",
       "company": "MongoDB",
       "logo": "\ud83c\udf43",
-      "location": "Germany",
+      "location": "Madrid",
       "category": "engineering",
       "experienceLevel": "lead",
       "atsType": "greenhouse",
-      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8173801",
+      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8210719",
       "updatedAt": "2026-10-23T11:31:54-04:00",
       "source": "Direct ATS"
     },
@@ -39225,15 +39212,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8210719",
+      "id": "gh-8120181",
       "title": "Senior Solutions Architect",
       "company": "MongoDB",
       "logo": "\ud83c\udf43",
-      "location": "Madrid",
+      "location": "Japan",
       "category": "engineering",
       "experienceLevel": "lead",
       "atsType": "greenhouse",
-      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8210719",
+      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8120181",
       "updatedAt": "2026-10-23T11:31:54-04:00",
       "source": "Direct ATS"
     },
@@ -39251,28 +39238,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8053142",
+      "id": "gh-8173801",
       "title": "Senior Solutions Architect",
       "company": "MongoDB",
       "logo": "\ud83c\udf43",
-      "location": "Warsaw",
+      "location": "Germany",
       "category": "engineering",
       "experienceLevel": "lead",
       "atsType": "greenhouse",
-      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8053142",
-      "updatedAt": "2026-10-23T11:31:54-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8152623",
-      "title": "Senior Solutions Architect",
-      "company": "MongoDB",
-      "logo": "\ud83c\udf43",
-      "location": "Singapore",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8152623",
+      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8173801",
       "updatedAt": "2026-10-23T11:31:54-04:00",
       "source": "Direct ATS"
     },
@@ -39290,6 +39264,19 @@
       "source": "Direct ATS"
     },
     {
+      "id": "gh-8152623",
+      "title": "Senior Solutions Architect",
+      "company": "MongoDB",
+      "logo": "\ud83c\udf43",
+      "location": "Singapore",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8152623",
+      "updatedAt": "2026-10-23T11:31:54-04:00",
+      "source": "Direct ATS"
+    },
+    {
       "id": "gh-7806547",
       "title": "Senior Solutions Architect",
       "company": "MongoDB",
@@ -39303,28 +39290,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8230800",
-      "title": "Senior Solutions Architect (Pre-Sales)",
+      "id": "gh-8230043",
+      "title": "Senior Solutions Architect",
       "company": "MongoDB",
       "logo": "\ud83c\udf43",
-      "location": "S\u00e3o Paulo",
+      "location": "Singapore",
       "category": "engineering",
       "experienceLevel": "lead",
       "atsType": "greenhouse",
-      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8230800",
-      "updatedAt": "2026-10-23T11:31:54-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8311246",
-      "title": "Senior Solutions Architect (Pre-Sales)",
-      "company": "MongoDB",
-      "logo": "\ud83c\udf43",
-      "location": "New York City",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8311246",
+      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8230043",
       "updatedAt": "2026-10-23T11:31:54-04:00",
       "source": "Direct ATS"
     },
@@ -39342,6 +39316,19 @@
       "source": "Direct ATS"
     },
     {
+      "id": "gh-8230800",
+      "title": "Senior Solutions Architect (Pre-Sales)",
+      "company": "MongoDB",
+      "logo": "\ud83c\udf43",
+      "location": "S\u00e3o Paulo",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8230800",
+      "updatedAt": "2026-10-23T11:31:54-04:00",
+      "source": "Direct ATS"
+    },
+    {
       "id": "gh-8128855",
       "title": "Senior Solutions Architect (Pre-Sales)",
       "company": "MongoDB",
@@ -39351,6 +39338,19 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8128855",
+      "updatedAt": "2026-10-23T11:31:54-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8311246",
+      "title": "Senior Solutions Architect (Pre-Sales)",
+      "company": "MongoDB",
+      "logo": "\ud83c\udf43",
+      "location": "New York City",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8311246",
       "updatedAt": "2026-10-23T11:31:54-04:00",
       "source": "Direct ATS"
     },
@@ -39459,6 +39459,19 @@
       "source": "Direct ATS"
     },
     {
+      "id": "gh-8028587",
+      "title": "Senior Staff Product Manager, Query",
+      "company": "MongoDB",
+      "logo": "\ud83c\udf43",
+      "location": "Ontario",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8028587",
+      "updatedAt": "2026-10-23T11:31:54-04:00",
+      "source": "Direct ATS"
+    },
+    {
       "id": "gh-7993419",
       "title": "Senior Staff Product Manager, Query",
       "company": "MongoDB",
@@ -39481,19 +39494,6 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8028593",
-      "updatedAt": "2026-10-23T11:31:54-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8028587",
-      "title": "Senior Staff Product Manager, Query",
-      "company": "MongoDB",
-      "logo": "\ud83c\udf43",
-      "location": "Ontario",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8028587",
       "updatedAt": "2026-10-23T11:31:54-04:00",
       "source": "Direct ATS"
     },
@@ -39654,15 +39654,28 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8286403",
+      "id": "gh-8208074",
       "title": "Software Engineer 3",
       "company": "MongoDB",
       "logo": "\ud83c\udf43",
-      "location": "Dublin, Ireland",
+      "location": "Gurugram",
       "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8286403",
+      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8208074",
+      "updatedAt": "2026-10-23T11:31:54-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8092317",
+      "title": "Software Engineer 3",
+      "company": "MongoDB",
+      "logo": "\ud83c\udf43",
+      "location": "Sydney",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8092317",
       "updatedAt": "2026-10-23T11:31:54-04:00",
       "source": "Direct ATS"
     },
@@ -39680,32 +39693,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8083366",
-      "title": "Software Engineer 3",
-      "company": "MongoDB",
-      "logo": "\ud83c\udf43",
-      "location": "Gurugram",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8083366",
-      "updatedAt": "2026-10-23T11:31:54-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8208074",
-      "title": "Software Engineer 3",
-      "company": "MongoDB",
-      "logo": "\ud83c\udf43",
-      "location": "Gurugram",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8208074",
-      "updatedAt": "2026-10-23T11:31:54-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8239047",
       "title": "Software Engineer 3",
       "company": "MongoDB",
@@ -39719,15 +39706,28 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8092317",
+      "id": "gh-8083366",
       "title": "Software Engineer 3",
       "company": "MongoDB",
       "logo": "\ud83c\udf43",
-      "location": "Sydney",
+      "location": "Gurugram",
       "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8092317",
+      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8083366",
+      "updatedAt": "2026-10-23T11:31:54-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8286403",
+      "title": "Software Engineer 3",
+      "company": "MongoDB",
+      "logo": "\ud83c\udf43",
+      "location": "Dublin, Ireland",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8286403",
       "updatedAt": "2026-10-23T11:31:54-04:00",
       "source": "Direct ATS"
     },
@@ -39836,28 +39836,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8170615",
+      "id": "gh-8174075",
       "title": "Solutions Architect",
       "company": "MongoDB",
       "logo": "\ud83c\udf43",
-      "location": "Germany",
+      "location": "London",
       "category": "engineering",
       "experienceLevel": "lead",
       "atsType": "greenhouse",
-      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8170615",
-      "updatedAt": "2026-10-23T11:31:54-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8173661",
-      "title": "Solutions Architect",
-      "company": "MongoDB",
-      "logo": "\ud83c\udf43",
-      "location": "Bengaluru; Gurugram; Hyderabad",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8173661",
+      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8174075",
       "updatedAt": "2026-10-23T11:31:54-04:00",
       "source": "Direct ATS"
     },
@@ -39875,28 +39862,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8200773",
+      "id": "gh-8066544",
       "title": "Solutions Architect",
       "company": "MongoDB",
       "logo": "\ud83c\udf43",
-      "location": "Paris",
+      "location": "Berlin; Cologne; Frankfurt; Hamburg; Munich; Stuttgart",
       "category": "engineering",
       "experienceLevel": "lead",
       "atsType": "greenhouse",
-      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8200773",
-      "updatedAt": "2026-10-23T11:31:54-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8174075",
-      "title": "Solutions Architect",
-      "company": "MongoDB",
-      "logo": "\ud83c\udf43",
-      "location": "London",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8174075",
+      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8066544",
       "updatedAt": "2026-10-23T11:31:54-04:00",
       "source": "Direct ATS"
     },
@@ -39914,6 +39888,19 @@
       "source": "Direct ATS"
     },
     {
+      "id": "gh-8170615",
+      "title": "Solutions Architect",
+      "company": "MongoDB",
+      "logo": "\ud83c\udf43",
+      "location": "Germany",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8170615",
+      "updatedAt": "2026-10-23T11:31:54-04:00",
+      "source": "Direct ATS"
+    },
+    {
       "id": "gh-8066560",
       "title": "Solutions Architect",
       "company": "MongoDB",
@@ -39927,15 +39914,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8066544",
+      "id": "gh-8200773",
       "title": "Solutions Architect",
       "company": "MongoDB",
       "logo": "\ud83c\udf43",
-      "location": "Berlin; Cologne; Frankfurt; Hamburg; Munich; Stuttgart",
+      "location": "Paris",
       "category": "engineering",
       "experienceLevel": "lead",
       "atsType": "greenhouse",
-      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8066544",
+      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8200773",
       "updatedAt": "2026-10-23T11:31:54-04:00",
       "source": "Direct ATS"
     },
@@ -40018,19 +40005,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8075467",
-      "title": "Staff Engineer",
-      "company": "MongoDB",
-      "logo": "\ud83c\udf43",
-      "location": "Sydney",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8075467",
-      "updatedAt": "2026-10-23T11:31:54-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8206794",
       "title": "Staff Engineer",
       "company": "MongoDB",
@@ -40057,15 +40031,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8173735",
-      "title": "Staff Engineer, Atlas Agent Engine",
+      "id": "gh-8075467",
+      "title": "Staff Engineer",
       "company": "MongoDB",
       "logo": "\ud83c\udf43",
-      "location": "New York City",
-      "category": "ai",
+      "location": "Sydney",
+      "category": "engineering",
       "experienceLevel": "lead",
       "atsType": "greenhouse",
-      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8173735",
+      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8075467",
       "updatedAt": "2026-10-23T11:31:54-04:00",
       "source": "Direct ATS"
     },
@@ -40083,15 +40057,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8221355",
-      "title": "Staff Engineer - Business Systems",
+      "id": "gh-8173735",
+      "title": "Staff Engineer, Atlas Agent Engine",
       "company": "MongoDB",
       "logo": "\ud83c\udf43",
-      "location": "New York City; Palo Alto; United States",
-      "category": "engineering",
+      "location": "New York City",
+      "category": "ai",
       "experienceLevel": "lead",
       "atsType": "greenhouse",
-      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8221355",
+      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8173735",
       "updatedAt": "2026-10-23T11:31:54-04:00",
       "source": "Direct ATS"
     },
@@ -40105,6 +40079,19 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8122748",
+      "updatedAt": "2026-10-23T11:31:54-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8221355",
+      "title": "Staff Engineer - Business Systems",
+      "company": "MongoDB",
+      "logo": "\ud83c\udf43",
+      "location": "New York City; Palo Alto; United States",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8221355",
       "updatedAt": "2026-10-23T11:31:54-04:00",
       "source": "Direct ATS"
     },
@@ -40369,15 +40356,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8200434",
+      "id": "gh-8213069",
       "title": "Technical Account Manager",
       "company": "MongoDB",
       "logo": "\ud83c\udf43",
-      "location": "Tokyo",
+      "location": "Bengaluru",
       "category": "engineering",
       "experienceLevel": "senior",
       "atsType": "greenhouse",
-      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8200434",
+      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8213069",
       "updatedAt": "2026-10-23T11:31:54-04:00",
       "source": "Direct ATS"
     },
@@ -40395,15 +40382,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8213069",
+      "id": "gh-8200434",
       "title": "Technical Account Manager",
       "company": "MongoDB",
       "logo": "\ud83c\udf43",
-      "location": "Bengaluru",
+      "location": "Tokyo",
       "category": "engineering",
       "experienceLevel": "senior",
       "atsType": "greenhouse",
-      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8213069",
+      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8200434",
       "updatedAt": "2026-10-23T11:31:54-04:00",
       "source": "Direct ATS"
     },
