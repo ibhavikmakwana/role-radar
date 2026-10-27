@@ -5,47 +5,99 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   
   <!-- Primary Meta Tags -->
-  <title>RoleRadar — Universal Open-Source Job Discovery Engine</title>
-  <meta name="title" content="RoleRadar — Universal Open-Source Job Discovery Engine" />
-  <meta name="description" content="Discover every role across engineering, AI, mobile, data, and emerging tech — even the ones not defined anywhere yet. Real-time multi-ATS discovery with built-in cold pitch drafter." />
-  <meta name="keywords" content="RoleRadar, Job Discovery Engine, Open Source Jobs, Forward Deployed Engineer jobs, AI Systems Engineer, ATS Aggregator, Bhavik Makwana" />
+  <title>RoleRadar — CareerOps AI Job Discovery & Evaluation Engine</title>
+  <meta name="title" content="RoleRadar — CareerOps AI Job Discovery & Evaluation Engine" />
+  <meta name="description" content="AI job search & evaluation engine backed by CareerOps: live ATS feeds, 1-5 fit scoring against your CV, tailored cover letters & interview prep, and application funnel tracking." />
+  <meta name="keywords" content="CareerOps, Tech Roles Radar, AI job search agent, Forward Deployed Engineer jobs, Flutter Architect, AI Systems Engineer, ATS cover letter, Bhavik Makwana" />
   <meta name="author" content="Bhavik Makwana" />
+  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
   <link rel="canonical" href="https://ibhavikmakwana.github.io/role-radar/" />
 
   <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&family=Space+Grotesk:wght@600;700&display=swap" rel="stylesheet" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="" />
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet" />
+
+  <!-- Structured Data JSON-LD -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "name": "Tech Roles Radar (CareerOps AI)",
+    "url": "https://ibhavikmakwana.dev/jobs/",
+    "description": "Open-source AI job search and evaluation engine implementing CareerOps methodology. Scores jobs 1-5 against candidate profiles, tailors ATS resumes and cover letters, and manages application pipelines.",
+    "author": {
+      "@type": "Person",
+      "name": "Bhavik Makwana",
+      "jobTitle": "Google Developer Expert & Forward Deployed AI Engineer",
+      "url": "https://ibhavikmakwana.dev"
+    },
+    "applicationCategory": "BusinessApplication"
+  }
+  </script>
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://ibhavikmakwana.dev/jobs/" />
+  <meta property="og:title" content="RoleRadar — CareerOps AI Job Discovery & Evaluation Engine" />
+  <meta property="og:description" content="Score jobs 1-5 against your CV before applying. Tailored ATS cover letters, STAR+R interview prep, and pipeline tracking." />
+  <meta property="og:image" content="https://ibhavikmakwana.dev/me-dash.jpg" />
+  <meta property="og:site_name" content="Tech Roles Radar" />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:creator" content="@ibhavikmakwana" />
+  <meta name="twitter:title" content="RoleRadar — CareerOps AI Job Discovery & Evaluation Engine" />
+  <meta name="twitter:description" content="Score jobs 1-5 against your CV before applying. Tailored ATS cover letters, interview prep, and pipeline tracking." />
+  <meta name="twitter:image" content="https://ibhavikmakwana.dev/me-dash.jpg" />
 
   <!-- Stylesheet -->
-  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="style.css?v=32.0" />
 </head>
-<body class="theme-dark">
+<body>
   <div class="app-root">
 
     <!-- Sticky Navigation Header -->
     <header class="app-header">
       <div class="header-inner">
         <!-- Brand & Live Indicator -->
-        <div class="header-brand">
-          <div class="brand-badge-icon">
-            <span class="brand-dot"></span>
-          </div>
-          <div>
-            <div class="brand-name">RoleRadar</div>
-            <div class="brand-status">
-              <span class="live-pulse"></span>
-              <span class="live-label" id="header-stat-jobs">LIVE · -- ROLES</span>
+        <div class="header-brand-wrap">
+          <div class="header-brand">
+            <div class="brand-badge-icon">
+              <span class="brand-dot"></span>
+            </div>
+            <div>
+              <div class="brand-title-row">
+                <span class="brand-name">RoleRadar</span>
+                <button type="button" class="careerops-pill-badge" id="btn-open-careerops" title="Powered by CareerOps Open-Source Engine">
+                  CareerOps AI
+                </button>
+              </div>
+              <div class="brand-status">
+                <span class="live-pulse" id="header-pulse"></span>
+                <span class="live-label" id="header-stat-jobs">LIVE · -- ROLES</span>
+              </div>
             </div>
           </div>
         </div>
 
         <!-- Omnibar Search -->
         <div class="header-search">
-          <span class="search-icon">🔍</span>
-          <input type="text" id="search-input" maxlength="100" placeholder="Search role, company, skill, novel role… (Press /)" autocomplete="off" />
+          <span class="search-icon">⌕</span>
+          <input type="text" id="search-input" maxlength="100" placeholder="Search role, company, stack, or skills…" autocomplete="off" />
           <button id="search-clear-btn" class="search-clear-btn" hidden title="Clear search">&times;</button>
-          <kbd class="key-shortcut">/</kbd>
+        </div>
+
+        <!-- CareerOps Action Quick Buttons -->
+        <div class="header-quick-actions">
+          <button type="button" class="btn-quick-tool btn-eval-trigger" id="btn-open-eval-modal" title="Paste any external job link or raw description to run CareerOps A-H evaluation">
+            <span class="tool-icon">⚡</span>
+            <span class="tool-text">Evaluate Any Job</span>
+          </button>
+          <button type="button" class="btn-quick-tool btn-profile-trigger" id="btn-open-profile-modal" title="Edit candidate profile, skills, and CV for 1-5 fit scoring">
+            <span class="tool-icon">👤</span>
+            <span class="tool-text" id="header-profile-label">Profile: FDE</span>
+          </button>
         </div>
 
         <!-- Screen Navigation Tabs -->
@@ -57,14 +109,9 @@
             Companies <span class="nav-count" id="nav-count-companies">16</span>
           </button>
           <button class="nav-btn" data-screen="shortlist">
-            Shortlist <span class="nav-count" id="nav-count-shortlist">0</span>
+            Pipeline <span class="nav-count" id="nav-count-shortlist">0</span>
           </button>
-          <button id="theme-toggle" class="btn-theme-toggle" title="Toggle Light / Dark Mode" aria-label="Toggle Theme">
-            🌓
-          </button>
-          <a href="https://github.com/ibhavikmakwana/role-radar" target="_blank" rel="noopener noreferrer" class="btn-github-star" title="Star RoleRadar on GitHub">
-            ⭐ Star on GitHub
-          </a>
+          <a href="https://ibhavikmakwana.dev" class="nav-btn nav-btn-back" title="Back to Bhavik Makwana's Portfolio">← Back</a>
         </nav>
       </div>
     </header>
@@ -76,37 +123,39 @@
       <section id="screen-jobs" class="screen-section active">
         <!-- Category Filter Pills -->
         <div class="categories-bar" id="categories-bar">
-          <button class="cat-pill active" data-cat="all">All Roles</button>
-          <button class="cat-pill" data-cat="ai">AI / ML Systems</button>
+          <button class="cat-pill active" data-cat="all">All roles</button>
           <button class="cat-pill" data-cat="fde">Forward Deployed</button>
-          <button class="cat-pill" data-cat="mobile">Mobile &amp; Flutter</button>
-          <button class="cat-pill" data-cat="data">Data &amp; Analytics</button>
-          <button class="cat-pill" data-cat="engineering">Engineering</button>
-          <button class="cat-pill" data-cat="solutions">Solutions &amp; Architecture</button>
+          <button class="cat-pill" data-cat="data">Data Science &amp; Analytics</button>
+          <button class="cat-pill" data-cat="flutter">Flutter</button>
+          <button class="cat-pill" data-cat="android">Android</button>
+          <button class="cat-pill" data-cat="dotnet">ASP.NET / .NET</button>
+          <button class="cat-pill" data-cat="cloud">Cloud &amp; DevOps</button>
+          <button class="cat-pill" data-cat="product">Product &amp; Design</button>
+          <button class="cat-pill" data-cat="robotics">Robotics</button>
+          <button class="cat-pill" data-cat="ai">AI / ML</button>
         </div>
 
         <!-- Filter Chips Bar -->
         <div class="filter-chips-bar">
           <span class="filter-chips-label">FILTERS</span>
           <div class="filter-chips-group" id="chips-group">
+            <button class="chip-btn chip-highlight" data-chip="highfit">★ High Fit (≥4.0)</button>
             <button class="chip-btn" data-chip="fresher">Fresher 0–2 yrs</button>
-            <button class="chip-btn" data-chip="remote">Remote Only</button>
-            <button class="chip-btn" data-chip="senior">Senior / Lead</button>
-            <button class="chip-btn" data-chip="ats">Direct ATS Only</button>
+            <button class="chip-btn" data-chip="hub">Gujarat tech hub</button>
+            <button class="chip-btn" data-chip="remote">Remote</button>
+            <button class="chip-btn" data-chip="senior">Senior / lead</button>
+            <button class="chip-btn" data-chip="scraped">JobSpy only</button>
           </div>
-          <span class="result-counter" id="result-counter">Loading live roles...</span>
-        </div>
-
-        <!-- Novel Role Synthesizer Banner (Appears on custom/novel queries) -->
-        <div id="novel-role-banner" class="novel-banner" hidden>
-          <div class="novel-content">
-            <span class="novel-badge">🧠 Semantic Role Expansion</span>
-            <h3 id="novel-title" class="novel-heading">Novel Role Detected</h3>
-            <p id="novel-desc" class="novel-text"></p>
+          <div class="feed-status-meta">
+            <span class="bg-sync-badge" id="bg-sync-badge">
+              <span class="sync-spinner-mini"></span>
+              <span id="bg-sync-text">Syncing 35+ live ATS &amp; web feeds...</span>
+            </span>
+            <span class="result-counter" id="result-counter">Loading live roles...</span>
           </div>
         </div>
 
-        <!-- 2-Column Split Layout: Job Grid + Sticky Cold Pitch Drafter -->
+        <!-- 2-Column Split Layout: Job Grid + Sticky CareerOps Copilot -->
         <div class="jobs-layout-grid">
           <!-- Left Column: Job Cards List -->
           <div class="jobs-list-column">
@@ -128,38 +177,123 @@
             </div>
           </div>
 
-          <!-- Right Column: Sticky Cold Pitch Drafter Aside -->
-          <aside class="pitch-sidebar-aside">
+          <!-- Right Column: Sticky CareerOps Copilot Aside -->
+          <aside class="pitch-sidebar-aside" id="careerops-sidebar-aside">
             <div class="pitch-card-box">
+              
+              <!-- Copilot Header: Role Info & 1-5 Score Meter -->
               <div class="pitch-card-header">
-                <div class="pitch-header-tag">COLD PITCH DRAFTER</div>
-                <h3 class="pitch-job-title" id="pitch-sel-title">Select a role</h3>
-                <div class="pitch-job-sub" id="pitch-sel-company">Click any job card to generate custom outreach</div>
-              </div>
-
-              <!-- Channel Switcher Tabs -->
-              <div class="pitch-channels-tabs" id="pitch-channel-tabs">
-                <button class="pitch-tab-btn active" data-channel="email">Email</button>
-                <button class="pitch-tab-btn" data-channel="manager">EM / Lead</button>
-                <button class="pitch-tab-btn" data-channel="linkedin">LinkedIn</button>
-                <button class="pitch-tab-btn" data-channel="x">X / Twitter</button>
-              </div>
-
-              <!-- Monospace Pitch Output Box -->
-              <div class="pitch-content-body">
-                <pre class="pitch-code-output" id="pitch-code-output"></pre>
+                <div class="copilot-header-top">
+                  <span class="pitch-header-tag">CAREEROPS EVALUATION · A–H ENGINE</span>
+                  <span class="copilot-privacy-tag" title="Local-first: all evaluations execute on your device">🔒 Local-First</span>
+                </div>
                 
+                <h3 class="pitch-job-title" id="pitch-sel-title">Select a role</h3>
+                <div class="pitch-job-sub" id="pitch-sel-company">Click any job card or evaluate a custom JD</div>
+
+                <!-- CareerOps Fit Score Banner -->
+                <div class="careerops-score-banner" id="careerops-score-banner">
+                  <div class="score-dial-wrap">
+                    <div class="score-val-big" id="pitch-score-val">--</div>
+                    <div class="score-scale">/ 5.0</div>
+                  </div>
+                  <div class="score-meta-wrap">
+                    <div class="score-verdict-badge" id="pitch-verdict-pill">AWAITING SELECTION</div>
+                    <div class="score-summary-text" id="pitch-score-rationale">Select a role to run A–H fit scoring against your profile.</div>
+                  </div>
+                </div>
+              </div>
+
+              <!-- CareerOps Copilot Navigation Tabs -->
+              <div class="copilot-main-tabs" id="copilot-tab-bar">
+                <button type="button" class="copilot-tab-btn active" data-copilot-tab="eval">🎯 Evaluation</button>
+                <button type="button" class="copilot-tab-btn" data-copilot-tab="cover">📝 Cover Letter</button>
+                <button type="button" class="copilot-tab-btn" data-copilot-tab="bullets">✨ CV Bullets</button>
+                <button type="button" class="copilot-tab-btn" data-copilot-tab="star">🗣️ STAR+R Prep</button>
+                <button type="button" class="copilot-tab-btn" data-copilot-tab="pitch">📬 Outreach</button>
+              </div>
+
+              <!-- Tab Panel 1: A-H Evaluation Report -->
+              <div class="copilot-panel-view active" id="panel-copilot-eval">
+                <div class="eval-report-container" id="eval-report-content">
+                  <div class="eval-empty-placeholder">Select a job card to view complete Block A–H evaluation report.</div>
+                </div>
+              </div>
+
+              <!-- Tab Panel 2: ATS Tailored Cover Letter -->
+              <div class="copilot-panel-view" id="panel-copilot-cover" hidden>
+                <div class="cover-letter-wrap">
+                  <div class="panel-sub-header">
+                    <span class="panel-instruction">Tailored ATS cover letter mirroring requirements from the JD.</span>
+                    <button type="button" class="btn-panel-action" id="btn-download-cover">Download .md</button>
+                  </div>
+                  <pre class="pitch-code-output cover-letter-text" id="cover-letter-output"></pre>
+                  <button type="button" class="btn-copy-pitch" id="btn-copy-cover">Copy Cover Letter</button>
+                </div>
+              </div>
+
+              <!-- Tab Panel 3: Tailored CV / Resume Bullets -->
+              <div class="copilot-panel-view" id="panel-copilot-bullets" hidden>
+                <div class="bullets-letter-wrap">
+                  <div class="panel-sub-header">
+                    <span class="panel-instruction">3-4 impact bullet points with exact keywords to paste into your CV.</span>
+                  </div>
+                  <div class="cv-bullets-stream" id="cv-bullets-output"></div>
+                  <button type="button" class="btn-copy-pitch" id="btn-copy-bullets">Copy All Bullets</button>
+                </div>
+              </div>
+
+              <!-- Tab Panel 4: STAR+R Interview Prep -->
+              <div class="copilot-panel-view" id="panel-copilot-star" hidden>
+                <div class="star-prep-wrap">
+                  <div class="panel-sub-header">
+                    <span class="panel-instruction">Anticipated technical and behavioral questions with STAR+R structures.</span>
+                  </div>
+                  <div class="star-questions-stream" id="star-prep-output"></div>
+                </div>
+              </div>
+
+              <!-- Tab Panel 5: Multi-Channel Outreach Drafter -->
+              <div class="copilot-panel-view" id="panel-copilot-pitch" hidden>
+                <div class="pitch-channels-tabs" id="pitch-channel-tabs">
+                  <button type="button" class="pitch-tab-btn active" data-channel="email">Email</button>
+                  <button type="button" class="pitch-tab-btn" data-channel="manager">EM / Lead</button>
+                  <button type="button" class="pitch-tab-btn" data-channel="linkedin">LinkedIn</button>
+                  <button type="button" class="pitch-tab-btn" data-channel="x">X / Twitter</button>
+                </div>
+
+                <div class="pitch-content-body">
+                  <div class="pitch-char-counter" id="pitch-char-counter" hidden>0 / 300 chars</div>
+                  <pre class="pitch-code-output" id="pitch-code-output"></pre>
+                  <button type="button" id="btn-copy-pitch" class="btn-copy-pitch">Copy pitch</button>
+                </div>
+              </div>
+
+              <!-- Action & Pipeline Bar -->
+              <div class="copilot-pipeline-footer">
+                <div class="pipeline-status-row">
+                  <label for="select-job-status" class="status-select-label">Pipeline Stage:</label>
+                  <select id="select-job-status" class="status-select-dropdown">
+                    <option value="none">Not in Pipeline</option>
+                    <option value="saved">⭐ Saved / Wishlist</option>
+                    <option value="applied">🚀 Applied</option>
+                    <option value="interviewing">🗣️ Interviewing</option>
+                    <option value="offer">🎉 Offer Received</option>
+                    <option value="archived">📦 Archived / Passed</option>
+                  </select>
+                </div>
+
                 <div class="pitch-action-row">
-                  <button id="btn-copy-pitch" class="btn-copy-pitch">Copy pitch</button>
-                  <a id="link-pitch-apply" href="#" target="_blank" rel="noopener noreferrer" class="btn-pitch-apply">Apply Direct ↗</a>
+                  <a id="link-pitch-apply" href="#" target="_blank" rel="noopener noreferrer" class="btn-pitch-apply">Apply ↗</a>
                 </div>
 
                 <div class="pitch-meta-footer" id="pitch-meta-footer">
                   <div id="pitch-meta-id">ID · --</div>
-                  <div id="pitch-meta-source">SOURCE · -- · direct ats</div>
+                  <div id="pitch-meta-source">SOURCE · -- · dedup ok</div>
                   <div id="pitch-meta-level">LEVEL · --</div>
                 </div>
               </div>
+
             </div>
           </aside>
         </div>
@@ -168,36 +302,48 @@
       <!-- SCREEN 2: Company Directory -->
       <section id="screen-companies" class="screen-section" hidden>
         <div class="section-title-wrap">
-          <h2 class="section-heading">Company Directory</h2>
-          <p class="section-desc">Leading technology, product, and AI engineering firms with active hiring pipelines.</p>
+          <h2 class="section-heading">Company directory</h2>
+          <p class="section-desc">Regional IT and product firms across the Gujarat tech corridor, with live hiring tracks.</p>
         </div>
         <div class="companies-grid" id="companies-grid">
           <!-- Rendered dynamically -->
         </div>
       </section>
 
-      <!-- SCREEN 3: Shortlist Manager & Exports -->
+      <!-- SCREEN 3: CareerOps Application Funnel & Tracker -->
       <section id="screen-shortlist" class="screen-section" hidden>
         <div class="shortlist-header-row">
           <div>
-            <h2 class="section-heading">Shortlist &amp; Bookmarks</h2>
-            <p class="section-desc">Saved locally in your browser. Export or share the exact filter state with zero backend database.</p>
+            <div class="funnel-badge-tag">CAREEROPS APPLICATION FUNNEL</div>
+            <h2 class="section-heading">Application Pipeline</h2>
+            <p class="section-desc">Local-first application tracker. Set stages, track interview dates, and export directly to CareerOps CLI.</p>
           </div>
           <div class="shortlist-actions-wrap">
-            <button id="btn-export-json" class="btn-export-outline">Export JSON</button>
-            <button id="btn-export-csv" class="btn-export-outline">Export CSV</button>
-            <button id="btn-copy-share" class="btn-share-solid">Copy share link</button>
+            <button type="button" id="btn-export-careerops" class="btn-export-cli" title="Export to CareerOps data/applications.md markdown format">Export to CareerOps CLI</button>
+            <button type="button" id="btn-export-json" class="btn-export-outline">Export JSON</button>
+            <button type="button" id="btn-export-csv" class="btn-export-outline">Export CSV</button>
+            <button type="button" id="btn-copy-share" class="btn-share-solid">Copy share link</button>
           </div>
         </div>
 
-        <div class="share-url-preview" id="share-url-preview">https://ibhavikmakwana.github.io/role-radar/#saved=...</div>
+        <!-- Funnel Stages Tabs Bar -->
+        <div class="pipeline-stages-tabs" id="pipeline-stages-tabs">
+          <button type="button" class="stage-tab-btn active" data-funnel-stage="all">All (<span id="stage-count-all">0</span>)</button>
+          <button type="button" class="stage-tab-btn" data-funnel-stage="saved">⭐ Saved (<span id="stage-count-saved">0</span>)</button>
+          <button type="button" class="stage-tab-btn" data-funnel-stage="applied">🚀 Applied (<span id="stage-count-applied">0</span>)</button>
+          <button type="button" class="stage-tab-btn" data-funnel-stage="interviewing">🗣️ Interviewing (<span id="stage-count-interviewing">0</span>)</button>
+          <button type="button" class="stage-tab-btn" data-funnel-stage="offer">🎉 Offer (<span id="stage-count-offer">0</span>)</button>
+          <button type="button" class="stage-tab-btn" data-funnel-stage="archived">📦 Archived (<span id="stage-count-archived">0</span>)</button>
+        </div>
+
+        <div class="share-url-preview" id="share-url-preview">radar.dev/?q=&amp;cat=all&amp;f=none&amp;saved=0</div>
 
         <div class="shortlist-feed-list" id="shortlist-feed-list">
           <!-- Rendered dynamically -->
         </div>
 
         <div id="shortlist-empty-state" class="jobs-empty-state" hidden>
-          <p>Nothing shortlisted yet. Click the bookmark icon (🔖) on any job card to save it.</p>
+          <p>No applications currently in this pipeline stage. Save or evaluate roles from the feed to track them here.</p>
         </div>
       </section>
 
@@ -206,19 +352,207 @@
     <!-- Footer -->
     <footer class="app-footer">
       <div class="footer-inner">
-        <p>RoleRadar · Open-Source Career Discovery Radar · Built by <a href="https://github.com/ibhavikmakwana" target="_blank" rel="noopener noreferrer">Bhavik Makwana</a></p>
-        <div class="footer-links">
-          <a href="https://github.com/ibhavikmakwana/role-radar" target="_blank" rel="noopener noreferrer">GitHub Repo</a>
-          <span>·</span>
-          <a href="https://github.com/ibhavikmakwana/role-radar/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener noreferrer">Add Company</a>
-          <span>·</span>
-          <a href="https://github.com/ibhavikmakwana/role-radar/blob/main/LICENSE" target="_blank" rel="noopener noreferrer">MIT License</a>
-        </div>
+        <p>Tech Roles Radar · Powered by <a href="#careerops" id="footer-careerops-link">CareerOps Open-Source Engine</a> · Crafted by <a href="/">Bhavik Makwana</a></p>
       </div>
     </footer>
 
   </div>
 
-  <script src="app.js"></script>
+  <!-- =========================================================================
+       MODAL 1: Evaluate Any Job (Paste JD / URL)
+       ========================================================================= -->
+  <div class="modal-backdrop" id="modal-eval-custom" hidden>
+    <div class="modal-dialog modal-dialog-lg">
+      <div class="modal-header">
+        <div>
+          <span class="modal-kicker">CAREEROPS ARTIFACT EVALUATOR</span>
+          <h3 class="modal-title">Evaluate Any Job Posting</h3>
+        </div>
+        <button type="button" class="modal-close-btn" data-close-modal="modal-eval-custom">&times;</button>
+      </div>
+      <div class="modal-body">
+        <p class="modal-intro">Paste any external job link or copy-paste raw JD requirements from LinkedIn, Ashby, Greenhouse, or Lever to evaluate fit against your profile before you apply.</p>
+        
+        <form id="form-custom-eval" class="eval-form">
+          <div class="form-row">
+            <div class="form-group flex-2">
+              <label for="custom-eval-url">Job Posting URL (Optional)</label>
+              <input type="url" id="custom-eval-url" placeholder="https://boards.greenhouse.io/... or https://jobs.ashbyhq.com/..." />
+            </div>
+            <div class="form-group flex-1">
+              <label for="custom-eval-company">Company Name *</label>
+              <input type="text" id="custom-eval-company" required placeholder="e.g. Anthropic, Stripe, OpenAI" />
+            </div>
+          </div>
+
+          <div class="form-row">
+            <div class="form-group flex-2">
+              <label for="custom-eval-title">Job Title *</label>
+              <input type="text" id="custom-eval-title" required placeholder="e.g. Forward Deployed AI Engineer" />
+            </div>
+            <div class="form-group flex-1">
+              <label for="custom-eval-cat">Role Category</label>
+              <select id="custom-eval-cat">
+                <option value="fde">Forward Deployed</option>
+                <option value="ai">AI / ML</option>
+                <option value="flutter">Flutter</option>
+                <option value="android">Android</option>
+                <option value="ios">iOS</option>
+                <option value="data">Data Science &amp; Analytics</option>
+                <option value="cloud">Cloud &amp; DevOps</option>
+                <option value="engineering">Software Engineering</option>
+                <option value="product">Product &amp; Design</option>
+              </select>
+            </div>
+            <div class="form-group flex-1">
+              <label for="custom-eval-level">Level</label>
+              <select id="custom-eval-level">
+                <option value="mid">Mid-Level</option>
+                <option value="senior" selected>Senior</option>
+                <option value="lead">Staff / Lead</option>
+                <option value="entry">Fresher / Junior</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label for="custom-eval-desc">Job Description &amp; Requirements *</label>
+            <textarea id="custom-eval-desc" rows="7" required placeholder="Paste the full job description, responsibilities, and required qualifications here..."></textarea>
+          </div>
+
+          <div class="modal-footer-row">
+            <button type="button" class="btn-cancel" data-close-modal="modal-eval-custom">Cancel</button>
+            <button type="submit" class="btn-primary-action">⚡ Run CareerOps Evaluation</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <!-- =========================================================================
+       MODAL 2: Candidate Profile & CV Setup
+       ========================================================================= -->
+  <div class="modal-backdrop" id="modal-profile" hidden>
+    <div class="modal-dialog modal-dialog-lg">
+      <div class="modal-header">
+        <div>
+          <span class="modal-kicker">CAREEROPS PROFILE &amp; CV SETTINGS</span>
+          <h3 class="modal-title">Candidate Profile &amp; CV</h3>
+        </div>
+        <button type="button" class="modal-close-btn" data-close-modal="modal-profile">&times;</button>
+      </div>
+      <div class="modal-body">
+        <p class="modal-intro">Stored 100% locally in your browser. All 1–5 scoring and tailored cover letter generation evaluate against this profile.</p>
+
+        <!-- Presets Row -->
+        <div class="profile-presets-bar">
+          <span class="presets-label">QUICK PRESETS:</span>
+          <div class="presets-buttons-wrap">
+            <button type="button" class="btn-preset active" data-preset="fde">Forward Deployed AI (Bhavik)</button>
+            <button type="button" class="btn-preset" data-preset="fullstack">Senior Full-Stack</button>
+            <button type="button" class="btn-preset" data-preset="flutter">Mobile / Flutter GDE</button>
+            <button type="button" class="btn-preset" data-preset="data">Data &amp; ML Engineer</button>
+          </div>
+        </div>
+
+        <form id="form-profile" class="profile-form">
+          <div class="form-row">
+            <div class="form-group flex-1">
+              <label for="profile-name">Candidate Name</label>
+              <input type="text" id="profile-name" required value="Bhavik Makwana" />
+            </div>
+            <div class="form-group flex-2">
+              <label for="profile-title">Professional Headline / Title</label>
+              <input type="text" id="profile-title" required value="Forward Deployed AI Engineer &amp; Google Developer Expert" />
+            </div>
+          </div>
+
+          <div class="form-row">
+            <div class="form-group flex-1">
+              <label for="profile-years">Years of Experience</label>
+              <input type="number" id="profile-years" min="0" max="30" value="8" />
+            </div>
+            <div class="form-group flex-1">
+              <label for="profile-target-level">Target Seniority</label>
+              <input type="text" id="profile-target-level" value="Senior / Staff / Lead" />
+            </div>
+            <div class="form-group flex-1">
+              <label for="profile-comp">Target Comp</label>
+              <input type="text" id="profile-comp" value="₹35–55 LPA / $140–200K" />
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label for="profile-skills">Core Technical Skills (comma separated)</label>
+            <input type="text" id="profile-skills" value="Python, TypeScript, LangChain, LLMs, RAG, Cloudflare Workers, Edge Computing, Flutter, FastAPI, React, Docker, GCP, Agentic Systems, MCP, PostgreSQL, CI/CD" />
+          </div>
+
+          <div class="form-group">
+            <label for="profile-summary">Career Summary &amp; Key Proof Points</label>
+            <textarea id="profile-summary" rows="4">Forward Deployed AI Engineer and Google Developer Expert with 8+ years building high-throughput production AI systems, real-time client integrations, edge architectures on Cloudflare, and mission-critical multi-platform mobile apps. Shipped sub-50ms latency AI pipelines and enterprise client deployments.</textarea>
+          </div>
+
+          <div class="modal-footer-row">
+            <button type="button" class="btn-cancel" data-close-modal="modal-profile">Cancel</button>
+            <button type="submit" class="btn-primary-action">Save Profile &amp; Re-Score Roles</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <!-- =========================================================================
+       MODAL 3: CareerOps Open Source Engine Info
+       ========================================================================= -->
+  <div class="modal-backdrop" id="modal-careerops" hidden>
+    <div class="modal-dialog">
+      <div class="modal-header">
+        <div>
+          <span class="modal-kicker">OPEN-SOURCE AGENT ECOSYSTEM</span>
+          <h3 class="modal-title">CareerOps AI Job Search Agent</h3>
+        </div>
+        <button type="button" class="modal-close-btn" data-close-modal="modal-careerops">&times;</button>
+      </div>
+      <div class="modal-body careerops-modal-content">
+        <p class="manifesto-quote">"Apply better to fewer. Signal over volume. Evidence over keywords. A human decides. Local-first. Dignity on both sides of the table."</p>
+        
+        <p><strong>Tech Roles Radar</strong> incorporates the official methodology of <strong>career-ops</strong> — the open-source AI job search agent created by Santiago Fernández de Valderrama Aparicio (@santifer):</p>
+        
+        <ul class="careerops-features-list">
+          <li><strong>A–H Evaluation Framework</strong>: Multi-block candidate-to-job matching, gap analysis, and level strategy.</li>
+          <li><strong>1–5 Scoring Discipline</strong>: Recommends applying only to ≥4.0 roles, stopping you from wasting nights on weak fits.</li>
+          <li><strong>ATS Cover Letters &amp; CV Bullets</strong>: Research-backed tailored assets with zero keyword fabrication.</li>
+          <li><strong>Local-First Privacy</strong>: No telemetry, no backend resume upload. Your data stays on your machine.</li>
+          <li><strong>Seamless CLI Export</strong>: Export your pipeline directly into <code>data/applications.md</code> for the CareerOps CLI.</li>
+        </ul>
+
+        <div class="cli-quickstart-box">
+          <div class="cli-box-title">RUN CAREEROPS LOCALLY IN YOUR AI CLI:</div>
+          <pre class="cli-code-snippet"><code>npx @santifer/career-ops init</code></pre>
+        </div>
+
+        <div class="modal-links-row">
+          <a href="https://github.com/career-ops-hq/career-ops" target="_blank" rel="noopener noreferrer" class="btn-ext-link">GitHub Repository ↗</a>
+          <a href="https://career-ops.org/manifesto" target="_blank" rel="noopener noreferrer" class="btn-ext-link">The Manifesto ↗</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js?v=32.0"></script>
+  <!-- Cloudflare Web Analytics (Production & Real-User Only Guard) -->
+  <script type="text/javascript">
+    if (
+      window.location.hostname !== 'localhost' &&
+      window.location.hostname !== '127.0.0.1' &&
+      !/bot|googlebot|crawler|spider|robot|crawling/i.test(navigator.userAgent)
+    ) {
+      var s = document.createElement('script');
+      s.defer = true;
+      s.src = 'https://static.cloudflareinsights.com/beacon.min.js';
+      s.setAttribute('data-cf-beacon', '{"token": "7e03d45185a7402ab87193174ef11ba3"}');
+      document.body.appendChild(s);
+    }
+  </script>
 </body>
 </html>

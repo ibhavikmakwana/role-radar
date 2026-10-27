@@ -9,6 +9,17 @@
 
 ---
 
+## 🧠 Powered by CareerOps AI Engine
+
+RoleRadar incorporates the evaluation disciplines and methodology of **[career-ops](https://github.com/career-ops-hq/career-ops)**:
+
+- 🎯 **1.0–5.0 Deterministic Fit Scoring**: Evaluates openings against your candidate profile and CV. Strictly recommends **Apply (≥4.0)**, **Targeted Stretch (3.0–3.9)**, or **Do Not Apply (<3.0)** to protect your time.
+- 📋 **Block A–H Evaluation Suite**: In-depth inspection covering Role & Stack, Candidate CV Match Matrix, Level Strategy, Compensation Research, Personalization Angles, STAR+R Interview Prep, Liveness verification, and Work Auth.
+- 📝 **Tailored ATS Application Materials**: Generate targeted cover letters with quantified metric achievements and impact-driven CV bullets ().
+- ⚡ **Universal Job Evaluator**: Paste any external job posting URL or raw JD to run the full evaluation suite against your CV.
+- 🔒 **100% Local-First Privacy**: Resumes, profiles, and pipeline stages live entirely in your browser's . Zero telemetry or resume data leaves your machine.
+- 🚀 **1-Click CareerOps CLI Markdown Export**: Synchronize your pipeline directly into  compatible with the CareerOps terminal CLI.
+
 ## ✨ Features
 
 - 🔍 **Universal Deep Search**: Full-text search across raw job descriptions, requirements, and responsibilities (not just titles).
