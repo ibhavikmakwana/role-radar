@@ -1,7 +1,7 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-01T20:02:15.403588",
-  "totalJobs": 8354,
+  "generatedAt": "2026-11-02T00:07:02.127159",
+  "totalJobs": 8352,
   "jobs": [
     {
       "id": "gh-5456619008",
@@ -264,16 +264,16 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5076109008",
+      "id": "gh-5443882008",
       "title": "Applied AI Architect",
       "company": "Anthropic",
       "logo": "\ud83e\udde0",
-      "location": "Tokyo, Japan",
+      "location": "Bangalore, India",
       "category": "ai",
       "experienceLevel": "lead",
       "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5076109008",
-      "updatedAt": "2026-09-02T02:28:25-04:00",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5443882008",
+      "updatedAt": "2026-10-09T00:06:04-04:00",
       "source": "Direct ATS"
     },
     {
@@ -290,16 +290,16 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5443882008",
+      "id": "gh-5076109008",
       "title": "Applied AI Architect",
       "company": "Anthropic",
       "logo": "\ud83e\udde0",
-      "location": "Bangalore, India",
+      "location": "Tokyo, Japan",
       "category": "ai",
       "experienceLevel": "lead",
       "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5443882008",
-      "updatedAt": "2026-10-09T00:06:04-04:00",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5076109008",
+      "updatedAt": "2026-09-02T02:28:25-04:00",
       "source": "Direct ATS"
     },
     {
@@ -381,19 +381,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-4461444008",
-      "title": "Applied AI Architect, Industries",
-      "company": "Anthropic",
-      "logo": "\ud83e\udde0",
-      "location": "New York City, NY; San Francisco, CA | New York City, NY | Seattle, WA",
-      "category": "ai",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4461444008",
-      "updatedAt": "2026-08-21T12:49:35-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5390765008",
       "title": "Applied AI Architect, Industries",
       "company": "Anthropic",
@@ -404,6 +391,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5390765008",
       "updatedAt": "2026-08-28T14:44:01-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-4461444008",
+      "title": "Applied AI Architect, Industries",
+      "company": "Anthropic",
+      "logo": "\ud83e\udde0",
+      "location": "New York City, NY; San Francisco, CA | New York City, NY | Seattle, WA",
+      "category": "ai",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4461444008",
+      "updatedAt": "2026-08-21T12:49:35-04:00",
       "source": "Direct ATS"
     },
     {
@@ -446,19 +446,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5390787008",
-      "title": "Applied AI Architect, Partnerships",
-      "company": "Anthropic",
-      "logo": "\ud83e\udde0",
-      "location": "Paris, France",
-      "category": "ai",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5390787008",
-      "updatedAt": "2026-08-28T16:46:44-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5390902008",
       "title": "Applied AI Architect, Partnerships",
       "company": "Anthropic",
@@ -495,6 +482,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5426933008",
       "updatedAt": "2026-09-21T04:42:09-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5390787008",
+      "title": "Applied AI Architect, Partnerships",
+      "company": "Anthropic",
+      "logo": "\ud83e\udde0",
+      "location": "Paris, France",
+      "category": "ai",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5390787008",
+      "updatedAt": "2026-08-28T16:46:44-04:00",
       "source": "Direct ATS"
     },
     {
@@ -576,19 +576,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5432573008",
-      "title": "Applied AI Architect, Startups",
-      "company": "Anthropic",
-      "logo": "\ud83e\udde0",
-      "location": "London, UK",
-      "category": "ai",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5432573008",
-      "updatedAt": "2026-09-23T04:57:05-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5406982008",
       "title": "Applied AI Architect, Startups",
       "company": "Anthropic",
@@ -599,6 +586,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5406982008",
       "updatedAt": "2026-10-20T14:36:32-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5432573008",
+      "title": "Applied AI Architect, Startups",
+      "company": "Anthropic",
+      "logo": "\ud83e\udde0",
+      "location": "London, UK",
+      "category": "ai",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5432573008",
+      "updatedAt": "2026-09-23T04:57:05-04:00",
       "source": "Direct ATS"
     },
     {
@@ -940,19 +940,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5460956008",
-      "title": "Business Recruiter",
-      "company": "Anthropic",
-      "logo": "\ud83e\udde0",
-      "location": "London, UK",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5460956008",
-      "updatedAt": "2026-10-29T15:31:55-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5467425008",
       "title": "Business Recruiter",
       "company": "Anthropic",
@@ -963,6 +950,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5467425008",
       "updatedAt": "2026-10-29T15:35:34-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5460956008",
+      "title": "Business Recruiter",
+      "company": "Anthropic",
+      "logo": "\ud83e\udde0",
+      "location": "London, UK",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5460956008",
+      "updatedAt": "2026-10-29T15:31:55-04:00",
       "source": "Direct ATS"
     },
     {
@@ -1473,19 +1473,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5456491008",
-      "title": "Customer Success Manager",
-      "company": "Anthropic",
-      "logo": "\ud83e\udde0",
-      "location": "Tokyo, Japan",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5456491008",
-      "updatedAt": "2026-10-19T05:37:49-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5391112008",
       "title": "Customer Success Manager",
       "company": "Anthropic",
@@ -1496,6 +1483,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5391112008",
       "updatedAt": "2026-08-31T00:22:34-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5456491008",
+      "title": "Customer Success Manager",
+      "company": "Anthropic",
+      "logo": "\ud83e\udde0",
+      "location": "Tokyo, Japan",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5456491008",
+      "updatedAt": "2026-10-19T05:37:49-04:00",
       "source": "Direct ATS"
     },
     {
@@ -1678,19 +1678,6 @@
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5468392008",
       "updatedAt": "2026-10-30T12:37:34-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-5405710008",
-      "title": "Data Center Energy Lead, EMEA",
-      "company": "Anthropic",
-      "logo": "\ud83e\udde0",
-      "location": "London, UK",
-      "category": "data",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5405710008",
-      "updatedAt": "2026-08-28T14:44:02-04:00",
       "source": "Direct ATS"
     },
     {
@@ -2643,19 +2630,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5458689008",
-      "title": "Enterprise Account Executive, Public Sector",
-      "company": "Anthropic",
-      "logo": "\ud83e\udde0",
-      "location": "Milan, Italy",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5458689008",
-      "updatedAt": "2026-10-29T09:49:57-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5458064008",
       "title": "Enterprise Account Executive, Public Sector",
       "company": "Anthropic",
@@ -2666,6 +2640,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5458064008",
       "updatedAt": "2026-10-29T09:41:13-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5458689008",
+      "title": "Enterprise Account Executive, Public Sector",
+      "company": "Anthropic",
+      "logo": "\ud83e\udde0",
+      "location": "Milan, Italy",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5458689008",
+      "updatedAt": "2026-10-29T09:49:57-04:00",
       "source": "Direct ATS"
     },
     {
@@ -2955,6 +2942,19 @@
       "source": "Direct ATS"
     },
     {
+      "id": "gh-5391021008",
+      "title": "Forward Deployed Engineer",
+      "company": "Anthropic",
+      "logo": "\ud83e\udde0",
+      "location": "Paris, France",
+      "category": "fde",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5391021008",
+      "updatedAt": "2026-08-28T16:46:44-04:00",
+      "source": "Direct ATS"
+    },
+    {
       "id": "gh-5391016008",
       "title": "Forward Deployed Engineer",
       "company": "Anthropic",
@@ -2978,19 +2978,6 @@
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5423029008",
       "updatedAt": "2026-09-14T05:27:39-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-5391021008",
-      "title": "Forward Deployed Engineer",
-      "company": "Anthropic",
-      "logo": "\ud83e\udde0",
-      "location": "Paris, France",
-      "category": "fde",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5391021008",
-      "updatedAt": "2026-08-28T16:46:44-04:00",
       "source": "Direct ATS"
     },
     {
@@ -3384,19 +3371,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5452859008",
-      "title": "International Compensation Partner",
-      "company": "Anthropic",
-      "logo": "\ud83e\udde0",
-      "location": "Dublin, IE",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5452859008",
-      "updatedAt": "2026-10-20T10:40:11-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5458322008",
       "title": "International Compensation Partner",
       "company": "Anthropic",
@@ -3407,6 +3381,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5458322008",
       "updatedAt": "2026-10-20T10:40:47-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5452859008",
+      "title": "International Compensation Partner",
+      "company": "Anthropic",
+      "logo": "\ud83e\udde0",
+      "location": "Dublin, IE",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5452859008",
+      "updatedAt": "2026-10-20T10:40:11-04:00",
       "source": "Direct ATS"
     },
     {
@@ -3475,19 +3462,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5396397008",
-      "title": "IT Support Engineer",
-      "company": "Anthropic",
-      "logo": "\ud83e\udde0",
-      "location": "Tokyo, Japan",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5396397008",
-      "updatedAt": "2026-08-28T16:49:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5439524008",
       "title": "IT Support Engineer",
       "company": "Anthropic",
@@ -3498,6 +3472,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5439524008",
       "updatedAt": "2026-10-07T12:42:56-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5396397008",
+      "title": "IT Support Engineer",
+      "company": "Anthropic",
+      "logo": "\ud83e\udde0",
+      "location": "Tokyo, Japan",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5396397008",
+      "updatedAt": "2026-08-28T16:49:12-04:00",
       "source": "Direct ATS"
     },
     {
@@ -3709,19 +3696,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5430869008",
-      "title": "Manager, Applied AI Architect",
-      "company": "Anthropic",
-      "logo": "\ud83e\udde0",
-      "location": "Seoul, South Korea",
-      "category": "ai",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5430869008",
-      "updatedAt": "2026-09-22T02:55:09-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5443331008",
       "title": "Manager, Applied AI Architect",
       "company": "Anthropic",
@@ -3732,6 +3706,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5443331008",
       "updatedAt": "2026-10-12T23:07:58-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5430869008",
+      "title": "Manager, Applied AI Architect",
+      "company": "Anthropic",
+      "logo": "\ud83e\udde0",
+      "location": "Seoul, South Korea",
+      "category": "ai",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5430869008",
+      "updatedAt": "2026-09-22T02:55:09-04:00",
       "source": "Direct ATS"
     },
     {
@@ -3917,19 +3904,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5099753008",
-      "title": "Manager, Forward Deployed Engineering",
-      "company": "Anthropic",
-      "logo": "\ud83e\udde0",
-      "location": "New York City, NY",
-      "category": "fde",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5099753008",
-      "updatedAt": "2026-08-31T15:59:18-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5385634008",
       "title": "Manager, Forward Deployed Engineering",
       "company": "Anthropic",
@@ -3940,6 +3914,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5385634008",
       "updatedAt": "2026-08-28T14:44:00-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5099753008",
+      "title": "Manager, Forward Deployed Engineering",
+      "company": "Anthropic",
+      "logo": "\ud83e\udde0",
+      "location": "New York City, NY",
+      "category": "fde",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5099753008",
+      "updatedAt": "2026-08-31T15:59:18-04:00",
       "source": "Direct ATS"
     },
     {
@@ -4307,19 +4294,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5391215008",
-      "title": "Partner Success Lead",
-      "company": "Anthropic",
-      "logo": "\ud83e\udde0",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5391215008",
-      "updatedAt": "2026-08-21T21:02:15-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5440752008",
       "title": "Partner Success Lead",
       "company": "Anthropic",
@@ -4330,6 +4304,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5440752008",
       "updatedAt": "2026-10-05T12:26:25-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5391215008",
+      "title": "Partner Success Lead",
+      "company": "Anthropic",
+      "logo": "\ud83e\udde0",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5391215008",
+      "updatedAt": "2026-08-21T21:02:15-04:00",
       "source": "Direct ATS"
     },
     {
@@ -4515,19 +4502,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5456406008",
-      "title": "Principal Engineer Capacity/Compute",
-      "company": "Anthropic",
-      "logo": "\ud83e\udde0",
-      "location": "Seattle, WA",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5456406008",
-      "updatedAt": "2026-10-18T20:53:03-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5456405008",
       "title": "Principal Engineer Capacity/Compute",
       "company": "Anthropic",
@@ -4551,6 +4525,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5456039008",
       "updatedAt": "2026-10-18T20:49:07-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5456406008",
+      "title": "Principal Engineer Capacity/Compute",
+      "company": "Anthropic",
+      "logo": "\ud83e\udde0",
+      "location": "Seattle, WA",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5456406008",
+      "updatedAt": "2026-10-18T20:53:03-04:00",
       "source": "Direct ATS"
     },
     {
@@ -4931,19 +4918,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-4979585008",
-      "title": "Product Support Specialist",
-      "company": "Anthropic",
-      "logo": "\ud83e\udde0",
-      "location": "New York City, NY; San Francisco, CA; Seattle, WA",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4979585008",
-      "updatedAt": "2026-08-21T12:49:44-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5138042008",
       "title": "Product Support Specialist",
       "company": "Anthropic",
@@ -4954,6 +4928,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5138042008",
       "updatedAt": "2026-08-28T16:49:11-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-4979585008",
+      "title": "Product Support Specialist",
+      "company": "Anthropic",
+      "logo": "\ud83e\udde0",
+      "location": "New York City, NY; San Francisco, CA; Seattle, WA",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4979585008",
+      "updatedAt": "2026-08-21T12:49:44-04:00",
       "source": "Direct ATS"
     },
     {
@@ -5152,32 +5139,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5231200008",
-      "title": "Regional Research Economist, Economic Research",
-      "company": "Anthropic",
-      "logo": "\ud83e\udde0",
-      "location": "London, UK",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5231200008",
-      "updatedAt": "2026-08-28T14:43:59-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-5460515008",
-      "title": "Regional Research Economist, Economic Research",
-      "company": "Anthropic",
-      "logo": "\ud83e\udde0",
-      "location": "Sydney, Australia",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5460515008",
-      "updatedAt": "2026-10-22T14:23:17-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5460519008",
       "title": "Regional Research Economist, Economic Research",
       "company": "Anthropic",
@@ -5204,6 +5165,19 @@
       "source": "Direct ATS"
     },
     {
+      "id": "gh-5231200008",
+      "title": "Regional Research Economist, Economic Research",
+      "company": "Anthropic",
+      "logo": "\ud83e\udde0",
+      "location": "London, UK",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5231200008",
+      "updatedAt": "2026-08-28T14:43:59-04:00",
+      "source": "Direct ATS"
+    },
+    {
       "id": "gh-5231205008",
       "title": "Regional Research Economist, Economic Research",
       "company": "Anthropic",
@@ -5214,6 +5188,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5231205008",
       "updatedAt": "2026-08-28T16:47:27-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5460515008",
+      "title": "Regional Research Economist, Economic Research",
+      "company": "Anthropic",
+      "logo": "\ud83e\udde0",
+      "location": "Sydney, Australia",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5460515008",
+      "updatedAt": "2026-10-22T14:23:17-04:00",
       "source": "Direct ATS"
     },
     {
@@ -5334,19 +5321,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5412334008",
-      "title": "Research Engineer, Cybersecurity RL (Reinforcement Learning)",
-      "company": "Anthropic",
-      "logo": "\ud83e\udde0",
-      "location": "Z\u00fcrich, CH",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5412334008",
-      "updatedAt": "2026-09-07T10:22:11-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5025624008",
       "title": "Research Engineer, Cybersecurity RL (Reinforcement Learning)",
       "company": "Anthropic",
@@ -5357,6 +5331,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5025624008",
       "updatedAt": "2026-10-20T16:53:20-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5412334008",
+      "title": "Research Engineer, Cybersecurity RL (Reinforcement Learning)",
+      "company": "Anthropic",
+      "logo": "\ud83e\udde0",
+      "location": "Z\u00fcrich, CH",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5412334008",
+      "updatedAt": "2026-09-07T10:22:11-04:00",
       "source": "Direct ATS"
     },
     {
@@ -6439,19 +6426,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5400153008",
-      "title": "Software Engineer, Business Technology",
-      "company": "Anthropic",
-      "logo": "\ud83e\udde0",
-      "location": "New York City, NY | Seattle, WA; San Francisco, CA | New York City, NY",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5400153008",
-      "updatedAt": "2026-08-24T16:46:48-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5400160008",
       "title": "Software Engineer, Business Technology",
       "company": "Anthropic",
@@ -6462,6 +6436,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5400160008",
       "updatedAt": "2026-08-28T14:44:02-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5400153008",
+      "title": "Software Engineer, Business Technology",
+      "company": "Anthropic",
+      "logo": "\ud83e\udde0",
+      "location": "New York City, NY | Seattle, WA; San Francisco, CA | New York City, NY",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5400153008",
+      "updatedAt": "2026-08-24T16:46:48-04:00",
       "source": "Direct ATS"
     },
     {
@@ -7388,19 +7375,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5150472008",
-      "title": "Staff Software Engineer, Inference",
-      "company": "Anthropic",
-      "logo": "\ud83e\udde0",
-      "location": "Dublin, IE",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5150472008",
-      "updatedAt": "2026-10-13T09:03:08-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5097742008",
       "title": "Staff Software Engineer, Inference",
       "company": "Anthropic",
@@ -7411,6 +7385,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5097742008",
       "updatedAt": "2026-08-28T14:43:57-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5150472008",
+      "title": "Staff Software Engineer, Inference",
+      "company": "Anthropic",
+      "logo": "\ud83e\udde0",
+      "location": "Dublin, IE",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5150472008",
+      "updatedAt": "2026-10-13T09:03:08-04:00",
       "source": "Direct ATS"
     },
     {
@@ -8012,19 +7999,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5126008008",
-      "title": "Strategic Account Executive, Tech",
-      "company": "Anthropic",
-      "logo": "\ud83e\udde0",
-      "location": "Seattle, WA",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5126008008",
-      "updatedAt": "2026-09-09T13:24:40-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5108111008",
       "title": "Strategic Account Executive, Tech",
       "company": "Anthropic",
@@ -8035,6 +8009,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5108111008",
       "updatedAt": "2026-09-09T22:01:04-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5126008008",
+      "title": "Strategic Account Executive, Tech",
+      "company": "Anthropic",
+      "logo": "\ud83e\udde0",
+      "location": "Seattle, WA",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5126008008",
+      "updatedAt": "2026-09-09T13:24:40-04:00",
       "source": "Direct ATS"
     },
     {
@@ -8220,19 +8207,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5391108008",
-      "title": "Technical Deployment Lead",
-      "company": "Anthropic",
-      "logo": "\ud83e\udde0",
-      "location": "London, UK",
-      "category": "ai",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5391108008",
-      "updatedAt": "2026-08-28T17:14:34-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5017903008",
       "title": "Technical Deployment Lead",
       "company": "Anthropic",
@@ -8243,6 +8217,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5017903008",
       "updatedAt": "2026-10-13T19:38:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5391108008",
+      "title": "Technical Deployment Lead",
+      "company": "Anthropic",
+      "logo": "\ud83e\udde0",
+      "location": "London, UK",
+      "category": "ai",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5391108008",
+      "updatedAt": "2026-08-28T17:14:34-04:00",
       "source": "Direct ATS"
     },
     {
@@ -12159,19 +12146,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8172508",
-      "title": "Abuse Investigator",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Dublin",
-      "category": "data",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8172508",
-      "updatedAt": "2026-10-29T10:42:09-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8172510",
       "title": "Abuse Investigator",
       "company": "Stripe",
@@ -12181,6 +12155,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8172510",
+      "updatedAt": "2026-10-29T10:42:09-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8172508",
+      "title": "Abuse Investigator",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Dublin",
+      "category": "data",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8172508",
       "updatedAt": "2026-10-29T10:42:09-04:00",
       "source": "Direct ATS"
     },
@@ -12874,19 +12861,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8271657",
-      "title": "Account Executive Product - Fraud & Risk",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "London OR Dublin",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8271657",
-      "updatedAt": "2026-10-29T10:42:09-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8181024",
       "title": "Account Executive Product - Fraud & Risk",
       "company": "Stripe",
@@ -12896,6 +12870,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8181024",
+      "updatedAt": "2026-10-29T10:42:09-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8271657",
+      "title": "Account Executive Product - Fraud & Risk",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "London OR Dublin",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8271657",
       "updatedAt": "2026-10-29T10:42:09-04:00",
       "source": "Direct ATS"
     },
@@ -12991,19 +12978,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8190036",
-      "title": "Account Executive, Product - Local Payment Methods",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "US-CA",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8190036",
-      "updatedAt": "2026-10-29T10:42:09-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8174160",
       "title": "Account Executive, Product - Local Payment Methods",
       "company": "Stripe",
@@ -13013,6 +12987,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8174160",
+      "updatedAt": "2026-10-29T10:42:09-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8190036",
+      "title": "Account Executive, Product - Local Payment Methods",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "US-CA",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8190036",
       "updatedAt": "2026-10-29T10:42:09-04:00",
       "source": "Direct ATS"
     },
@@ -13212,19 +13199,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8258697",
-      "title": "Account Executive, Product Sales - Payouts",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "New York or San Francisco ",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8258697",
-      "updatedAt": "2026-10-29T10:42:09-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8273743",
       "title": "Account Executive, Product Sales - Payouts",
       "company": "Stripe",
@@ -13234,6 +13208,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8273743",
+      "updatedAt": "2026-10-29T10:42:09-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8258697",
+      "title": "Account Executive, Product Sales - Payouts",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "New York or San Francisco ",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8258697",
       "updatedAt": "2026-10-29T10:42:09-04:00",
       "source": "Direct ATS"
     },
@@ -13511,19 +13498,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8304836",
-      "title": "Account Executive, Velocity Platforms (Hunter)",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "New York, NY",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8304836",
-      "updatedAt": "2026-10-29T10:42:09-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8267841",
       "title": "Account Executive, Velocity Platforms (Hunter)",
       "company": "Stripe",
@@ -13546,6 +13520,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8304841",
+      "updatedAt": "2026-10-29T10:42:09-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8304836",
+      "title": "Account Executive, Velocity Platforms (Hunter)",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "New York, NY",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8304836",
       "updatedAt": "2026-10-29T10:42:09-04:00",
       "source": "Direct ATS"
     },
@@ -14252,19 +14239,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8287916",
-      "title": "Credit Risk Analyst Commercial Underwriter",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Singapore",
-      "category": "data",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8287916",
-      "updatedAt": "2026-10-29T10:42:09-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-7540441",
       "title": "Credit Risk Analyst Commercial Underwriter",
       "company": "Stripe",
@@ -14274,6 +14248,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=7540441",
+      "updatedAt": "2026-10-29T10:42:09-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8287916",
+      "title": "Credit Risk Analyst Commercial Underwriter",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Singapore",
+      "category": "data",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8287916",
       "updatedAt": "2026-10-29T10:42:09-04:00",
       "source": "Direct ATS"
     },
@@ -14421,19 +14408,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8178692",
-      "title": "Customer Success Manager, Enterprise",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "New York, NY; Seattle, WA; San Francisco, CA; Chicago, IL; Atlanta, GA",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8178692",
-      "updatedAt": "2026-10-29T10:42:09-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8208521",
       "title": "Customer Success Manager, Enterprise",
       "company": "Stripe",
@@ -14443,6 +14417,19 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8208521",
+      "updatedAt": "2026-10-29T10:42:09-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8178692",
+      "title": "Customer Success Manager, Enterprise",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "New York, NY; Seattle, WA; San Francisco, CA; Chicago, IL; Atlanta, GA",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8178692",
       "updatedAt": "2026-10-29T10:42:09-04:00",
       "source": "Direct ATS"
     },
@@ -14577,19 +14564,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8222149",
-      "title": "Data Scientist",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Seattle, WA",
-      "category": "data",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8222149",
-      "updatedAt": "2026-10-29T10:42:09-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5601879",
       "title": "Data Scientist",
       "company": "Stripe",
@@ -14599,6 +14573,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=5601879",
+      "updatedAt": "2026-10-29T10:42:09-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8222149",
+      "title": "Data Scientist",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Seattle, WA",
+      "category": "data",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8222149",
       "updatedAt": "2026-10-29T10:42:09-04:00",
       "source": "Direct ATS"
     },
@@ -15552,19 +15539,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8063857",
-      "title": "Fraud Operations Team Lead",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Bengaluru",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8063857",
-      "updatedAt": "2026-10-29T10:42:09-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-7685460",
       "title": "Fraud Operations Team Lead",
       "company": "Stripe",
@@ -15578,15 +15552,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8195058",
-      "title": "Fraud Strategist",
+      "id": "gh-8063857",
+      "title": "Fraud Operations Team Lead",
       "company": "Stripe",
       "logo": "\ud83d\udcb3",
-      "location": "Singapore",
+      "location": "Bengaluru",
       "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8195058",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8063857",
       "updatedAt": "2026-10-29T10:42:09-04:00",
       "source": "Direct ATS"
     },
@@ -15600,6 +15574,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8112448",
+      "updatedAt": "2026-10-29T10:42:09-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8195058",
+      "title": "Fraud Strategist",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Singapore",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8195058",
       "updatedAt": "2026-10-29T10:42:09-04:00",
       "source": "Direct ATS"
     },
@@ -15695,19 +15682,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8214616",
-      "title": "Full Stack Engineer, Enterprise Engineering",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "N/A",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8214616",
-      "updatedAt": "2026-10-29T10:42:09-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8214618",
       "title": "Full Stack Engineer, Enterprise Engineering",
       "company": "Stripe",
@@ -15718,6 +15692,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8214618",
       "updatedAt": "2026-10-30T02:27:00-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8214616",
+      "title": "Full Stack Engineer, Enterprise Engineering",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "N/A",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8214616",
+      "updatedAt": "2026-10-29T10:42:09-04:00",
       "source": "Direct ATS"
     },
     {
@@ -16644,19 +16631,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8243617",
-      "title": "Machine Learning Engineer, Radar",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Seattle",
-      "category": "ai",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8243617",
-      "updatedAt": "2026-10-29T10:42:09-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-7983456",
       "title": "Machine Learning Engineer, Radar",
       "company": "Stripe",
@@ -16667,6 +16641,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=7983456",
       "updatedAt": "2026-10-29T13:08:34-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8243617",
+      "title": "Machine Learning Engineer, Radar",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Seattle",
+      "category": "ai",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8243617",
+      "updatedAt": "2026-10-29T10:42:09-04:00",
       "source": "Direct ATS"
     },
     {
@@ -16813,19 +16800,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-7896538",
-      "title": "Manager, Sales Development",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Chicago, Illinois",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=7896538",
-      "updatedAt": "2026-10-29T10:42:09-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-7337544",
       "title": "Manager, Sales Development",
       "company": "Stripe",
@@ -16835,6 +16809,19 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=7337544",
+      "updatedAt": "2026-10-29T10:42:09-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-7896538",
+      "title": "Manager, Sales Development",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Chicago, Illinois",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=7896538",
       "updatedAt": "2026-10-29T10:42:09-04:00",
       "source": "Direct ATS"
     },
@@ -17281,19 +17268,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8234703",
-      "title": "Partner Development Manager",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Singapore ",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8234703",
-      "updatedAt": "2026-10-29T10:42:09-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8096790",
       "title": "Partner Development Manager",
       "company": "Stripe",
@@ -17316,6 +17290,19 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8104427",
+      "updatedAt": "2026-10-29T10:42:09-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8234703",
+      "title": "Partner Development Manager",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Singapore ",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8234703",
       "updatedAt": "2026-10-29T10:42:09-04:00",
       "source": "Direct ATS"
     },
@@ -18711,6 +18698,19 @@
       "source": "Direct ATS"
     },
     {
+      "id": "gh-7974209",
+      "title": "Risk Operations Analyst, Financial Crimes",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "United States",
+      "category": "data",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=7974209",
+      "updatedAt": "2026-11-01T18:32:14-05:00",
+      "source": "Direct ATS"
+    },
+    {
       "id": "gh-7974211",
       "title": "Risk Operations Analyst, Financial Crimes",
       "company": "Stripe",
@@ -18967,19 +18967,6 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8191710",
-      "updatedAt": "2026-10-29T10:42:09-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8191716",
-      "title": "Sales Manager, Commercial (Hunter)",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Chicago",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8191716",
       "updatedAt": "2026-10-29T10:42:09-04:00",
       "source": "Direct ATS"
     },
@@ -19634,15 +19621,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8318509",
+      "id": "gh-8267736",
       "title": "Software Engineer",
       "company": "Stripe",
       "logo": "\ud83d\udcb3",
-      "location": "Taiwan",
+      "location": "Seattle, WA",
       "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8318509",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8267736",
       "updatedAt": "2026-10-29T10:42:09-04:00",
       "source": "Direct ATS"
     },
@@ -19660,15 +19647,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8267736",
+      "id": "gh-8318509",
       "title": "Software Engineer",
       "company": "Stripe",
       "logo": "\ud83d\udcb3",
-      "location": "Seattle, WA",
+      "location": "Taiwan",
       "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8267736",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8318509",
       "updatedAt": "2026-10-29T10:42:09-04:00",
       "source": "Direct ATS"
     },
@@ -19738,19 +19725,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8212508",
-      "title": "Software Engineer, Early Career \u2014 Immediate Start",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "San Francisco, Seattle, New York",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8212508",
-      "updatedAt": "2026-10-29T10:42:09-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8212517",
       "title": "Software Engineer, Early Career \u2014 Immediate Start",
       "company": "Stripe",
@@ -19760,6 +19734,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8212517",
+      "updatedAt": "2026-10-29T10:42:09-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8212508",
+      "title": "Software Engineer, Early Career \u2014 Immediate Start",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "San Francisco, Seattle, New York",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8212508",
       "updatedAt": "2026-10-29T10:42:09-04:00",
       "source": "Direct ATS"
     },
@@ -19816,19 +19803,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8130883",
-      "title": "Software Engineer, Intern",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Singapore",
-      "category": "engineering",
-      "experienceLevel": "entry",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8130883",
-      "updatedAt": "2026-10-29T10:42:09-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8031833",
       "title": "Software Engineer, Intern",
       "company": "Stripe",
@@ -19838,6 +19812,19 @@
       "experienceLevel": "entry",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8031833",
+      "updatedAt": "2026-10-29T10:42:09-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8130883",
+      "title": "Software Engineer, Intern",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Singapore",
+      "category": "engineering",
+      "experienceLevel": "entry",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8130883",
       "updatedAt": "2026-10-29T10:42:09-04:00",
       "source": "Direct ATS"
     },
@@ -19894,19 +19881,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8128745",
-      "title": "Software Engineer, Intern (Summer or Winter)",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "San Francisco, Seattle, New York City",
-      "category": "engineering",
-      "experienceLevel": "entry",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8128745",
-      "updatedAt": "2026-10-29T10:42:09-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8097801",
       "title": "Software Engineer, Intern (Summer or Winter)",
       "company": "Stripe",
@@ -19916,6 +19890,19 @@
       "experienceLevel": "entry",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8097801",
+      "updatedAt": "2026-10-29T10:42:09-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8128745",
+      "title": "Software Engineer, Intern (Summer or Winter)",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "San Francisco, Seattle, New York City",
+      "category": "engineering",
+      "experienceLevel": "entry",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8128745",
       "updatedAt": "2026-10-29T10:42:09-04:00",
       "source": "Direct ATS"
     },
@@ -19946,19 +19933,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8128744",
-      "title": "Software Engineer, New Grad",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "San Francisco, Seattle, New York",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8128744",
-      "updatedAt": "2026-10-29T10:42:09-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8130881",
       "title": "Software Engineer, New Grad",
       "company": "Stripe",
@@ -19972,29 +19946,29 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8160776",
+      "id": "gh-8128744",
       "title": "Software Engineer, New Grad",
       "company": "Stripe",
       "logo": "\ud83d\udcb3",
-      "location": "Singapore",
+      "location": "San Francisco, Seattle, New York",
       "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8160776",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8128744",
       "updatedAt": "2026-10-29T10:42:09-04:00",
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8130922",
+      "id": "gh-8202299",
       "title": "Software Engineer, New Grad",
       "company": "Stripe",
       "logo": "\ud83d\udcb3",
-      "location": "Bucharest",
+      "location": "Taiwan",
       "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8130922",
-      "updatedAt": "2026-10-29T10:42:09-04:00",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8202299",
+      "updatedAt": "2026-10-30T01:27:35-04:00",
       "source": "Direct ATS"
     },
     {
@@ -20007,19 +19981,6 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8130930",
-      "updatedAt": "2026-10-29T10:42:09-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8130876",
-      "title": "Software Engineer, New Grad",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Bangalore",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8130876",
       "updatedAt": "2026-10-29T10:42:09-04:00",
       "source": "Direct ATS"
     },
@@ -20037,16 +19998,42 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8202299",
+      "id": "gh-8130922",
       "title": "Software Engineer, New Grad",
       "company": "Stripe",
       "logo": "\ud83d\udcb3",
-      "location": "Taiwan",
+      "location": "Bucharest",
       "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8202299",
-      "updatedAt": "2026-10-30T01:27:35-04:00",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8130922",
+      "updatedAt": "2026-10-29T10:42:09-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8130876",
+      "title": "Software Engineer, New Grad",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Bangalore",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8130876",
+      "updatedAt": "2026-10-29T10:42:09-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8160776",
+      "title": "Software Engineer, New Grad",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Singapore",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8160776",
+      "updatedAt": "2026-10-29T10:42:09-04:00",
       "source": "Direct ATS"
     },
     {
@@ -21298,19 +21285,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-7813411",
-      "title": "Strategy and Analytics Business Partner",
-      "company": "Stripe",
-      "logo": "\ud83d\udcb3",
-      "location": "Bengaluru",
-      "category": "data",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=7813411",
-      "updatedAt": "2026-10-29T10:42:09-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8245230",
       "title": "Strategy and Analytics Business Partner",
       "company": "Stripe",
@@ -21320,6 +21294,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8245230",
+      "updatedAt": "2026-10-29T10:42:09-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-7813411",
+      "title": "Strategy and Analytics Business Partner",
+      "company": "Stripe",
+      "logo": "\ud83d\udcb3",
+      "location": "Bengaluru",
+      "category": "data",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=7813411",
       "updatedAt": "2026-10-29T10:42:09-04:00",
       "source": "Direct ATS"
     },
@@ -43753,12 +43740,12 @@
       "title": "Account Executive - Strategic Core",
       "company": "Databricks",
       "logo": "\ud83d\udd37",
-      "location": "United States",
+      "location": "Seoul, South Korea",
       "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8880402002",
-      "updatedAt": "2026-11-01T10:48:54-05:00",
+      "updatedAt": "2026-11-01T18:26:36-05:00",
       "source": "Direct ATS"
     },
     {
@@ -58816,19 +58803,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5136984007",
-      "title": "2027 Early Career Mechanical Engineer",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5136984007?gh_jid=5136984007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5258587007",
       "title": "2027 Early Career Mechanical Engineer",
       "company": "Anduril",
@@ -58838,6 +58812,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5258587007?gh_jid=5258587007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5136984007",
+      "title": "2027 Early Career Mechanical Engineer",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5136984007?gh_jid=5136984007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -59193,19 +59180,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5148079007",
-      "title": "2027 Software Engineer Intern",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
-      "category": "engineering",
-      "experienceLevel": "entry",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5255902007",
       "title": "2027 Software Engineer Intern",
       "company": "Anduril",
@@ -59215,6 +59189,19 @@
       "experienceLevel": "entry",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5255902007?gh_jid=5255902007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5148079007",
+      "title": "2027 Software Engineer Intern",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
+      "category": "engineering",
+      "experienceLevel": "entry",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -59453,15 +59440,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5171942007",
+      "id": "gh-5173388007",
       "title": "AI Solutions Engineer, Talent Acquisition",
       "company": "Anduril",
       "logo": "\ud83c\udfaf",
-      "location": "Costa Mesa, California, United States",
+      "location": "Boston, Massachusetts, United States",
       "category": "fde",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5171942007?gh_jid=5171942007",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5173388007?gh_jid=5173388007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -59479,15 +59466,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5173388007",
+      "id": "gh-5171942007",
       "title": "AI Solutions Engineer, Talent Acquisition",
       "company": "Anduril",
       "logo": "\ud83c\udfaf",
-      "location": "Boston, Massachusetts, United States",
+      "location": "Costa Mesa, California, United States",
       "category": "fde",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5173388007?gh_jid=5173388007",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5171942007?gh_jid=5171942007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -59518,19 +59505,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5223799007",
-      "title": "Altius - Product Sourcing Engineer",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Costa Mesa, California, United States",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5223799007?gh_jid=5223799007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5140464007",
       "title": "Altius - Product Sourcing Engineer",
       "company": "Anduril",
@@ -59540,6 +59514,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5140464007?gh_jid=5140464007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5223799007",
+      "title": "Altius - Product Sourcing Engineer",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Costa Mesa, California, United States",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5223799007?gh_jid=5223799007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -59648,19 +59635,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5176542007",
-      "title": "Associate Director, Business Development, Civilian Counter-UAS",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Washington, District of Columbia, United States",
-      "category": "engineering",
-      "experienceLevel": "entry",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5176542007?gh_jid=5176542007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5178152007",
       "title": "Associate Director, Business Development, Civilian Counter-UAS",
       "company": "Anduril",
@@ -59670,6 +59644,19 @@
       "experienceLevel": "entry",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5178152007?gh_jid=5178152007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5176542007",
+      "title": "Associate Director, Business Development, Civilian Counter-UAS",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Washington, District of Columbia, United States",
+      "category": "engineering",
+      "experienceLevel": "entry",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5176542007?gh_jid=5176542007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -60142,19 +60129,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5243263007",
-      "title": "Buyer/Planner",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Quincy, Massachusetts, United States",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5243263007?gh_jid=5243263007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5248570007",
       "title": "Buyer/Planner",
       "company": "Anduril",
@@ -60164,6 +60138,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5248570007?gh_jid=5248570007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5243263007",
+      "title": "Buyer/Planner",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Quincy, Massachusetts, United States",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5243263007?gh_jid=5243263007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -60181,19 +60168,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5256520007",
-      "title": "CAD Administrator",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Costa Mesa, California, United States",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5256520007?gh_jid=5256520007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5256522007",
       "title": "CAD Administrator",
       "company": "Anduril",
@@ -60203,6 +60177,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5256522007?gh_jid=5256522007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5256520007",
+      "title": "CAD Administrator",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Costa Mesa, California, United States",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5256520007?gh_jid=5256520007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -60831,19 +60818,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5188290007",
-      "title": "Configuration Manager",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Ashville, Ohio, United States",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5188290007?gh_jid=5188290007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5273173007",
       "title": "Configuration Manager",
       "company": "Anduril",
@@ -60866,6 +60840,19 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5187511007?gh_jid=5187511007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5188290007",
+      "title": "Configuration Manager",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Ashville, Ohio, United States",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5188290007?gh_jid=5188290007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -60909,19 +60896,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5262813007",
-      "title": "Contractor Special Security Officer",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Costa Mesa, California, United States",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5262813007?gh_jid=5262813007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5130540007",
       "title": "Contractor Special Security Officer",
       "company": "Anduril",
@@ -60931,6 +60905,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5130540007?gh_jid=5130540007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5262813007",
+      "title": "Contractor Special Security Officer",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Costa Mesa, California, United States",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5262813007?gh_jid=5262813007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -61169,19 +61156,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5256125007",
-      "title": "Crisis Management Lead",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Washington, District of Columbia, United States",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5256125007?gh_jid=5256125007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5256123007",
       "title": "Crisis Management Lead",
       "company": "Anduril",
@@ -61195,15 +61169,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5256118007",
-      "title": "Crisis Management Lead, Training",
+      "id": "gh-5256125007",
+      "title": "Crisis Management Lead",
       "company": "Anduril",
       "logo": "\ud83c\udfaf",
-      "location": "Costa Mesa, California, United States",
+      "location": "Washington, District of Columbia, United States",
       "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5256118007?gh_jid=5256118007",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5256125007?gh_jid=5256125007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -61217,6 +61191,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5257128007?gh_jid=5257128007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5256118007",
+      "title": "Crisis Management Lead, Training",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Costa Mesa, California, United States",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5256118007?gh_jid=5256118007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -61403,7 +61390,7 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5265196007",
+      "id": "gh-5163958007",
       "title": "Deployment Engineer",
       "company": "Anduril",
       "logo": "\ud83c\udfaf",
@@ -61411,7 +61398,7 @@
       "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5265196007?gh_jid=5265196007",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5163958007?gh_jid=5163958007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -61429,6 +61416,19 @@
       "source": "Direct ATS"
     },
     {
+      "id": "gh-5235565007",
+      "title": "Deployment Engineer",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Broomfield, Colorado, United States; Fort Collins, Colorado, United States",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5235565007?gh_jid=5235565007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
       "id": "gh-5204368007",
       "title": "Deployment Engineer",
       "company": "Anduril",
@@ -61442,7 +61442,7 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5163958007",
+      "id": "gh-5265196007",
       "title": "Deployment Engineer",
       "company": "Anduril",
       "logo": "\ud83c\udfaf",
@@ -61450,20 +61450,7 @@
       "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5163958007?gh_jid=5163958007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-5235565007",
-      "title": "Deployment Engineer",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Broomfield, Colorado, United States; Fort Collins, Colorado, United States",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5235565007?gh_jid=5235565007",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5265196007?gh_jid=5265196007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -61884,19 +61871,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5227619007",
-      "title": "Digital Tools Engineer, Manufacturing",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Costa Mesa, California, United States",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5227619007?gh_jid=5227619007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5009195007",
       "title": "Digital Tools Engineer, Manufacturing",
       "company": "Anduril",
@@ -61906,6 +61880,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5009195007?gh_jid=5009195007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5227619007",
+      "title": "Digital Tools Engineer, Manufacturing",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Costa Mesa, California, United States",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5227619007?gh_jid=5227619007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -62157,19 +62144,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5266562007",
-      "title": "Director, Mission Insights, Maritime",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Costa Mesa, California, United States",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5266562007?gh_jid=5266562007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5266668007",
       "title": "Director, Mission Insights, Maritime",
       "company": "Anduril",
@@ -62179,6 +62153,19 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5266668007?gh_jid=5266668007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5266562007",
+      "title": "Director, Mission Insights, Maritime",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Costa Mesa, California, United States",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5266562007?gh_jid=5266562007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -62378,19 +62365,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5200299007",
-      "title": "Director, Supply Chain",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Ashville, Ohio, United States",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5200299007?gh_jid=5200299007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5249481007",
       "title": "Director, Supply Chain",
       "company": "Anduril",
@@ -62400,6 +62374,19 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5249481007?gh_jid=5249481007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5200299007",
+      "title": "Director, Supply Chain",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Ashville, Ohio, United States",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5200299007?gh_jid=5200299007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -62521,15 +62508,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5255952007",
+      "id": "gh-5256727007",
       "title": "Division Talent, Planning & Strategy",
       "company": "Anduril",
       "logo": "\ud83c\udfaf",
-      "location": "Costa Mesa, California, United States",
+      "location": "Washington, District of Columbia, United States",
       "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5255952007?gh_jid=5255952007",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5256727007?gh_jid=5256727007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -62547,15 +62534,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5256727007",
+      "id": "gh-5255952007",
       "title": "Division Talent, Planning & Strategy",
       "company": "Anduril",
       "logo": "\ud83c\udfaf",
-      "location": "Washington, District of Columbia, United States",
+      "location": "Costa Mesa, California, United States",
       "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5256727007?gh_jid=5256727007",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5255952007?gh_jid=5255952007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -62638,6 +62625,19 @@
       "source": "Direct ATS"
     },
     {
+      "id": "gh-5256911007",
+      "title": "EHS Sustainability Systems and Analytics Specialist",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Ashville, Ohio, United States",
+      "category": "data",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5256911007?gh_jid=5256911007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
       "id": "gh-5256905007",
       "title": "EHS Sustainability Systems and Analytics Specialist",
       "company": "Anduril",
@@ -62673,19 +62673,6 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5256113007?gh_jid=5256113007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-5256911007",
-      "title": "EHS Sustainability Systems and Analytics Specialist",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Ashville, Ohio, United States",
-      "category": "data",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5256911007?gh_jid=5256911007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -62872,19 +62859,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-4591126007",
-      "title": "Electrical Engineer, Intelligence Systems",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Reston, Virginia, United States",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/4591126007?gh_jid=4591126007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5219512007",
       "title": "Electrical Engineer, Intelligence Systems",
       "company": "Anduril",
@@ -62898,15 +62872,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5064471007",
-      "title": "Electrical Engineer, Maneuver Dominance",
+      "id": "gh-4591126007",
+      "title": "Electrical Engineer, Intelligence Systems",
       "company": "Anduril",
       "logo": "\ud83c\udfaf",
-      "location": "Costa Mesa, California, United States",
+      "location": "Reston, Virginia, United States",
       "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5064471007?gh_jid=5064471007",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/4591126007?gh_jid=4591126007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -62920,6 +62894,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/4687724007?gh_jid=4687724007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5064471007",
+      "title": "Electrical Engineer, Maneuver Dominance",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Costa Mesa, California, United States",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5064471007?gh_jid=5064471007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -63184,19 +63171,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5281154007",
-      "title": "Electrical Test Engineer",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Fort Collins, Colorado, United States",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5281154007?gh_jid=5281154007",
-      "updatedAt": "2026-10-31T12:57:20-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5238892007",
       "title": "Electrical Test Engineer",
       "company": "Anduril",
@@ -63210,16 +63184,16 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5266460007",
+      "id": "gh-5281154007",
       "title": "Electrical Test Engineer",
       "company": "Anduril",
       "logo": "\ud83c\udfaf",
-      "location": "Lexington, Massachusetts, United States",
+      "location": "Fort Collins, Colorado, United States",
       "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5266460007?gh_jid=5266460007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5281154007?gh_jid=5281154007",
+      "updatedAt": "2026-10-31T12:57:20-04:00",
       "source": "Direct ATS"
     },
     {
@@ -63232,6 +63206,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5256023007?gh_jid=5256023007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5266460007",
+      "title": "Electrical Test Engineer",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Lexington, Massachusetts, United States",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5266460007?gh_jid=5266460007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -63314,7 +63301,7 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5262182007",
+      "id": "gh-5252226007",
       "title": "Electromechanical Assembly Technician",
       "company": "Anduril",
       "logo": "\ud83c\udfaf",
@@ -63322,7 +63309,7 @@
       "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5262182007?gh_jid=5262182007",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5252226007?gh_jid=5252226007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -63340,7 +63327,7 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5252226007",
+      "id": "gh-5262182007",
       "title": "Electromechanical Assembly Technician",
       "company": "Anduril",
       "logo": "\ud83c\udfaf",
@@ -63348,7 +63335,7 @@
       "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5252226007?gh_jid=5252226007",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5262182007?gh_jid=5262182007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -63626,6 +63613,19 @@
       "source": "Direct ATS"
     },
     {
+      "id": "gh-5260601007",
+      "title": "Emerging Talent Recruiter",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Costa Mesa, California, United States",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5260601007?gh_jid=5260601007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
       "id": "gh-5277423007",
       "title": "Emerging Talent Recruiter",
       "company": "Anduril",
@@ -63648,19 +63648,6 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5277421007?gh_jid=5277421007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-5260601007",
-      "title": "Emerging Talent Recruiter",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Costa Mesa, California, United States",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5260601007?gh_jid=5260601007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -64185,19 +64172,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5037021007",
-      "title": "Field Test Engineer, Maritime",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Quonset, Rhode Island, United States",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5037021007?gh_jid=5037021007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5042152007",
       "title": "Field Test Engineer, Maritime",
       "company": "Anduril",
@@ -64211,15 +64185,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5216617007",
+      "id": "gh-5037021007",
       "title": "Field Test Engineer, Maritime",
       "company": "Anduril",
       "logo": "\ud83c\udfaf",
-      "location": "Quincy, Massachusetts, United States",
+      "location": "Quonset, Rhode Island, United States",
       "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5216617007?gh_jid=5216617007",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5037021007?gh_jid=5037021007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -64233,6 +64207,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5216623007?gh_jid=5216623007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5216617007",
+      "title": "Field Test Engineer, Maritime",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Quincy, Massachusetts, United States",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5216617007?gh_jid=5216617007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -64302,19 +64289,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5249454007",
-      "title": "Financial Analyst II",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Costa Mesa, California, United States",
-      "category": "data",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5249454007?gh_jid=5249454007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5243249007",
       "title": "Financial Analyst II",
       "company": "Anduril",
@@ -64324,6 +64298,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5243249007?gh_jid=5243249007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5249454007",
+      "title": "Financial Analyst II",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Costa Mesa, California, United States",
+      "category": "data",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5249454007?gh_jid=5249454007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -64562,19 +64549,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5240399007",
-      "title": "Flight Test Engineer",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Fort Stockton, Texas, United States",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5240399007?gh_jid=5240399007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5136122007",
       "title": "Flight Test Engineer",
       "company": "Anduril",
@@ -64601,6 +64575,19 @@
       "source": "Direct ATS"
     },
     {
+      "id": "gh-5240399007",
+      "title": "Flight Test Engineer",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Fort Stockton, Texas, United States",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5240399007?gh_jid=5240399007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
       "id": "gh-5262328007",
       "title": "Flight Test Engineer - Advanced Effects (Missiles)",
       "company": "Anduril",
@@ -64623,19 +64610,6 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5234118007?gh_jid=5234118007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-5198229007",
-      "title": "Flight Test Engineering Lead",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Sydney, New South Wales, Australia",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5198229007?gh_jid=5198229007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -64692,19 +64666,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5247859007",
-      "title": "Flight Test Operator",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Fort Stockton, Texas, United States",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5247859007?gh_jid=5247859007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5112586007",
       "title": "Flight Test Operator",
       "company": "Anduril",
@@ -64731,6 +64692,19 @@
       "source": "Direct ATS"
     },
     {
+      "id": "gh-5025511007",
+      "title": "Flight Test Operator",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "San Clemente, California, United States",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5025511007?gh_jid=5025511007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
       "id": "gh-5111833007",
       "title": "Flight Test Operator",
       "company": "Anduril",
@@ -64744,15 +64718,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5025511007",
+      "id": "gh-5247859007",
       "title": "Flight Test Operator",
       "company": "Anduril",
       "logo": "\ud83c\udfaf",
-      "location": "San Clemente, California, United States",
+      "location": "Fort Stockton, Texas, United States",
       "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5025511007?gh_jid=5025511007",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5247859007?gh_jid=5247859007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -65043,19 +65017,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-4632178007",
-      "title": "GNC Engineer",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Atlanta, Georgia, United States; Costa Mesa, California, United States",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/4632178007?gh_jid=4632178007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5159698007",
       "title": "GNC Engineer",
       "company": "Anduril",
@@ -65069,15 +65030,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-4870847007",
-      "title": "GNC Engineer, Space",
+      "id": "gh-4632178007",
+      "title": "GNC Engineer",
       "company": "Anduril",
       "logo": "\ud83c\udfaf",
-      "location": "Costa Mesa, California, United States",
+      "location": "Atlanta, Georgia, United States; Costa Mesa, California, United States",
       "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/4870847007?gh_jid=4870847007",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/4632178007?gh_jid=4632178007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -65091,6 +65052,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/4870871007?gh_jid=4870871007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-4870847007",
+      "title": "GNC Engineer, Space",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Costa Mesa, California, United States",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/4870847007?gh_jid=4870847007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -65147,19 +65121,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-4767772007",
-      "title": "Ground Software Engineer, Space",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Washington, District of Columbia, United States",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/4767772007?gh_jid=4767772007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5199990007",
       "title": "Ground Software Engineer, Space",
       "company": "Anduril",
@@ -65173,15 +65134,28 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-4497427007",
+      "id": "gh-4767772007",
       "title": "Ground Software Engineer, Space",
       "company": "Anduril",
       "logo": "\ud83c\udfaf",
-      "location": "Costa Mesa, California, United States",
+      "location": "Washington, District of Columbia, United States",
       "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/4497427007?gh_jid=4497427007",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/4767772007?gh_jid=4767772007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5197127007",
+      "title": "Ground Software Engineer, Space",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Chantilly, Virginia, United States",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5197127007?gh_jid=5197127007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -65199,15 +65173,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5197127007",
+      "id": "gh-4497427007",
       "title": "Ground Software Engineer, Space",
       "company": "Anduril",
       "logo": "\ud83c\udfaf",
-      "location": "Chantilly, Virginia, United States",
+      "location": "Costa Mesa, California, United States",
       "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5197127007?gh_jid=5197127007",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/4497427007?gh_jid=4497427007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -65264,19 +65238,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5244110007",
-      "title": "Hardware Test Engineer",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Lexington, Massachusetts, United States",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5244110007?gh_jid=5244110007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5266463007",
       "title": "Hardware Test Engineer",
       "company": "Anduril",
@@ -65286,6 +65247,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5266463007?gh_jid=5266463007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5244110007",
+      "title": "Hardware Test Engineer",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Lexington, Massachusetts, United States",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5244110007?gh_jid=5244110007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -65641,19 +65615,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5273710007",
-      "title": "Head of Production, Maritime",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Santa Ana, California, United States",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5273710007?gh_jid=5273710007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5248269007",
       "title": "Head of Production, Maritime",
       "company": "Anduril",
@@ -65663,6 +65624,19 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5248269007?gh_jid=5248269007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5273710007",
+      "title": "Head of Production, Maritime",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Santa Ana, California, United States",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5273710007?gh_jid=5273710007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -66668,19 +66642,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5217197007",
-      "title": "Lead Production Technician",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Ashville, Ohio, United States",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5217197007?gh_jid=5217197007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5245682007",
       "title": "Lead Production Technician",
       "company": "Anduril",
@@ -66690,6 +66651,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5245682007?gh_jid=5245682007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5217197007",
+      "title": "Lead Production Technician",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Ashville, Ohio, United States",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5217197007?gh_jid=5217197007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -66876,19 +66850,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5007838007",
-      "title": "Lead Technical Writer, Maritime & Undersea Systems",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Costa Mesa, California, United States",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5007838007?gh_jid=5007838007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5195058007",
       "title": "Lead Technical Writer, Maritime & Undersea Systems",
       "company": "Anduril",
@@ -66898,6 +66859,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5195058007?gh_jid=5195058007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5007838007",
+      "title": "Lead Technical Writer, Maritime & Undersea Systems",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Costa Mesa, California, United States",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5007838007?gh_jid=5007838007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -67409,19 +67383,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-4723339007",
-      "title": "Manager, Manufacturing Engineering",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Costa Mesa, California, United States",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/4723339007?gh_jid=4723339007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5225757007",
       "title": "Manager, Manufacturing Engineering",
       "company": "Anduril",
@@ -67431,6 +67392,19 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5225757007?gh_jid=5225757007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-4723339007",
+      "title": "Manager, Manufacturing Engineering",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Costa Mesa, California, United States",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/4723339007?gh_jid=4723339007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -67500,19 +67474,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5183626007",
-      "title": "Manager, Manufacturing Test Engineering",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Costa Mesa, California, United States",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5183626007?gh_jid=5183626007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5278797007",
       "title": "Manager, Manufacturing Test Engineering",
       "company": "Anduril",
@@ -67522,6 +67483,19 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5278797007?gh_jid=5278797007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5183626007",
+      "title": "Manager, Manufacturing Test Engineering",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Costa Mesa, California, United States",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5183626007?gh_jid=5183626007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -67786,19 +67760,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-4728329007",
-      "title": "Manufacturing Engineer",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Quonset, Rhode Island, United States",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/4728329007?gh_jid=4728329007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5280578007",
       "title": "Manufacturing Engineer",
       "company": "Anduril",
@@ -67808,6 +67769,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5280578007?gh_jid=5280578007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-4728329007",
+      "title": "Manufacturing Engineer",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Quonset, Rhode Island, United States",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/4728329007?gh_jid=4728329007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -67825,7 +67799,7 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5194656007",
+      "id": "gh-5241480007",
       "title": "Manufacturing Engineer",
       "company": "Anduril",
       "logo": "\ud83c\udfaf",
@@ -67833,7 +67807,7 @@
       "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5194656007?gh_jid=5194656007",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5241480007?gh_jid=5241480007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -67851,7 +67825,7 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5241480007",
+      "id": "gh-5194656007",
       "title": "Manufacturing Engineer",
       "company": "Anduril",
       "logo": "\ud83c\udfaf",
@@ -67859,7 +67833,7 @@
       "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5241480007?gh_jid=5241480007",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5194656007?gh_jid=5194656007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -68501,19 +68475,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5261435007",
-      "title": "Manufacturing Test Engineering Manager",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Irvine, California, United States",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5261435007?gh_jid=5261435007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5280628007",
       "title": "Manufacturing Test Engineering Manager",
       "company": "Anduril",
@@ -68523,6 +68484,19 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5280628007?gh_jid=5280628007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5261435007",
+      "title": "Manufacturing Test Engineering Manager",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Irvine, California, United States",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5261435007?gh_jid=5261435007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -68618,19 +68592,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5267311007",
-      "title": "Manufacturing Test Engineer, Propulsion",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Costa Mesa, California, United States",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5267311007?gh_jid=5267311007",
-      "updatedAt": "2026-10-31T14:21:52-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5279616007",
       "title": "Manufacturing Test Engineer, Propulsion",
       "company": "Anduril",
@@ -68641,6 +68602,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5279616007?gh_jid=5279616007",
       "updatedAt": "2026-10-31T14:25:28-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5267311007",
+      "title": "Manufacturing Test Engineer, Propulsion",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Costa Mesa, California, United States",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5267311007?gh_jid=5267311007",
+      "updatedAt": "2026-10-31T14:21:52-04:00",
       "source": "Direct ATS"
     },
     {
@@ -68683,19 +68657,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5139926007",
-      "title": "Maritime Technical Operations Engineer",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Quincy, Massachusetts, United States",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5139926007?gh_jid=5139926007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5139897007",
       "title": "Maritime Technical Operations Engineer",
       "company": "Anduril",
@@ -68705,6 +68666,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5139897007?gh_jid=5139897007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5139926007",
+      "title": "Maritime Technical Operations Engineer",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Quincy, Massachusetts, United States",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5139926007?gh_jid=5139926007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -69073,19 +69047,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5010190007",
-      "title": "Mechanical Engineer, Drones",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Costa Mesa, California, United States",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5010190007?gh_jid=5010190007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5010389007",
       "title": "Mechanical Engineer, Drones",
       "company": "Anduril",
@@ -69095,6 +69056,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5010389007?gh_jid=5010389007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5010190007",
+      "title": "Mechanical Engineer, Drones",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Costa Mesa, California, United States",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5010190007?gh_jid=5010190007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -69645,19 +69619,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5214858007",
-      "title": "Mission Software Engineer",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Reston, Virginia, United States",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5214858007?gh_jid=5214858007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5267769007",
       "title": "Mission Software Engineer",
       "company": "Anduril",
@@ -69693,6 +69654,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5102993007?gh_jid=5102993007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5214858007",
+      "title": "Mission Software Engineer",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Reston, Virginia, United States",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5214858007?gh_jid=5214858007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -69775,6 +69749,19 @@
       "source": "Direct ATS"
     },
     {
+      "id": "gh-5226473007",
+      "title": "Mission Software Engineer - Undersea Reconnaissance & Strike",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Washington, District of Columbia, United States",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5226473007?gh_jid=5226473007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
       "id": "gh-5221253007",
       "title": "Mission Software Engineer - Undersea Reconnaissance & Strike",
       "company": "Anduril",
@@ -69797,19 +69784,6 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5226471007?gh_jid=5226471007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-5226473007",
-      "title": "Mission Software Engineer - Undersea Reconnaissance & Strike",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Washington, District of Columbia, United States",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5226473007?gh_jid=5226473007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -70152,19 +70126,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5224680007",
-      "title": "NNPI Control Officer",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Washington, District of Columbia, United States",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5224680007?gh_jid=5224680007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5226869007",
       "title": "NNPI Control Officer",
       "company": "Anduril",
@@ -70174,6 +70135,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5226869007?gh_jid=5226869007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5224680007",
+      "title": "NNPI Control Officer",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Washington, District of Columbia, United States",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5224680007?gh_jid=5224680007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -70243,45 +70217,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5256493007",
-      "title": "NX Developer",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Costa Mesa, California, United States",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5256493007?gh_jid=5256493007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-5265042007",
-      "title": "NX Developer",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Costa Mesa, California, United States",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5265042007?gh_jid=5265042007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-5256511007",
-      "title": "NX Developer",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Bellevue, Washington, United States; Seattle, Washington, United States",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5256511007?gh_jid=5256511007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5256510007",
       "title": "NX Developer",
       "company": "Anduril",
@@ -70295,15 +70230,28 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5256509007",
+      "id": "gh-5256493007",
       "title": "NX Developer",
       "company": "Anduril",
       "logo": "\ud83c\udfaf",
-      "location": "Boston, Massachusetts, United States",
+      "location": "Costa Mesa, California, United States",
       "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5256509007?gh_jid=5256509007",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5256493007?gh_jid=5256493007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5256500007",
+      "title": "NX Developer",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Mountain View, California, United States",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5256500007?gh_jid=5256500007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -70321,15 +70269,41 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5256500007",
+      "id": "gh-5256509007",
       "title": "NX Developer",
       "company": "Anduril",
       "logo": "\ud83c\udfaf",
-      "location": "Mountain View, California, United States",
+      "location": "Boston, Massachusetts, United States",
       "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5256500007?gh_jid=5256500007",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5256509007?gh_jid=5256509007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5256511007",
+      "title": "NX Developer",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Bellevue, Washington, United States; Seattle, Washington, United States",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5256511007?gh_jid=5256511007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5265042007",
+      "title": "NX Developer",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Costa Mesa, California, United States",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5265042007?gh_jid=5265042007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -70438,19 +70412,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5025316007",
-      "title": "Operations & Logistics Associate",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Atlanta, Georgia, United States",
-      "category": "engineering",
-      "experienceLevel": "entry",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5025316007?gh_jid=5025316007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5005246007",
       "title": "Operations & Logistics Associate",
       "company": "Anduril",
@@ -70460,6 +70421,19 @@
       "experienceLevel": "entry",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5005246007?gh_jid=5005246007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5025316007",
+      "title": "Operations & Logistics Associate",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Atlanta, Georgia, United States",
+      "category": "engineering",
+      "experienceLevel": "entry",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5025316007?gh_jid=5025316007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -70646,19 +70620,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5240064007",
-      "title": "People Program Manager",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Costa Mesa, California, United States",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5240064007?gh_jid=5240064007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5241160007",
       "title": "People Program Manager",
       "company": "Anduril",
@@ -70668,6 +70629,19 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5241160007?gh_jid=5241160007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5240064007",
+      "title": "People Program Manager",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Costa Mesa, California, United States",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5240064007?gh_jid=5240064007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -71127,15 +71101,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5273065007",
+      "id": "gh-5150089007",
       "title": "Product Data Engineer",
       "company": "Anduril",
       "logo": "\ud83c\udfaf",
-      "location": "Waltham, Massachusetts, United States",
+      "location": "Irvine, California, United States",
       "category": "data",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5273065007?gh_jid=5273065007",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5150089007?gh_jid=5150089007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -71153,15 +71127,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5150089007",
+      "id": "gh-5273065007",
       "title": "Product Data Engineer",
       "company": "Anduril",
       "logo": "\ud83c\udfaf",
-      "location": "Irvine, California, United States",
+      "location": "Waltham, Massachusetts, United States",
       "category": "data",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5150089007?gh_jid=5150089007",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5273065007?gh_jid=5273065007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -71192,19 +71166,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5262252007",
-      "title": "Production Assembly Technician",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Waltham, Massachusetts, United States",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5262252007?gh_jid=5262252007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5262253007",
       "title": "Production Assembly Technician",
       "company": "Anduril",
@@ -71214,6 +71175,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5262253007?gh_jid=5262253007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5262252007",
+      "title": "Production Assembly Technician",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Waltham, Massachusetts, United States",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5262252007?gh_jid=5262252007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -71270,19 +71244,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5132698007",
-      "title": "Production Coordinator",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Ashville, Ohio, United States",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5132698007?gh_jid=5132698007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5223352007",
       "title": "Production Coordinator",
       "company": "Anduril",
@@ -71292,6 +71253,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5223352007?gh_jid=5223352007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5061295007",
+      "title": "Production Coordinator",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Ashville, Ohio, United States",
+      "category": "robotics",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5061295007?gh_jid=5061295007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -71309,15 +71283,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5061295007",
+      "id": "gh-5132698007",
       "title": "Production Coordinator",
       "company": "Anduril",
       "logo": "\ud83c\udfaf",
       "location": "Ashville, Ohio, United States",
-      "category": "robotics",
+      "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5061295007?gh_jid=5061295007",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5132698007?gh_jid=5132698007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -71361,19 +71335,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5109193007",
-      "title": "Production Coordinator, Intelligence Systems",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Santa Ana, California, United States",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5109193007?gh_jid=5109193007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5161597007",
       "title": "Production Coordinator, Intelligence Systems",
       "company": "Anduril",
@@ -71383,6 +71344,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5161597007?gh_jid=5161597007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5109193007",
+      "title": "Production Coordinator, Intelligence Systems",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Santa Ana, California, United States",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5109193007?gh_jid=5109193007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -71426,19 +71400,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5195964007",
-      "title": "Production Program Manager",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Ashville, Ohio, United States",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5195964007?gh_jid=5195964007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5243629007",
       "title": "Production Program Manager",
       "company": "Anduril",
@@ -71448,6 +71409,19 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5243629007?gh_jid=5243629007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5195964007",
+      "title": "Production Program Manager",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Ashville, Ohio, United States",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5195964007?gh_jid=5195964007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -71608,15 +71582,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5240992007",
+      "id": "gh-5261350007",
       "title": "Production Technician",
       "company": "Anduril",
       "logo": "\ud83c\udfaf",
-      "location": "Fort Collins, Colorado, United States",
+      "location": "McHenry, Mississippi, United States",
       "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5240992007?gh_jid=5240992007",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5261350007?gh_jid=5261350007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -71634,19 +71608,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5261350007",
-      "title": "Production Technician",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "McHenry, Mississippi, United States",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5261350007?gh_jid=5261350007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-4906040007",
       "title": "Production Technician",
       "company": "Anduril",
@@ -71656,6 +71617,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/4906040007?gh_jid=4906040007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5240992007",
+      "title": "Production Technician",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Fort Collins, Colorado, United States",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5240992007?gh_jid=5240992007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -71816,19 +71790,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5231699007",
-      "title": "Product Manager, Connected Warfare",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Washington, District of Columbia, United States",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5231699007?gh_jid=5231699007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5267675007",
       "title": "Product Manager, Connected Warfare",
       "company": "Anduril",
@@ -71838,6 +71799,19 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5267675007?gh_jid=5267675007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5231699007",
+      "title": "Product Manager, Connected Warfare",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Washington, District of Columbia, United States",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5231699007?gh_jid=5231699007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -71907,19 +71881,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5265377007",
-      "title": "Product Manager, Group 5 Mission Autonomy Aviation SME",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Washington, District of Columbia, United States",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5265377007?gh_jid=5265377007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5247776007",
       "title": "Product Manager, Group 5 Mission Autonomy Aviation SME",
       "company": "Anduril",
@@ -71929,6 +71890,19 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5247776007?gh_jid=5247776007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5265377007",
+      "title": "Product Manager, Group 5 Mission Autonomy Aviation SME",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Washington, District of Columbia, United States",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5265377007?gh_jid=5265377007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -72089,19 +72063,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5042718007",
-      "title": "Product Security Engineer, Programs",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Costa Mesa, California, United States",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5042718007?gh_jid=5042718007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5041620007",
       "title": "Product Security Engineer, Programs",
       "company": "Anduril",
@@ -72111,6 +72072,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5041620007?gh_jid=5041620007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5042718007",
+      "title": "Product Security Engineer, Programs",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Costa Mesa, California, United States",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5042718007?gh_jid=5042718007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -72713,19 +72687,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5270576007",
-      "title": "Project Engineer and Site Lead, Autonomous Airpower",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Costa Mesa, California, United States",
-      "category": "robotics",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5270576007?gh_jid=5270576007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5247383007",
       "title": "Project Engineer and Site Lead, Autonomous Airpower",
       "company": "Anduril",
@@ -72735,6 +72696,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5247383007?gh_jid=5247383007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5270576007",
+      "title": "Project Engineer and Site Lead, Autonomous Airpower",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Costa Mesa, California, United States",
+      "category": "robotics",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5270576007?gh_jid=5270576007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -72804,32 +72778,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5203826007",
-      "title": "Quality Engineering Specialist",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Ashville, Ohio, United States",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5203826007?gh_jid=5203826007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-5272366007",
-      "title": "Quality Engineering Specialist",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Costa Mesa, California, United States",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5272366007?gh_jid=5272366007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5272356007",
       "title": "Quality Engineering Specialist",
       "company": "Anduril",
@@ -72856,7 +72804,7 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5198173007",
+      "id": "gh-5203826007",
       "title": "Quality Engineering Specialist",
       "company": "Anduril",
       "logo": "\ud83c\udfaf",
@@ -72864,7 +72812,20 @@
       "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5198173007?gh_jid=5198173007",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5203826007?gh_jid=5203826007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5272366007",
+      "title": "Quality Engineering Specialist",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Costa Mesa, California, United States",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5272366007?gh_jid=5272366007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -72882,6 +72843,19 @@
       "source": "Direct ATS"
     },
     {
+      "id": "gh-5198173007",
+      "title": "Quality Engineering Specialist",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Ashville, Ohio, United States",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5198173007?gh_jid=5198173007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
       "id": "gh-5277030007",
       "title": "Quality Inspector",
       "company": "Anduril",
@@ -72895,19 +72869,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5240196007",
-      "title": "Quality Inspector",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Quonset, Rhode Island, United States",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5240196007?gh_jid=5240196007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5198164007",
       "title": "Quality Inspector",
       "company": "Anduril",
@@ -72917,6 +72878,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5198164007?gh_jid=5198164007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5240196007",
+      "title": "Quality Inspector",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Quonset, Rhode Island, United States",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5240196007?gh_jid=5240196007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -73181,19 +73155,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5203472007",
-      "title": "Recruiting Coordinator (Contractor)",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Quincy, Massachusetts, United States",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5203472007?gh_jid=5203472007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5203475007",
       "title": "Recruiting Coordinator (Contractor)",
       "company": "Anduril",
@@ -73207,15 +73168,28 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5255516007",
+      "id": "gh-5203472007",
       "title": "Recruiting Coordinator (Contractor)",
       "company": "Anduril",
       "logo": "\ud83c\udfaf",
-      "location": "Huntsville, Alabama, United States",
+      "location": "Quincy, Massachusetts, United States",
       "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5255516007?gh_jid=5255516007",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5203472007?gh_jid=5203472007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5203460007",
+      "title": "Recruiting Coordinator (Contractor)",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Seattle, Washington, United States",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5203460007?gh_jid=5203460007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -73233,15 +73207,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5203460007",
+      "id": "gh-5255516007",
       "title": "Recruiting Coordinator (Contractor)",
       "company": "Anduril",
       "logo": "\ud83c\udfaf",
-      "location": "Seattle, Washington, United States",
+      "location": "Huntsville, Alabama, United States",
       "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5203460007?gh_jid=5203460007",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5255516007?gh_jid=5255516007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -73298,19 +73272,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5172474007",
-      "title": "Reliability Engineer",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Huntsville, Alabama, United States; Quonset, Rhode Island, United States",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5172474007?gh_jid=5172474007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5167915007",
       "title": "Reliability Engineer",
       "company": "Anduril",
@@ -73324,6 +73285,19 @@
       "source": "Direct ATS"
     },
     {
+      "id": "gh-5172474007",
+      "title": "Reliability Engineer",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Huntsville, Alabama, United States; Quonset, Rhode Island, United States",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5172474007?gh_jid=5172474007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
       "id": "gh-5229357007",
       "title": "Reliability Engineering Manager",
       "company": "Anduril",
@@ -73333,6 +73307,19 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5229357007?gh_jid=5229357007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5240170007",
+      "title": "Research Scientist",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Huntsville, Alabama, United States",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5240170007?gh_jid=5240170007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -73359,19 +73346,6 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5228071007?gh_jid=5228071007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-5240170007",
-      "title": "Research Scientist",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Huntsville, Alabama, United States",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5240170007?gh_jid=5240170007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -73532,6 +73506,19 @@
       "source": "Direct ATS"
     },
     {
+      "id": "gh-5179580007",
+      "title": "Robotics Software Engineer",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Boston, Massachusetts, United States",
+      "category": "robotics",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5179580007?gh_jid=5179580007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
       "id": "gh-5248679007",
       "title": "Robotics Software Engineer",
       "company": "Anduril",
@@ -73554,19 +73541,6 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5136146007?gh_jid=5136146007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-5179580007",
-      "title": "Robotics Software Engineer",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Boston, Massachusetts, United States",
-      "category": "robotics",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5179580007?gh_jid=5179580007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -73727,19 +73701,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5275462007",
-      "title": "Scientific Software Engineer",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Broomfield, Colorado, United States; Fort Collins, Colorado, United States",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5275462007?gh_jid=5275462007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5226942007",
       "title": "Scientific Software Engineer",
       "company": "Anduril",
@@ -73753,15 +73714,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5218586007",
-      "title": "Security Operations Analyst",
+      "id": "gh-5275462007",
+      "title": "Scientific Software Engineer",
       "company": "Anduril",
       "logo": "\ud83c\udfaf",
-      "location": "Seattle, Washington, United States",
-      "category": "data",
+      "location": "Broomfield, Colorado, United States; Fort Collins, Colorado, United States",
+      "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5218586007?gh_jid=5218586007",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5275462007?gh_jid=5275462007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -73779,19 +73740,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5218589007",
-      "title": "Security Operations Analyst",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Washington, District of Columbia, United States",
-      "category": "data",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5218589007?gh_jid=5218589007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5201053007",
       "title": "Security Operations Analyst",
       "company": "Anduril",
@@ -73801,6 +73749,32 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5201053007?gh_jid=5201053007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5218586007",
+      "title": "Security Operations Analyst",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Seattle, Washington, United States",
+      "category": "data",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5218586007?gh_jid=5218586007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5218589007",
+      "title": "Security Operations Analyst",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Washington, District of Columbia, United States",
+      "category": "data",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5218589007?gh_jid=5218589007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -73831,19 +73805,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5252462007",
-      "title": "Senior Accountant, M&A Accounting",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Washington, District of Columbia, United States",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5252462007?gh_jid=5252462007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5167778007",
       "title": "Senior Accountant, M&A Accounting",
       "company": "Anduril",
@@ -73853,6 +73814,19 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5167778007?gh_jid=5167778007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5252462007",
+      "title": "Senior Accountant, M&A Accounting",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Washington, District of Columbia, United States",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5252462007?gh_jid=5252462007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
@@ -74065,19 +74039,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5229387007",
-      "title": "Senior Aviation Maintenance Engineer - Advanced Effects",
-      "company": "Anduril",
-      "logo": "\ud83c\udfaf",
-      "location": "Costa Mesa, California, United States",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5229387007?gh_jid=5229387007",
-      "updatedAt": "2026-10-30T21:04:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5264876007",
       "title": "Senior Aviation Maintenance Engineer - Advanced Effects",
       "company": "Anduril",
@@ -74087,6 +74048,19 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5264876007?gh_jid=5264876007",
+      "updatedAt": "2026-10-30T21:04:22-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5229387007",
+      "title": "Senior Aviation Maintenance Engineer - Advanced Effects",
+      "company": "Anduril",
+      "logo": "\ud83c\udfaf",
+      "location": "Costa Mesa, California, United States",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5229387007?gh_jid=5229387007",
       "updatedAt": "2026-10-30T21:04:22-04:00",
       "source": "Direct ATS"
     },
