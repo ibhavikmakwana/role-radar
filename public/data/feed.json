@@ -1,7 +1,7 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-07T21:17:25.716122",
-  "totalJobs": 8448,
+  "generatedAt": "2026-11-08T00:59:16.575013",
+  "totalJobs": 8449,
   "jobs": [
     {
       "id": "gh-5456619008",
@@ -24015,41 +24015,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8354556",
+      "id": "gh-6512586",
       "title": "Commercial Account Executive",
       "company": "Datadog",
       "logo": "\ud83d\udc36",
-      "location": "Singapore, Singapore",
+      "location": "Seoul, South Korea",
       "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://careers.datadoghq.com/detail/8354556/?gh_jid=8354556",
-      "updatedAt": "2026-11-06T23:29:49-05:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-5798241",
-      "title": "Commercial Account Executive",
-      "company": "Datadog",
-      "logo": "\ud83d\udc36",
-      "location": "Tokyo, Japan",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://careers.datadoghq.com/detail/5798241/?gh_jid=5798241",
-      "updatedAt": "2026-11-05T12:12:56-05:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-6009777",
-      "title": "Commercial Account Executive",
-      "company": "Datadog",
-      "logo": "\ud83d\udc36",
-      "location": "Tokyo, Japan",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://careers.datadoghq.com/detail/6009777/?gh_jid=6009777",
+      "applyUrl": "https://careers.datadoghq.com/detail/6512586/?gh_jid=6512586",
       "updatedAt": "2026-11-05T12:12:56-05:00",
       "source": "Direct ATS"
     },
@@ -24067,16 +24041,16 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-6512321",
+      "id": "gh-8354556",
       "title": "Commercial Account Executive",
       "company": "Datadog",
       "logo": "\ud83d\udc36",
-      "location": "Bangalore, India",
+      "location": "Singapore, Singapore",
       "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://careers.datadoghq.com/detail/6512321/?gh_jid=6512321",
-      "updatedAt": "2026-11-05T12:12:56-05:00",
+      "applyUrl": "https://careers.datadoghq.com/detail/8354556/?gh_jid=8354556",
+      "updatedAt": "2026-11-06T23:29:49-05:00",
       "source": "Direct ATS"
     },
     {
@@ -24093,15 +24067,41 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-6512586",
+      "id": "gh-6009777",
       "title": "Commercial Account Executive",
       "company": "Datadog",
       "logo": "\ud83d\udc36",
-      "location": "Seoul, South Korea",
+      "location": "Tokyo, Japan",
       "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://careers.datadoghq.com/detail/6512586/?gh_jid=6512586",
+      "applyUrl": "https://careers.datadoghq.com/detail/6009777/?gh_jid=6009777",
+      "updatedAt": "2026-11-05T12:12:56-05:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-6512321",
+      "title": "Commercial Account Executive",
+      "company": "Datadog",
+      "logo": "\ud83d\udc36",
+      "location": "Bangalore, India",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://careers.datadoghq.com/detail/6512321/?gh_jid=6512321",
+      "updatedAt": "2026-11-05T12:12:56-05:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5798241",
+      "title": "Commercial Account Executive",
+      "company": "Datadog",
+      "logo": "\ud83d\udc36",
+      "location": "Tokyo, Japan",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://careers.datadoghq.com/detail/5798241/?gh_jid=5798241",
       "updatedAt": "2026-11-05T12:12:56-05:00",
       "source": "Direct ATS"
     },
@@ -24327,19 +24327,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8238655",
-      "title": "Commercial Sales Engineer",
-      "company": "Datadog",
-      "logo": "\ud83d\udc36",
-      "location": "Sydney, Australia",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://careers.datadoghq.com/detail/8238655/?gh_jid=8238655",
-      "updatedAt": "2026-11-05T12:12:56-05:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8326311",
       "title": "Commercial Sales Engineer",
       "company": "Datadog",
@@ -24349,6 +24336,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.datadoghq.com/detail/8326311/?gh_jid=8326311",
+      "updatedAt": "2026-11-05T12:12:56-05:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8238655",
+      "title": "Commercial Sales Engineer",
+      "company": "Datadog",
+      "logo": "\ud83d\udc36",
+      "location": "Sydney, Australia",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://careers.datadoghq.com/detail/8238655/?gh_jid=8238655",
       "updatedAt": "2026-11-05T12:12:56-05:00",
       "source": "Direct ATS"
     },
@@ -24483,19 +24483,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5486716",
-      "title": "Customer Success Associate",
-      "company": "Datadog",
-      "logo": "\ud83d\udc36",
-      "location": "Tokyo, Japan",
-      "category": "engineering",
-      "experienceLevel": "entry",
-      "atsType": "greenhouse",
-      "applyUrl": "https://careers.datadoghq.com/detail/5486716/?gh_jid=5486716",
-      "updatedAt": "2026-11-05T12:12:56-05:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-6009779",
       "title": "Customer Success Associate",
       "company": "Datadog",
@@ -24505,6 +24492,19 @@
       "experienceLevel": "entry",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.datadoghq.com/detail/6009779/?gh_jid=6009779",
+      "updatedAt": "2026-11-05T12:12:56-05:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5486716",
+      "title": "Customer Success Associate",
+      "company": "Datadog",
+      "logo": "\ud83d\udc36",
+      "location": "Tokyo, Japan",
+      "category": "engineering",
+      "experienceLevel": "entry",
+      "atsType": "greenhouse",
+      "applyUrl": "https://careers.datadoghq.com/detail/5486716/?gh_jid=5486716",
       "updatedAt": "2026-11-05T12:12:56-05:00",
       "source": "Direct ATS"
     },
@@ -24522,19 +24522,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8206747",
-      "title": "Customer Success Manager",
-      "company": "Datadog",
-      "logo": "\ud83d\udc36",
-      "location": "Seoul, South Korea",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://careers.datadoghq.com/detail/8206747/?gh_jid=8206747",
-      "updatedAt": "2026-11-05T12:12:56-05:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8206923",
       "title": "Customer Success Manager",
       "company": "Datadog",
@@ -24544,6 +24531,19 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.datadoghq.com/detail/8206923/?gh_jid=8206923",
+      "updatedAt": "2026-11-05T12:12:56-05:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8206747",
+      "title": "Customer Success Manager",
+      "company": "Datadog",
+      "logo": "\ud83d\udc36",
+      "location": "Seoul, South Korea",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://careers.datadoghq.com/detail/8206747/?gh_jid=8206747",
       "updatedAt": "2026-11-05T12:12:56-05:00",
       "source": "Direct ATS"
     },
@@ -24704,19 +24704,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8196248",
-      "title": "Director, Enterprise Sales",
-      "company": "Datadog",
-      "logo": "\ud83d\udc36",
-      "location": "Sao Paulo, Brazil",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://careers.datadoghq.com/detail/8196248/?gh_jid=8196248",
-      "updatedAt": "2026-11-05T12:12:56-05:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8303221",
       "title": "Director, Enterprise Sales",
       "company": "Datadog",
@@ -24726,6 +24713,19 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.datadoghq.com/detail/8303221/?gh_jid=8303221",
+      "updatedAt": "2026-11-05T12:12:56-05:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8196248",
+      "title": "Director, Enterprise Sales",
+      "company": "Datadog",
+      "logo": "\ud83d\udc36",
+      "location": "Sao Paulo, Brazil",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://careers.datadoghq.com/detail/8196248/?gh_jid=8196248",
       "updatedAt": "2026-11-05T12:12:56-05:00",
       "source": "Direct ATS"
     },
@@ -25016,19 +25016,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-6430289",
-      "title": "Enterprise Sales Engineer",
-      "company": "Datadog",
-      "logo": "\ud83d\udc36",
-      "location": "Osaka, Japan",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://careers.datadoghq.com/detail/6430289/?gh_jid=6430289",
-      "updatedAt": "2026-11-05T12:12:56-05:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-6703351",
       "title": "Enterprise Sales Engineer",
       "company": "Datadog",
@@ -25038,6 +25025,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.datadoghq.com/detail/6703351/?gh_jid=6703351",
+      "updatedAt": "2026-11-05T12:12:56-05:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-6430289",
+      "title": "Enterprise Sales Engineer",
+      "company": "Datadog",
+      "logo": "\ud83d\udc36",
+      "location": "Osaka, Japan",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://careers.datadoghq.com/detail/6430289/?gh_jid=6430289",
       "updatedAt": "2026-11-05T12:12:56-05:00",
       "source": "Direct ATS"
     },
@@ -25081,16 +25081,55 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-7703288",
+      "id": "gh-7426707",
       "title": "Enterprise Sales Executive",
       "company": "Datadog",
       "logo": "\ud83d\udc36",
-      "location": "Seoul, South Korea",
+      "location": "Washington, District of Columbia, USA",
       "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://careers.datadoghq.com/detail/7703288/?gh_jid=7703288",
+      "applyUrl": "https://careers.datadoghq.com/detail/7426707/?gh_jid=7426707",
       "updatedAt": "2026-11-05T12:12:56-05:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-6925405",
+      "title": "Enterprise Sales Executive",
+      "company": "Datadog",
+      "logo": "\ud83d\udc36",
+      "location": "Texas, USA, Remote",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://careers.datadoghq.com/detail/6925405/?gh_jid=6925405",
+      "updatedAt": "2026-11-05T12:12:56-05:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-7405822",
+      "title": "Enterprise Sales Executive",
+      "company": "Datadog",
+      "logo": "\ud83d\udc36",
+      "location": "Georgia, USA, Remote",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://careers.datadoghq.com/detail/7405822/?gh_jid=7405822",
+      "updatedAt": "2026-11-05T12:12:56-05:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-7410254",
+      "title": "Enterprise Sales Executive",
+      "company": "Datadog",
+      "logo": "\ud83d\udc36",
+      "location": "Boston, Massachusetts, USA",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://careers.datadoghq.com/detail/7410254/?gh_jid=7410254",
+      "updatedAt": "2026-11-06T15:07:56-05:00",
       "source": "Direct ATS"
     },
     {
@@ -25116,19 +25155,6 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.datadoghq.com/detail/7465857/?gh_jid=7465857",
-      "updatedAt": "2026-11-05T12:12:56-05:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-6925405",
-      "title": "Enterprise Sales Executive",
-      "company": "Datadog",
-      "logo": "\ud83d\udc36",
-      "location": "Texas, USA, Remote",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://careers.datadoghq.com/detail/6925405/?gh_jid=6925405",
       "updatedAt": "2026-11-05T12:12:56-05:00",
       "source": "Direct ATS"
     },
@@ -25159,28 +25185,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-7426707",
+      "id": "gh-7703288",
       "title": "Enterprise Sales Executive",
       "company": "Datadog",
       "logo": "\ud83d\udc36",
-      "location": "Washington, District of Columbia, USA",
+      "location": "Seoul, South Korea",
       "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://careers.datadoghq.com/detail/7426707/?gh_jid=7426707",
-      "updatedAt": "2026-11-05T12:12:56-05:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-7405822",
-      "title": "Enterprise Sales Executive",
-      "company": "Datadog",
-      "logo": "\ud83d\udc36",
-      "location": "Georgia, USA, Remote",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://careers.datadoghq.com/detail/7405822/?gh_jid=7405822",
+      "applyUrl": "https://careers.datadoghq.com/detail/7703288/?gh_jid=7703288",
       "updatedAt": "2026-11-05T12:12:56-05:00",
       "source": "Direct ATS"
     },
@@ -25198,19 +25211,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-7410254",
-      "title": "Enterprise Sales Executive",
-      "company": "Datadog",
-      "logo": "\ud83d\udc36",
-      "location": "Boston, Massachusetts, USA",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://careers.datadoghq.com/detail/7410254/?gh_jid=7410254",
-      "updatedAt": "2026-11-06T15:07:56-05:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-6185452",
       "title": "Enterprise Sales Executive (Benelux)",
       "company": "Datadog",
@@ -25220,6 +25220,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.datadoghq.com/detail/6185452/?gh_jid=6185452",
+      "updatedAt": "2026-11-05T12:12:56-05:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-7426680",
+      "title": "Enterprise Sales Executive (FED)",
+      "company": "Datadog",
+      "logo": "\ud83d\udc36",
+      "location": "Washington, District of Columbia, USA",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://careers.datadoghq.com/detail/7426680/?gh_jid=7426680",
       "updatedAt": "2026-11-05T12:12:56-05:00",
       "source": "Direct ATS"
     },
@@ -25237,15 +25250,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-7426680",
-      "title": "Enterprise Sales Executive (FED)",
+      "id": "gh-7412010",
+      "title": "Enterprise Sales Executive (SLED)",
       "company": "Datadog",
       "logo": "\ud83d\udc36",
-      "location": "Washington, District of Columbia, USA",
+      "location": "Atlanta, Georgia, USA; Boston, Massachusetts, USA",
       "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://careers.datadoghq.com/detail/7426680/?gh_jid=7426680",
+      "applyUrl": "https://careers.datadoghq.com/detail/7412010/?gh_jid=7412010",
       "updatedAt": "2026-11-05T12:12:56-05:00",
       "source": "Direct ATS"
     },
@@ -25276,19 +25289,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-7412010",
-      "title": "Enterprise Sales Executive (SLED)",
-      "company": "Datadog",
-      "logo": "\ud83d\udc36",
-      "location": "Atlanta, Georgia, USA; Boston, Massachusetts, USA",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://careers.datadoghq.com/detail/7412010/?gh_jid=7412010",
-      "updatedAt": "2026-11-05T12:12:56-05:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-7426752",
       "title": "Enterprise Sales Executive (SLED)",
       "company": "Datadog",
@@ -25315,19 +25315,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-7132132",
-      "title": "Enterprise Security Sales Specialist",
-      "company": "Datadog",
-      "logo": "\ud83d\udc36",
-      "location": "District of Columbia, USA, Remote; North Carolina, USA, Remote",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://careers.datadoghq.com/detail/7132132/?gh_jid=7132132",
-      "updatedAt": "2026-11-05T12:12:56-05:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8243668",
       "title": "Enterprise Security Sales Specialist",
       "company": "Datadog",
@@ -25337,6 +25324,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.datadoghq.com/detail/8243668/?gh_jid=8243668",
+      "updatedAt": "2026-11-05T12:12:56-05:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8256245",
+      "title": "Enterprise Security Sales Specialist",
+      "company": "Datadog",
+      "logo": "\ud83d\udc36",
+      "location": "California, USA, Remote",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://careers.datadoghq.com/detail/8256245/?gh_jid=8256245",
       "updatedAt": "2026-11-05T12:12:56-05:00",
       "source": "Direct ATS"
     },
@@ -25354,6 +25354,19 @@
       "source": "Direct ATS"
     },
     {
+      "id": "gh-7132132",
+      "title": "Enterprise Security Sales Specialist",
+      "company": "Datadog",
+      "logo": "\ud83d\udc36",
+      "location": "District of Columbia, USA, Remote; North Carolina, USA, Remote",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://careers.datadoghq.com/detail/7132132/?gh_jid=7132132",
+      "updatedAt": "2026-11-05T12:12:56-05:00",
+      "source": "Direct ATS"
+    },
+    {
       "id": "gh-7129425",
       "title": "Enterprise Security Sales Specialist",
       "company": "Datadog",
@@ -25363,19 +25376,6 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.datadoghq.com/detail/7129425/?gh_jid=7129425",
-      "updatedAt": "2026-11-05T12:12:56-05:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8256245",
-      "title": "Enterprise Security Sales Specialist",
-      "company": "Datadog",
-      "logo": "\ud83d\udc36",
-      "location": "California, USA, Remote",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://careers.datadoghq.com/detail/8256245/?gh_jid=8256245",
       "updatedAt": "2026-11-05T12:12:56-05:00",
       "source": "Direct ATS"
     },
@@ -25614,19 +25614,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-7730200",
-      "title": "Head of Enterprise Sales, Japan",
-      "company": "Datadog",
-      "logo": "\ud83d\udc36",
-      "location": "Tokyo, Japan",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://careers.datadoghq.com/detail/7730200/?gh_jid=7730200",
-      "updatedAt": "2026-11-05T12:12:56-05:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-7729887",
       "title": "Head of Enterprise Sales, Japan",
       "company": "Datadog",
@@ -25636,6 +25623,19 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.datadoghq.com/detail/7729887/?gh_jid=7729887",
+      "updatedAt": "2026-11-05T12:12:56-05:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-7730200",
+      "title": "Head of Enterprise Sales, Japan",
+      "company": "Datadog",
+      "logo": "\ud83d\udc36",
+      "location": "Tokyo, Japan",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://careers.datadoghq.com/detail/7730200/?gh_jid=7730200",
       "updatedAt": "2026-11-05T12:12:56-05:00",
       "source": "Direct ATS"
     },
@@ -25718,19 +25718,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-7409236",
-      "title": "Key Accounts Executive",
-      "company": "Datadog",
-      "logo": "\ud83d\udc36",
-      "location": "Atlanta, Georgia, USA; Boston, Massachusetts, USA; New York, New York, USA",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://careers.datadoghq.com/detail/7409236/?gh_jid=7409236",
-      "updatedAt": "2026-11-05T12:12:56-05:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-7579684",
       "title": "Key Accounts Executive",
       "company": "Datadog",
@@ -25740,6 +25727,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.datadoghq.com/detail/7579684/?gh_jid=7579684",
+      "updatedAt": "2026-11-05T12:12:56-05:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-7409236",
+      "title": "Key Accounts Executive",
+      "company": "Datadog",
+      "logo": "\ud83d\udc36",
+      "location": "Atlanta, Georgia, USA; Boston, Massachusetts, USA; New York, New York, USA",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://careers.datadoghq.com/detail/7409236/?gh_jid=7409236",
       "updatedAt": "2026-11-05T12:12:56-05:00",
       "source": "Direct ATS"
     },
@@ -25783,19 +25783,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-7409198",
-      "title": "Major Account Manager",
-      "company": "Datadog",
-      "logo": "\ud83d\udc36",
-      "location": "Boston, Massachusetts, USA; New York, New York, USA",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://careers.datadoghq.com/detail/7409198/?gh_jid=7409198",
-      "updatedAt": "2026-11-05T12:12:56-05:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8126000",
       "title": "Major Account Manager",
       "company": "Datadog",
@@ -25805,6 +25792,19 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.datadoghq.com/detail/8126000/?gh_jid=8126000",
+      "updatedAt": "2026-11-05T12:12:56-05:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-7630041",
+      "title": "Major Account Manager",
+      "company": "Datadog",
+      "logo": "\ud83d\udc36",
+      "location": "California, USA, Remote; Colorado, USA, Remote; Washington, USA, Remote",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://careers.datadoghq.com/detail/7630041/?gh_jid=7630041",
       "updatedAt": "2026-11-05T12:12:56-05:00",
       "source": "Direct ATS"
     },
@@ -25822,15 +25822,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-7630041",
+      "id": "gh-7409198",
       "title": "Major Account Manager",
       "company": "Datadog",
       "logo": "\ud83d\udc36",
-      "location": "California, USA, Remote; Colorado, USA, Remote; Washington, USA, Remote",
+      "location": "Boston, Massachusetts, USA; New York, New York, USA",
       "category": "engineering",
       "experienceLevel": "senior",
       "atsType": "greenhouse",
-      "applyUrl": "https://careers.datadoghq.com/detail/7630041/?gh_jid=7630041",
+      "applyUrl": "https://careers.datadoghq.com/detail/7409198/?gh_jid=7409198",
       "updatedAt": "2026-11-05T12:12:56-05:00",
       "source": "Direct ATS"
     },
@@ -26043,19 +26043,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8260933",
-      "title": "Manager I, Engineering - Language Platform",
-      "company": "Datadog",
-      "logo": "\ud83d\udc36",
-      "location": "Madrid, Spain; Paris, France",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://careers.datadoghq.com/detail/8260933/?gh_jid=8260933",
-      "updatedAt": "2026-11-05T12:12:56-05:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8261223",
       "title": "Manager I, Engineering - Language Platform",
       "company": "Datadog",
@@ -26065,6 +26052,19 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.datadoghq.com/detail/8261223/?gh_jid=8261223",
+      "updatedAt": "2026-11-05T12:12:56-05:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8260933",
+      "title": "Manager I, Engineering - Language Platform",
+      "company": "Datadog",
+      "logo": "\ud83d\udc36",
+      "location": "Madrid, Spain; Paris, France",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://careers.datadoghq.com/detail/8260933/?gh_jid=8260933",
       "updatedAt": "2026-11-05T12:12:56-05:00",
       "source": "Direct ATS"
     },
@@ -26407,15 +26407,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-6523631",
+      "id": "gh-7785319",
       "title": "Mid Market Account Executive",
       "company": "Datadog",
       "logo": "\ud83d\udc36",
-      "location": "Tokyo, Japan",
+      "location": "Bangalore, India",
       "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://careers.datadoghq.com/detail/6523631/?gh_jid=6523631",
+      "applyUrl": "https://careers.datadoghq.com/detail/7785319/?gh_jid=7785319",
       "updatedAt": "2026-11-05T12:12:56-05:00",
       "source": "Direct ATS"
     },
@@ -26430,19 +26430,6 @@
       "atsType": "greenhouse",
       "applyUrl": "https://careers.datadoghq.com/detail/8311586/?gh_jid=8311586",
       "updatedAt": "2026-11-05T19:38:22-05:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-7785319",
-      "title": "Mid Market Account Executive",
-      "company": "Datadog",
-      "logo": "\ud83d\udc36",
-      "location": "Bangalore, India",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://careers.datadoghq.com/detail/7785319/?gh_jid=7785319",
-      "updatedAt": "2026-11-05T12:12:56-05:00",
       "source": "Direct ATS"
     },
     {
@@ -26468,6 +26455,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.datadoghq.com/detail/6163246/?gh_jid=6163246",
+      "updatedAt": "2026-11-05T12:12:56-05:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-6523631",
+      "title": "Mid Market Account Executive",
+      "company": "Datadog",
+      "logo": "\ud83d\udc36",
+      "location": "Tokyo, Japan",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://careers.datadoghq.com/detail/6523631/?gh_jid=6523631",
       "updatedAt": "2026-11-05T12:12:56-05:00",
       "source": "Direct ATS"
     },
@@ -26732,19 +26732,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8219989",
-      "title": "Principal GSI Partner Manager - Accenture (EMEA)",
-      "company": "Datadog",
-      "logo": "\ud83d\udc36",
-      "location": "London, United Kingdom",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://careers.datadoghq.com/detail/8219989/?gh_jid=8219989",
-      "updatedAt": "2026-11-05T12:12:56-05:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8203733",
       "title": "Principal GSI Partner Manager - Accenture (EMEA)",
       "company": "Datadog",
@@ -26754,6 +26741,19 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.datadoghq.com/detail/8203733/?gh_jid=8203733",
+      "updatedAt": "2026-11-05T12:12:56-05:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8219989",
+      "title": "Principal GSI Partner Manager - Accenture (EMEA)",
+      "company": "Datadog",
+      "logo": "\ud83d\udc36",
+      "location": "London, United Kingdom",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://careers.datadoghq.com/detail/8219989/?gh_jid=8219989",
       "updatedAt": "2026-11-05T12:12:56-05:00",
       "source": "Direct ATS"
     },
@@ -26849,19 +26849,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-7555575",
-      "title": "Product Strategy and Corporate Development Lead, AI",
-      "company": "Datadog",
-      "logo": "\ud83d\udc36",
-      "location": "San Francisco, California, USA",
-      "category": "ai",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://careers.datadoghq.com/detail/7555575/?gh_jid=7555575",
-      "updatedAt": "2026-11-05T12:12:56-05:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8011158",
       "title": "Product Strategy and Corporate Development Lead, AI",
       "company": "Datadog",
@@ -26871,6 +26858,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.datadoghq.com/detail/8011158/?gh_jid=8011158",
+      "updatedAt": "2026-11-05T12:12:56-05:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-7555575",
+      "title": "Product Strategy and Corporate Development Lead, AI",
+      "company": "Datadog",
+      "logo": "\ud83d\udc36",
+      "location": "San Francisco, California, USA",
+      "category": "ai",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://careers.datadoghq.com/detail/7555575/?gh_jid=7555575",
       "updatedAt": "2026-11-05T12:12:56-05:00",
       "source": "Direct ATS"
     },
@@ -27005,19 +27005,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8210323",
-      "title": "Regional Director - Enterprise Sales",
-      "company": "Datadog",
-      "logo": "\ud83d\udc36",
-      "location": "Osaka, Japan",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://careers.datadoghq.com/detail/8210323/?gh_jid=8210323",
-      "updatedAt": "2026-11-05T12:12:56-05:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8210153",
       "title": "Regional Director - Enterprise Sales",
       "company": "Datadog",
@@ -27027,6 +27014,19 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.datadoghq.com/detail/8210153/?gh_jid=8210153",
+      "updatedAt": "2026-11-05T12:12:56-05:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8210323",
+      "title": "Regional Director - Enterprise Sales",
+      "company": "Datadog",
+      "logo": "\ud83d\udc36",
+      "location": "Osaka, Japan",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://careers.datadoghq.com/detail/8210323/?gh_jid=8210323",
       "updatedAt": "2026-11-05T12:12:56-05:00",
       "source": "Direct ATS"
     },
@@ -27070,19 +27070,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8113562",
-      "title": "Regional Manager, Sales Engineering - Public Sector",
-      "company": "Datadog",
-      "logo": "\ud83d\udc36",
-      "location": "Tokyo, Japan",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://careers.datadoghq.com/detail/8113562/?gh_jid=8113562",
-      "updatedAt": "2026-11-05T12:12:56-05:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8003531",
       "title": "Regional Manager, Sales Engineering - Public Sector",
       "company": "Datadog",
@@ -27092,6 +27079,19 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.datadoghq.com/detail/8003531/?gh_jid=8003531",
+      "updatedAt": "2026-11-05T12:12:56-05:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8113562",
+      "title": "Regional Manager, Sales Engineering - Public Sector",
+      "company": "Datadog",
+      "logo": "\ud83d\udc36",
+      "location": "Tokyo, Japan",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://careers.datadoghq.com/detail/8113562/?gh_jid=8113562",
       "updatedAt": "2026-11-05T12:12:56-05:00",
       "source": "Direct ATS"
     },
@@ -27213,19 +27213,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8323909",
-      "title": "Sales Engineer",
-      "company": "Datadog",
-      "logo": "\ud83d\udc36",
-      "location": "Tokyo, Japan",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://careers.datadoghq.com/detail/8323909/?gh_jid=8323909",
-      "updatedAt": "2026-11-05T12:12:56-05:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8258855",
       "title": "Sales Engineer",
       "company": "Datadog",
@@ -27235,6 +27222,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.datadoghq.com/detail/8258855/?gh_jid=8258855",
+      "updatedAt": "2026-11-05T12:12:56-05:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8323909",
+      "title": "Sales Engineer",
+      "company": "Datadog",
+      "logo": "\ud83d\udc36",
+      "location": "Tokyo, Japan",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://careers.datadoghq.com/detail/8323909/?gh_jid=8323909",
       "updatedAt": "2026-11-05T12:12:56-05:00",
       "source": "Direct ATS"
     },
@@ -27538,19 +27538,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8281102",
-      "title": "Senior Manager, Product Design - Security",
-      "company": "Datadog",
-      "logo": "\ud83d\udc36",
-      "location": "New York, New York, USA",
-      "category": "product",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://careers.datadoghq.com/detail/8281102/?gh_jid=8281102",
-      "updatedAt": "2026-11-05T12:12:56-05:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8279650",
       "title": "Senior Manager, Product Design - Security",
       "company": "Datadog",
@@ -27560,6 +27547,19 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.datadoghq.com/detail/8279650/?gh_jid=8279650",
+      "updatedAt": "2026-11-05T12:12:56-05:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8281102",
+      "title": "Senior Manager, Product Design - Security",
+      "company": "Datadog",
+      "logo": "\ud83d\udc36",
+      "location": "New York, New York, USA",
+      "category": "product",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://careers.datadoghq.com/detail/8281102/?gh_jid=8281102",
       "updatedAt": "2026-11-05T12:12:56-05:00",
       "source": "Direct ATS"
     },
@@ -27603,6 +27603,19 @@
       "source": "Direct ATS"
     },
     {
+      "id": "gh-8164588",
+      "title": "Senior Partner Manager - Channels (Security)",
+      "company": "Datadog",
+      "logo": "\ud83d\udc36",
+      "location": "Singapore, Singapore",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://careers.datadoghq.com/detail/8164588/?gh_jid=8164588",
+      "updatedAt": "2026-11-05T12:12:56-05:00",
+      "source": "Direct ATS"
+    },
+    {
       "id": "gh-7582681",
       "title": "Senior Partner Manager - Channels (Security)",
       "company": "Datadog",
@@ -27625,19 +27638,6 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.datadoghq.com/detail/8166231/?gh_jid=8166231",
-      "updatedAt": "2026-11-05T12:12:56-05:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-8164588",
-      "title": "Senior Partner Manager - Channels (Security)",
-      "company": "Datadog",
-      "logo": "\ud83d\udc36",
-      "location": "Singapore, Singapore",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://careers.datadoghq.com/detail/8164588/?gh_jid=8164588",
       "updatedAt": "2026-11-05T12:12:56-05:00",
       "source": "Direct ATS"
     },
@@ -27993,19 +27993,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-7554877",
-      "title": "Senior Security Sales Engineer",
-      "company": "Datadog",
-      "logo": "\ud83d\udc36",
-      "location": "Illinois, USA, Remote; Texas, USA, Remote",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://careers.datadoghq.com/detail/7554877/?gh_jid=7554877",
-      "updatedAt": "2026-11-05T12:12:56-05:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8141243",
       "title": "Senior Security Sales Engineer",
       "company": "Datadog",
@@ -28015,6 +28002,19 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.datadoghq.com/detail/8141243/?gh_jid=8141243",
+      "updatedAt": "2026-11-05T12:12:56-05:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-7554877",
+      "title": "Senior Security Sales Engineer",
+      "company": "Datadog",
+      "logo": "\ud83d\udc36",
+      "location": "Illinois, USA, Remote; Texas, USA, Remote",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://careers.datadoghq.com/detail/7554877/?gh_jid=7554877",
       "updatedAt": "2026-11-05T12:12:56-05:00",
       "source": "Direct ATS"
     },
@@ -28409,19 +28409,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-8247540",
-      "title": "Strategic Account Executive",
-      "company": "Datadog",
-      "logo": "\ud83d\udc36",
-      "location": "Mumbai, India",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://careers.datadoghq.com/detail/8247540/?gh_jid=8247540",
-      "updatedAt": "2026-11-05T12:12:56-05:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-7131386",
       "title": "Strategic Account Executive",
       "company": "Datadog",
@@ -28448,80 +28435,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-6522865",
+      "id": "gh-8247540",
       "title": "Strategic Account Executive",
       "company": "Datadog",
       "logo": "\ud83d\udc36",
-      "location": "Canada, Remote",
+      "location": "Mumbai, India",
       "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://careers.datadoghq.com/detail/6522865/?gh_jid=6522865",
-      "updatedAt": "2026-11-05T12:12:56-05:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-6522747",
-      "title": "Strategic Account Executive",
-      "company": "Datadog",
-      "logo": "\ud83d\udc36",
-      "location": "Minnesota, USA, Remote",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://careers.datadoghq.com/detail/6522747/?gh_jid=6522747",
-      "updatedAt": "2026-11-05T12:12:56-05:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-6522736",
-      "title": "Strategic Account Executive",
-      "company": "Datadog",
-      "logo": "\ud83d\udc36",
-      "location": "Michigan, USA, Remote; Ohio, USA, Remote; Pennsylvania, USA, Remote",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://careers.datadoghq.com/detail/6522736/?gh_jid=6522736",
-      "updatedAt": "2026-11-06T14:07:29-05:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-7131363",
-      "title": "Strategic Account Executive",
-      "company": "Datadog",
-      "logo": "\ud83d\udc36",
-      "location": "North Carolina, USA, Remote; South Carolina, USA, Remote",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://careers.datadoghq.com/detail/7131363/?gh_jid=7131363",
-      "updatedAt": "2026-11-05T12:12:56-05:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-7131445",
-      "title": "Strategic Account Executive",
-      "company": "Datadog",
-      "logo": "\ud83d\udc36",
-      "location": "San Francisco, California, USA",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://careers.datadoghq.com/detail/7131445/?gh_jid=7131445",
-      "updatedAt": "2026-11-05T12:12:56-05:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-7155024",
-      "title": "Strategic Account Executive",
-      "company": "Datadog",
-      "logo": "\ud83d\udc36",
-      "location": "California, USA, Remote",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://careers.datadoghq.com/detail/7155024/?gh_jid=7155024",
+      "applyUrl": "https://careers.datadoghq.com/detail/8247540/?gh_jid=8247540",
       "updatedAt": "2026-11-05T12:12:56-05:00",
       "source": "Direct ATS"
     },
@@ -28539,29 +28461,16 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-7142205",
+      "id": "gh-6522736",
       "title": "Strategic Account Executive",
       "company": "Datadog",
       "logo": "\ud83d\udc36",
-      "location": "Seoul, South Korea",
+      "location": "Michigan, USA, Remote; Ohio, USA, Remote; Pennsylvania, USA, Remote",
       "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://careers.datadoghq.com/detail/7142205/?gh_jid=7142205",
-      "updatedAt": "2026-11-05T12:12:56-05:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-7131726",
-      "title": "Strategic Account Executive",
-      "company": "Datadog",
-      "logo": "\ud83d\udc36",
-      "location": "Jakarta, Indonesia",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://careers.datadoghq.com/detail/7131726/?gh_jid=7131726",
-      "updatedAt": "2026-11-05T12:12:56-05:00",
+      "applyUrl": "https://careers.datadoghq.com/detail/6522736/?gh_jid=6522736",
+      "updatedAt": "2026-11-06T14:07:29-05:00",
       "source": "Direct ATS"
     },
     {
@@ -28574,6 +28483,32 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.datadoghq.com/detail/8184643/?gh_jid=8184643",
+      "updatedAt": "2026-11-05T12:12:56-05:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-6522747",
+      "title": "Strategic Account Executive",
+      "company": "Datadog",
+      "logo": "\ud83d\udc36",
+      "location": "Minnesota, USA, Remote",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://careers.datadoghq.com/detail/6522747/?gh_jid=6522747",
+      "updatedAt": "2026-11-05T12:12:56-05:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-6522865",
+      "title": "Strategic Account Executive",
+      "company": "Datadog",
+      "logo": "\ud83d\udc36",
+      "location": "Canada, Remote",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://careers.datadoghq.com/detail/6522865/?gh_jid=6522865",
       "updatedAt": "2026-11-05T12:12:56-05:00",
       "source": "Direct ATS"
     },
@@ -28643,6 +28578,19 @@
       "source": "Direct ATS"
     },
     {
+      "id": "gh-7131726",
+      "title": "Strategic Account Executive",
+      "company": "Datadog",
+      "logo": "\ud83d\udc36",
+      "location": "Jakarta, Indonesia",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://careers.datadoghq.com/detail/7131726/?gh_jid=7131726",
+      "updatedAt": "2026-11-05T12:12:56-05:00",
+      "source": "Direct ATS"
+    },
+    {
       "id": "gh-7131495",
       "title": "Strategic Account Executive",
       "company": "Datadog",
@@ -28669,6 +28617,32 @@
       "source": "Direct ATS"
     },
     {
+      "id": "gh-7142205",
+      "title": "Strategic Account Executive",
+      "company": "Datadog",
+      "logo": "\ud83d\udc36",
+      "location": "Seoul, South Korea",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://careers.datadoghq.com/detail/7142205/?gh_jid=7142205",
+      "updatedAt": "2026-11-05T12:12:56-05:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-7155024",
+      "title": "Strategic Account Executive",
+      "company": "Datadog",
+      "logo": "\ud83d\udc36",
+      "location": "California, USA, Remote",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://careers.datadoghq.com/detail/7155024/?gh_jid=7155024",
+      "updatedAt": "2026-11-05T12:12:56-05:00",
+      "source": "Direct ATS"
+    },
+    {
       "id": "gh-7439145",
       "title": "Strategic Account Executive",
       "company": "Datadog",
@@ -28678,6 +28652,32 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.datadoghq.com/detail/7439145/?gh_jid=7439145",
+      "updatedAt": "2026-11-05T12:12:56-05:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-7131445",
+      "title": "Strategic Account Executive",
+      "company": "Datadog",
+      "logo": "\ud83d\udc36",
+      "location": "San Francisco, California, USA",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://careers.datadoghq.com/detail/7131445/?gh_jid=7131445",
+      "updatedAt": "2026-11-05T12:12:56-05:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-7131363",
+      "title": "Strategic Account Executive",
+      "company": "Datadog",
+      "logo": "\ud83d\udc36",
+      "location": "North Carolina, USA, Remote; South Carolina, USA, Remote",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://careers.datadoghq.com/detail/7131363/?gh_jid=7131363",
       "updatedAt": "2026-11-05T12:12:56-05:00",
       "source": "Direct ATS"
     },
@@ -28695,19 +28695,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-7645709",
-      "title": "Strategic Account Executive (FED)",
-      "company": "Datadog",
-      "logo": "\ud83d\udc36",
-      "location": "Canberra, Australia",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://careers.datadoghq.com/detail/7645709/?gh_jid=7645709",
-      "updatedAt": "2026-11-05T12:12:56-05:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-8021535",
       "title": "Strategic Account Executive (FED)",
       "company": "Datadog",
@@ -28717,6 +28704,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.datadoghq.com/detail/8021535/?gh_jid=8021535",
+      "updatedAt": "2026-11-05T12:12:56-05:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-7645709",
+      "title": "Strategic Account Executive (FED)",
+      "company": "Datadog",
+      "logo": "\ud83d\udc36",
+      "location": "Canberra, Australia",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://careers.datadoghq.com/detail/7645709/?gh_jid=7645709",
       "updatedAt": "2026-11-05T12:12:56-05:00",
       "source": "Direct ATS"
     },
@@ -28786,19 +28786,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-7439149",
-      "title": "Strategic Account Executive, Public Sector Japan, FED",
-      "company": "Datadog",
-      "logo": "\ud83d\udc36",
-      "location": "Tokyo, Japan",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://careers.datadoghq.com/detail/7439149/?gh_jid=7439149",
-      "updatedAt": "2026-11-05T12:12:56-05:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-7439569",
       "title": "Strategic Account Executive, Public Sector Japan, FED",
       "company": "Datadog",
@@ -28812,15 +28799,15 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-7439573",
-      "title": "Strategic Account Executive, Public Sector Japan, SLED",
+      "id": "gh-7439149",
+      "title": "Strategic Account Executive, Public Sector Japan, FED",
       "company": "Datadog",
       "logo": "\ud83d\udc36",
       "location": "Tokyo, Japan",
       "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://careers.datadoghq.com/detail/7439573/?gh_jid=7439573",
+      "applyUrl": "https://careers.datadoghq.com/detail/7439149/?gh_jid=7439149",
       "updatedAt": "2026-11-05T12:12:56-05:00",
       "source": "Direct ATS"
     },
@@ -28838,6 +28825,19 @@
       "source": "Direct ATS"
     },
     {
+      "id": "gh-7439573",
+      "title": "Strategic Account Executive, Public Sector Japan, SLED",
+      "company": "Datadog",
+      "logo": "\ud83d\udc36",
+      "location": "Tokyo, Japan",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://careers.datadoghq.com/detail/7439573/?gh_jid=7439573",
+      "updatedAt": "2026-11-05T12:12:56-05:00",
+      "source": "Direct ATS"
+    },
+    {
       "id": "gh-7338800",
       "title": "Strategic Account Executive (Saudi Arabia)",
       "company": "Datadog",
@@ -28847,19 +28847,6 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.datadoghq.com/detail/7338800/?gh_jid=7338800",
-      "updatedAt": "2026-11-05T12:12:56-05:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-6430945",
-      "title": "Strategic Account Executive (SLED)",
-      "company": "Datadog",
-      "logo": "\ud83d\udc36",
-      "location": "California, USA, Remote",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://careers.datadoghq.com/detail/6430945/?gh_jid=6430945",
       "updatedAt": "2026-11-05T12:12:56-05:00",
       "source": "Direct ATS"
     },
@@ -28886,6 +28873,19 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.datadoghq.com/detail/7314667/?gh_jid=7314667",
+      "updatedAt": "2026-11-05T12:12:56-05:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-6430945",
+      "title": "Strategic Account Executive (SLED)",
+      "company": "Datadog",
+      "logo": "\ud83d\udc36",
+      "location": "California, USA, Remote",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://careers.datadoghq.com/detail/6430945/?gh_jid=6430945",
       "updatedAt": "2026-11-05T12:12:56-05:00",
       "source": "Direct ATS"
     },
@@ -29004,6 +29004,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://careers.datadoghq.com/detail/8355189/?gh_jid=8355189",
       "updatedAt": "2026-11-05T12:12:56-05:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-8351509",
+      "title": "Technical Escalations Engineer 2 (Web Platform)",
+      "company": "Datadog",
+      "logo": "\ud83d\udc36",
+      "location": "Seoul, South Korea; Sydney, Australia; Tokyo, Japan",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://careers.datadoghq.com/detail/8351509/?gh_jid=8351509",
+      "updatedAt": "2026-11-07T19:36:15-05:00",
       "source": "Direct ATS"
     },
     {
