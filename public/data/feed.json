@@ -1,7 +1,7 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-14T02:51:09.510048",
-  "totalJobs": 8492,
+  "generatedAt": "2026-11-14T09:42:15.448653",
+  "totalJobs": 8496,
   "jobs": [
     {
       "id": "gh-5456619008",
@@ -212,19 +212,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5438311008",
-      "title": "Anthropic Research Resident",
-      "company": "Anthropic",
-      "logo": "\ud83e\udde0",
-      "location": "San Francisco, CA | New York City, NY",
-      "category": "ai",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
-      "updatedAt": "2026-11-04T02:13:33-05:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5439169008",
       "title": "Anthropic Research Resident",
       "company": "Anthropic",
@@ -235,6 +222,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5439169008",
       "updatedAt": "2026-11-04T02:14:30-05:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5438311008",
+      "title": "Anthropic Research Resident",
+      "company": "Anthropic",
+      "logo": "\ud83e\udde0",
+      "location": "San Francisco, CA | New York City, NY",
+      "category": "ai",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
+      "updatedAt": "2026-11-04T02:13:33-05:00",
       "source": "Direct ATS"
     },
     {
@@ -277,19 +277,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5450798008",
-      "title": "Applied AI Architect",
-      "company": "Anthropic",
-      "logo": "\ud83e\udde0",
-      "location": "Sydney, Australia",
-      "category": "ai",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5450798008",
-      "updatedAt": "2026-11-02T19:45:18-05:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5443882008",
       "title": "Applied AI Architect",
       "company": "Anthropic",
@@ -316,19 +303,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5076109008",
-      "title": "Applied AI Architect",
-      "company": "Anthropic",
-      "logo": "\ud83e\udde0",
-      "location": "Tokyo, Japan",
-      "category": "ai",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5076109008",
-      "updatedAt": "2026-09-02T02:28:25-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5476577008",
       "title": "Applied AI Architect",
       "company": "Anthropic",
@@ -339,6 +313,32 @@
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5476577008",
       "updatedAt": "2026-11-09T01:47:38-05:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5450798008",
+      "title": "Applied AI Architect",
+      "company": "Anthropic",
+      "logo": "\ud83e\udde0",
+      "location": "Sydney, Australia",
+      "category": "ai",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5450798008",
+      "updatedAt": "2026-11-02T19:45:18-05:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5076109008",
+      "title": "Applied AI Architect",
+      "company": "Anthropic",
+      "logo": "\ud83e\udde0",
+      "location": "Tokyo, Japan",
+      "category": "ai",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5076109008",
+      "updatedAt": "2026-09-02T02:28:25-04:00",
       "source": "Direct ATS"
     },
     {
@@ -498,16 +498,16 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5432583008",
+      "id": "gh-5447368008",
       "title": "Applied AI Architect, Partnerships",
       "company": "Anthropic",
       "logo": "\ud83e\udde0",
-      "location": "London, UK",
+      "location": "Bangalore, India",
       "category": "ai",
       "experienceLevel": "lead",
       "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5432583008",
-      "updatedAt": "2026-11-04T02:56:24-05:00",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5447368008",
+      "updatedAt": "2026-10-16T07:39:28-04:00",
       "source": "Direct ATS"
     },
     {
@@ -524,16 +524,16 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5447368008",
+      "id": "gh-5472677008",
       "title": "Applied AI Architect, Partnerships",
       "company": "Anthropic",
       "logo": "\ud83e\udde0",
-      "location": "Bangalore, India",
+      "location": "Sydney, Australia",
       "category": "ai",
       "experienceLevel": "lead",
       "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5447368008",
-      "updatedAt": "2026-10-16T07:39:28-04:00",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5472677008",
+      "updatedAt": "2026-11-04T06:36:20-05:00",
       "source": "Direct ATS"
     },
     {
@@ -550,16 +550,16 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5472677008",
+      "id": "gh-5432583008",
       "title": "Applied AI Architect, Partnerships",
       "company": "Anthropic",
       "logo": "\ud83e\udde0",
-      "location": "Sydney, Australia",
+      "location": "London, UK",
       "category": "ai",
       "experienceLevel": "lead",
       "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5472677008",
-      "updatedAt": "2026-11-04T06:36:20-05:00",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5432583008",
+      "updatedAt": "2026-11-04T02:56:24-05:00",
       "source": "Direct ATS"
     },
     {
@@ -745,19 +745,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5390795008",
-      "title": "Applied AI Engineer, Enterprise",
-      "company": "Anthropic",
-      "logo": "\ud83e\udde0",
-      "location": "Munich, Germany",
-      "category": "ai",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5390795008",
-      "updatedAt": "2026-09-14T17:09:40-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5390754008",
       "title": "Applied AI Engineer, Enterprise",
       "company": "Anthropic",
@@ -768,6 +755,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5390754008",
       "updatedAt": "2026-09-14T17:13:27-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5390795008",
+      "title": "Applied AI Engineer, Enterprise",
+      "company": "Anthropic",
+      "logo": "\ud83e\udde0",
+      "location": "Munich, Germany",
+      "category": "ai",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5390795008",
+      "updatedAt": "2026-09-14T17:09:40-04:00",
       "source": "Direct ATS"
     },
     {
@@ -901,19 +901,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5385590008",
-      "title": "AV Engineer, Builds and Design",
-      "company": "Anthropic",
-      "logo": "\ud83e\udde0",
-      "location": "London, UK",
-      "category": "product",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5385590008",
-      "updatedAt": "2026-10-05T19:50:32-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5385588008",
       "title": "AV Engineer, Builds and Design",
       "company": "Anthropic",
@@ -924,6 +911,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
       "updatedAt": "2026-10-05T19:49:04-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5385590008",
+      "title": "AV Engineer, Builds and Design",
+      "company": "Anthropic",
+      "logo": "\ud83e\udde0",
+      "location": "London, UK",
+      "category": "product",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5385590008",
+      "updatedAt": "2026-10-05T19:50:32-04:00",
       "source": "Direct ATS"
     },
     {
@@ -1408,6 +1408,19 @@
       "source": "Direct ATS"
     },
     {
+      "id": "gh-5462511008",
+      "title": "Corporate Counsel, Public Reporting",
+      "company": "Anthropic",
+      "logo": "\ud83e\udde0",
+      "location": "San Francisco, CA | New York City, NY",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5462511008",
+      "updatedAt": "2026-11-14T01:29:25-05:00",
+      "source": "Direct ATS"
+    },
+    {
       "id": "gh-5459016008",
       "title": "Corporate Development, Deal Lead",
       "company": "Anthropic",
@@ -1512,19 +1525,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5391112008",
-      "title": "Customer Success Manager",
-      "company": "Anthropic",
-      "logo": "\ud83e\udde0",
-      "location": "Seoul, South Korea",
-      "category": "engineering",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5391112008",
-      "updatedAt": "2026-08-31T00:22:34-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5456491008",
       "title": "Customer Success Manager",
       "company": "Anthropic",
@@ -1535,6 +1535,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5456491008",
       "updatedAt": "2026-10-19T05:37:49-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5391112008",
+      "title": "Customer Success Manager",
+      "company": "Anthropic",
+      "logo": "\ud83e\udde0",
+      "location": "Seoul, South Korea",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5391112008",
+      "updatedAt": "2026-08-31T00:22:34-04:00",
       "source": "Direct ATS"
     },
     {
@@ -2695,19 +2708,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5458689008",
-      "title": "Enterprise Account Executive, Public Sector",
-      "company": "Anthropic",
-      "logo": "\ud83e\udde0",
-      "location": "Milan, Italy",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5458689008",
-      "updatedAt": "2026-10-29T09:49:57-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5458064008",
       "title": "Enterprise Account Executive, Public Sector",
       "company": "Anthropic",
@@ -2718,6 +2718,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5458064008",
       "updatedAt": "2026-10-29T09:41:13-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5458689008",
+      "title": "Enterprise Account Executive, Public Sector",
+      "company": "Anthropic",
+      "logo": "\ud83e\udde0",
+      "location": "Milan, Italy",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5458689008",
+      "updatedAt": "2026-10-29T09:49:57-04:00",
       "source": "Direct ATS"
     },
     {
@@ -2968,6 +2981,19 @@
       "source": "Direct ATS"
     },
     {
+      "id": "gh-5423029008",
+      "title": "Forward Deployed Engineer",
+      "company": "Anthropic",
+      "logo": "\ud83e\udde0",
+      "location": "London, UK",
+      "category": "fde",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5423029008",
+      "updatedAt": "2026-09-14T05:27:39-04:00",
+      "source": "Direct ATS"
+    },
+    {
       "id": "gh-5391021008",
       "title": "Forward Deployed Engineer",
       "company": "Anthropic",
@@ -2991,19 +3017,6 @@
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5391016008",
       "updatedAt": "2026-08-28T16:45:54-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-5423029008",
-      "title": "Forward Deployed Engineer",
-      "company": "Anthropic",
-      "logo": "\ud83e\udde0",
-      "location": "London, UK",
-      "category": "fde",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5423029008",
-      "updatedAt": "2026-09-14T05:27:39-04:00",
       "source": "Direct ATS"
     },
     {
@@ -3072,19 +3085,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5079916008",
-      "title": "Growth Account Executive, Startups",
-      "company": "Anthropic",
-      "logo": "\ud83e\udde0",
-      "location": "New York City, NY; San Francisco, CA",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5079916008",
-      "updatedAt": "2026-08-24T15:31:48-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5440799008",
       "title": "Growth Account Executive, Startups",
       "company": "Anthropic",
@@ -3095,6 +3095,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5440799008",
       "updatedAt": "2026-10-01T06:48:58-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5079916008",
+      "title": "Growth Account Executive, Startups",
+      "company": "Anthropic",
+      "logo": "\ud83e\udde0",
+      "location": "New York City, NY; San Francisco, CA",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5079916008",
+      "updatedAt": "2026-08-24T15:31:48-04:00",
       "source": "Direct ATS"
     },
     {
@@ -3553,19 +3566,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5396397008",
-      "title": "IT Support Engineer",
-      "company": "Anthropic",
-      "logo": "\ud83e\udde0",
-      "location": "Tokyo, Japan",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5396397008",
-      "updatedAt": "2026-08-28T16:49:12-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5439526008",
       "title": "IT Support Engineer",
       "company": "Anthropic",
@@ -3576,6 +3576,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5439526008",
       "updatedAt": "2026-10-14T06:46:47-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5396397008",
+      "title": "IT Support Engineer",
+      "company": "Anthropic",
+      "logo": "\ud83e\udde0",
+      "location": "Tokyo, Japan",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5396397008",
+      "updatedAt": "2026-08-28T16:49:12-04:00",
       "source": "Direct ATS"
     },
     {
@@ -3917,6 +3930,19 @@
       "source": "Direct ATS"
     },
     {
+      "id": "gh-5473344008",
+      "title": "Manager, Enterprise Sales - Industries, ANZ",
+      "company": "Anthropic",
+      "logo": "\ud83e\udde0",
+      "location": "Sydney, Australia",
+      "category": "engineering",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5473344008",
+      "updatedAt": "2026-11-14T00:18:57-05:00",
+      "source": "Direct ATS"
+    },
+    {
       "id": "gh-5138289008",
       "title": "Manager, Enterprise Sales - MedTech",
       "company": "Anthropic",
@@ -3943,19 +3969,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5385634008",
-      "title": "Manager, Forward Deployed Engineering",
-      "company": "Anthropic",
-      "logo": "\ud83e\udde0",
-      "location": "London, UK",
-      "category": "fde",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5385634008",
-      "updatedAt": "2026-08-28T14:44:00-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5471721008",
       "title": "Manager, Forward Deployed Engineering",
       "company": "Anthropic",
@@ -3969,19 +3982,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5099753008",
-      "title": "Manager, Forward Deployed Engineering",
-      "company": "Anthropic",
-      "logo": "\ud83e\udde0",
-      "location": "New York City, NY",
-      "category": "fde",
-      "experienceLevel": "senior",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5099753008",
-      "updatedAt": "2026-08-31T15:59:18-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5442048008",
       "title": "Manager, Forward Deployed Engineering",
       "company": "Anthropic",
@@ -3992,6 +3992,32 @@
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5442048008",
       "updatedAt": "2026-11-03T16:54:03-05:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5385634008",
+      "title": "Manager, Forward Deployed Engineering",
+      "company": "Anthropic",
+      "logo": "\ud83e\udde0",
+      "location": "London, UK",
+      "category": "fde",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5385634008",
+      "updatedAt": "2026-08-28T14:44:00-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5099753008",
+      "title": "Manager, Forward Deployed Engineering",
+      "company": "Anthropic",
+      "logo": "\ud83e\udde0",
+      "location": "New York City, NY",
+      "category": "fde",
+      "experienceLevel": "senior",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5099753008",
+      "updatedAt": "2026-08-31T15:59:18-04:00",
       "source": "Direct ATS"
     },
     {
@@ -4632,19 +4658,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5456039008",
-      "title": "Principal Engineer Capacity/Compute",
-      "company": "Anthropic",
-      "logo": "\ud83e\udde0",
-      "location": "San Francisco, CA",
-      "category": "engineering",
-      "experienceLevel": "lead",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5456039008",
-      "updatedAt": "2026-10-18T20:49:07-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5456406008",
       "title": "Principal Engineer Capacity/Compute",
       "company": "Anthropic",
@@ -4668,6 +4681,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5456405008",
       "updatedAt": "2026-10-18T20:49:28-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5456039008",
+      "title": "Principal Engineer Capacity/Compute",
+      "company": "Anthropic",
+      "logo": "\ud83e\udde0",
+      "location": "San Francisco, CA",
+      "category": "engineering",
+      "experienceLevel": "lead",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5456039008",
+      "updatedAt": "2026-10-18T20:49:07-04:00",
       "source": "Direct ATS"
     },
     {
@@ -5204,16 +5230,16 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5460515008",
+      "id": "gh-5460521008",
       "title": "Regional Research Economist, Economic Research",
       "company": "Anthropic",
       "logo": "\ud83e\udde0",
-      "location": "Sydney, Australia",
+      "location": "Tokyo, Japan",
       "category": "engineering",
       "experienceLevel": "mid",
       "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5460515008",
-      "updatedAt": "2026-10-22T14:23:17-04:00",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5460521008",
+      "updatedAt": "2026-10-22T14:23:58-04:00",
       "source": "Direct ATS"
     },
     {
@@ -5227,6 +5253,32 @@
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5460519008",
       "updatedAt": "2026-10-22T14:23:39-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5460515008",
+      "title": "Regional Research Economist, Economic Research",
+      "company": "Anthropic",
+      "logo": "\ud83e\udde0",
+      "location": "Sydney, Australia",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5460515008",
+      "updatedAt": "2026-10-22T14:23:17-04:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5460524008",
+      "title": "Regional Research Economist, Economic Research",
+      "company": "Anthropic",
+      "logo": "\ud83e\udde0",
+      "location": "Bangalore, India",
+      "category": "engineering",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5460524008",
+      "updatedAt": "2026-11-02T12:13:03-05:00",
       "source": "Direct ATS"
     },
     {
@@ -5253,32 +5305,6 @@
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5231205008",
       "updatedAt": "2026-08-28T16:47:27-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-5460521008",
-      "title": "Regional Research Economist, Economic Research",
-      "company": "Anthropic",
-      "logo": "\ud83e\udde0",
-      "location": "Tokyo, Japan",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5460521008",
-      "updatedAt": "2026-10-22T14:23:58-04:00",
-      "source": "Direct ATS"
-    },
-    {
-      "id": "gh-5460524008",
-      "title": "Regional Research Economist, Economic Research",
-      "company": "Anthropic",
-      "logo": "\ud83e\udde0",
-      "location": "Bangalore, India",
-      "category": "engineering",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5460524008",
-      "updatedAt": "2026-11-02T12:13:03-05:00",
       "source": "Direct ATS"
     },
     {
@@ -8116,19 +8142,6 @@
       "source": "Direct ATS"
     },
     {
-      "id": "gh-5017903008",
-      "title": "Technical Deployment Lead",
-      "company": "Anthropic",
-      "logo": "\ud83e\udde0",
-      "location": "Boston, MA; New York City, NY; San Francisco, CA; Seattle, WA",
-      "category": "ai",
-      "experienceLevel": "mid",
-      "atsType": "greenhouse",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5017903008",
-      "updatedAt": "2026-10-13T19:38:22-04:00",
-      "source": "Direct ATS"
-    },
-    {
       "id": "gh-5467153008",
       "title": "Technical Deployment Lead",
       "company": "Anthropic",
@@ -8152,6 +8165,19 @@
       "atsType": "greenhouse",
       "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5467159008",
       "updatedAt": "2026-11-02T04:30:29-05:00",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "gh-5017903008",
+      "title": "Technical Deployment Lead",
+      "company": "Anthropic",
+      "logo": "\ud83e\udde0",
+      "location": "Boston, MA; New York City, NY; San Francisco, CA; Seattle, WA",
+      "category": "ai",
+      "experienceLevel": "mid",
+      "atsType": "greenhouse",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5017903008",
+      "updatedAt": "2026-10-13T19:38:22-04:00",
       "source": "Direct ATS"
     },
     {
@@ -31252,7 +31278,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/cloudflare/jobs/8179387?gh_jid=8179387",
-      "updatedAt": "2026-11-09T19:03:42-05:00",
+      "updatedAt": "2026-11-14T02:15:15-05:00",
       "source": "Direct ATS"
     },
     {
@@ -33956,7 +33982,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://boards.greenhouse.io/cloudflare/jobs/8169689?gh_jid=8169689",
-      "updatedAt": "2026-11-09T19:03:42-05:00",
+      "updatedAt": "2026-11-14T02:43:52-05:00",
       "source": "Direct ATS"
     },
     {
@@ -40911,7 +40937,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8258066?gh_jid=8258066",
-      "updatedAt": "2026-11-13T02:39:09-05:00",
+      "updatedAt": "2026-11-13T14:38:49-05:00",
       "source": "Direct ATS"
     },
     {
@@ -41171,7 +41197,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7901793?gh_jid=7901793",
-      "updatedAt": "2026-11-13T02:45:42-05:00",
+      "updatedAt": "2026-11-13T14:46:08-05:00",
       "source": "Direct ATS"
     },
     {
@@ -41275,7 +41301,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8304759?gh_jid=8304759",
-      "updatedAt": "2026-11-13T02:36:09-05:00",
+      "updatedAt": "2026-11-13T14:35:48-05:00",
       "source": "Direct ATS"
     },
     {
@@ -41392,7 +41418,7 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8047859?gh_jid=8047859",
-      "updatedAt": "2026-11-13T02:45:04-05:00",
+      "updatedAt": "2026-11-13T14:45:27-05:00",
       "source": "Direct ATS"
     },
     {
@@ -41457,7 +41483,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8047871?gh_jid=8047871",
-      "updatedAt": "2026-11-13T02:45:34-05:00",
+      "updatedAt": "2026-11-13T14:45:59-05:00",
       "source": "Direct ATS"
     },
     {
@@ -41925,7 +41951,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8221564?gh_jid=8221564",
-      "updatedAt": "2026-11-13T02:39:27-05:00",
+      "updatedAt": "2026-11-13T14:39:07-05:00",
       "source": "Direct ATS"
     },
     {
@@ -42081,7 +42107,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7744272?gh_jid=7744272",
-      "updatedAt": "2026-11-13T02:46:49-05:00",
+      "updatedAt": "2026-11-13T14:47:22-05:00",
       "source": "Direct ATS"
     },
     {
@@ -42419,7 +42445,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8278922?gh_jid=8278922",
-      "updatedAt": "2026-11-13T02:37:24-05:00",
+      "updatedAt": "2026-11-13T14:37:02-05:00",
       "source": "Direct ATS"
     },
     {
@@ -42497,7 +42523,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7977682?gh_jid=7977682",
-      "updatedAt": "2026-11-13T02:45:07-05:00",
+      "updatedAt": "2026-11-13T14:45:29-05:00",
       "source": "Direct ATS"
     },
     {
@@ -43394,7 +43420,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8223523?gh_jid=8223523",
-      "updatedAt": "2026-11-13T02:39:22-05:00",
+      "updatedAt": "2026-11-13T14:39:03-05:00",
       "source": "Direct ATS"
     },
     {
@@ -43784,7 +43810,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/7985997?gh_jid=7985997",
-      "updatedAt": "2026-11-13T02:46:02-05:00",
+      "updatedAt": "2026-11-13T14:46:32-05:00",
       "source": "Direct ATS"
     },
     {
@@ -44057,7 +44083,7 @@
       "experienceLevel": "mid",
       "atsType": "greenhouse",
       "applyUrl": "https://careers.roblox.com/jobs/8226958?gh_jid=8226958",
-      "updatedAt": "2026-11-13T02:39:15-05:00",
+      "updatedAt": "2026-11-13T14:38:56-05:00",
       "source": "Direct ATS"
     },
     {
@@ -102934,7 +102960,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://www.fivetran.com/careers/job?gh_jid=8204003003",
-      "updatedAt": "2026-11-13T16:53:15-05:00",
+      "updatedAt": "2026-11-14T03:00:38-05:00",
       "source": "Direct ATS"
     },
     {
@@ -102947,7 +102973,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://www.fivetran.com/careers/job?gh_jid=8204010003",
-      "updatedAt": "2026-11-13T16:57:14-05:00",
+      "updatedAt": "2026-11-14T03:00:38-05:00",
       "source": "Direct ATS"
     },
     {
@@ -102960,7 +102986,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://www.fivetran.com/careers/job?gh_jid=8203996003",
-      "updatedAt": "2026-11-13T16:50:54-05:00",
+      "updatedAt": "2026-11-14T03:00:38-05:00",
       "source": "Direct ATS"
     },
     {
@@ -102973,7 +102999,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://www.fivetran.com/careers/job?gh_jid=8203989003",
-      "updatedAt": "2026-11-13T16:41:36-05:00",
+      "updatedAt": "2026-11-14T03:00:38-05:00",
       "source": "Direct ATS"
     },
     {
@@ -102986,7 +103012,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://www.fivetran.com/careers/job?gh_jid=8203266003",
-      "updatedAt": "2026-11-13T16:39:14-05:00",
+      "updatedAt": "2026-11-14T03:00:38-05:00",
       "source": "Direct ATS"
     },
     {
@@ -102999,7 +103025,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://www.fivetran.com/careers/job?gh_jid=8204008003",
-      "updatedAt": "2026-11-13T16:56:34-05:00",
+      "updatedAt": "2026-11-14T03:00:38-05:00",
       "source": "Direct ATS"
     },
     {
@@ -103012,7 +103038,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://www.fivetran.com/careers/job?gh_jid=8204005003",
-      "updatedAt": "2026-11-13T16:54:15-05:00",
+      "updatedAt": "2026-11-14T03:00:38-05:00",
       "source": "Direct ATS"
     },
     {
@@ -103025,7 +103051,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://www.fivetran.com/careers/job?gh_jid=8204001003",
-      "updatedAt": "2026-11-13T16:52:28-05:00",
+      "updatedAt": "2026-11-14T03:00:38-05:00",
       "source": "Direct ATS"
     },
     {
@@ -103103,7 +103129,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://www.fivetran.com/careers/job?gh_jid=7818286003",
-      "updatedAt": "2026-10-30T08:50:34-04:00",
+      "updatedAt": "2026-11-14T03:00:22-05:00",
       "source": "Direct ATS"
     },
     {
@@ -103285,7 +103311,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://www.fivetran.com/careers/job?gh_jid=8007249003",
-      "updatedAt": "2026-10-30T08:55:16-04:00",
+      "updatedAt": "2026-11-14T03:00:31-05:00",
       "source": "Direct ATS"
     },
     {
@@ -103415,7 +103441,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://www.fivetran.com/careers/job?gh_jid=8017186003",
-      "updatedAt": "2026-11-11T10:34:39-05:00",
+      "updatedAt": "2026-11-14T03:00:29-05:00",
       "source": "Direct ATS"
     },
     {
@@ -103428,7 +103454,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://www.fivetran.com/careers/job?gh_jid=7980977003",
-      "updatedAt": "2026-11-11T10:34:39-05:00",
+      "updatedAt": "2026-11-14T03:00:28-05:00",
       "source": "Direct ATS"
     },
     {
@@ -103441,7 +103467,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://www.fivetran.com/careers/job?gh_jid=8003725003",
-      "updatedAt": "2026-11-11T10:34:39-05:00",
+      "updatedAt": "2026-11-14T03:00:28-05:00",
       "source": "Direct ATS"
     },
     {
@@ -103454,7 +103480,7 @@
       "experienceLevel": "senior",
       "atsType": "greenhouse",
       "applyUrl": "https://www.fivetran.com/careers/job?gh_jid=8003720003",
-      "updatedAt": "2026-11-11T10:34:39-05:00",
+      "updatedAt": "2026-11-14T03:00:28-05:00",
       "source": "Direct ATS"
     },
     {
@@ -103766,7 +103792,7 @@
       "experienceLevel": "lead",
       "atsType": "greenhouse",
       "applyUrl": "https://www.fivetran.com/careers/job?gh_jid=8034257003",
-      "updatedAt": "2026-11-11T10:35:04-05:00",
+      "updatedAt": "2026-11-14T03:00:34-05:00",
       "source": "Direct ATS"
     },
     {
@@ -108278,6 +108304,32 @@
       "atsType": "lever",
       "applyUrl": "https://jobs.lever.co/spotify/b4f6cd01-1d5d-41a9-b287-6d10416da03c",
       "updatedAt": "2026-10-22T11:28:34.701000",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "lev-1bbaf909-5ff3-4ed6-87ca-f7ff007a169c",
+      "title": "Data Scientist - Music Mission",
+      "company": "Spotify",
+      "logo": "\ud83d\udfe2",
+      "location": "New York, NY",
+      "category": "data",
+      "experienceLevel": "mid",
+      "atsType": "lever",
+      "applyUrl": "https://jobs.lever.co/spotify/1bbaf909-5ff3-4ed6-87ca-f7ff007a169c",
+      "updatedAt": "2026-06-22T17:14:00.858000",
+      "source": "Direct ATS"
+    },
+    {
+      "id": "lev-56ea6f2e-f20b-4e46-ab94-d3eb0a89482d",
+      "title": "Data Scientist - Music Promotion",
+      "company": "Spotify",
+      "logo": "\ud83d\udfe2",
+      "location": "New York, NY",
+      "category": "data",
+      "experienceLevel": "mid",
+      "atsType": "lever",
+      "applyUrl": "https://jobs.lever.co/spotify/56ea6f2e-f20b-4e46-ab94-d3eb0a89482d",
+      "updatedAt": "2026-09-10T13:13:31.096000",
       "source": "Direct ATS"
     },
     {
